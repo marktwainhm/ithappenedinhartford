@@ -5,23 +5,6 @@
         <div class="col-md-7  px-4 mt-2">
 
             <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h2>
-            <p class="text-white"><small>{{ site.description }}</small></p>
-            <nav>
-                <ul id="footer-nav" class="nav nav-pills ">
-                    {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
-                    {% for nav in navItems %}
-                    <li class="nav-item">
-                    {% if nav.stub %}
-                        <a class="nav-link text-light{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
-                    {%- else -%}
-                    {% assign childStub = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' | first %}
-                        <a class="nav-link text-light{% if page.url == childStub.stub %} active{% endif %}" href="{{ childStub.stub | relative_url }}">{{ nav.display_name }}</a>
-                    {% endif %}
-                    </li>
-                    {%- endfor -%}
-                </ul>
-            </nav>
-
         </div>
 
         <div class="col-md-5 mt-2 text-end">
@@ -46,6 +29,12 @@
 
     <div class="col-md-12 text-center pt-3 pb-1">
         <p class="text-white">Last updated {{ site.time | date: '%Y' }}</p>
+        <hr class="d-none d-sm-block">
+        <p class="pl-3">
+            <a class="social-icon" href="{{ site.facebook }}" title="Facebook Link" target="_blank" rel="noopener"><span class="social-icon-footer">{% include social-icon.html icon="Facebook" %}</span><span class="sr-only"></span></a>
+            <a class="social-icon" href="{{ site.twitter }}" title="Twitter Link" target="_blank" rel="noopener"><span class="social-icon-footer">{% include social-icon.html icon="Twitter" %}</span><span class="sr-only"></span></a>
+            <a class="social-icon" href="{{ site.instagram }}" title="Instagram Link" target="_blank" rel="noopener"><span class="social-icon-footer">{% include social-icon.html icon="Instagram" %}</span><span class="sr-only"></span></a>
+    </p>
     </div>
 
 </footer>

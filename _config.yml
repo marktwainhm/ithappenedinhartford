@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Twain's World
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A house with a heart and a soul
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Mark Twain House & Museum has restored the author’s Hartford, Connecticut, home, where the author and his family lived from 1874 to 1891. Twain wrote his most important works during the years he lived there, including Adventures of Huckleberry Finn, The Adventures of Tom Sawyer, and A Connecticut Yankee in King Arthur’s Court. In addition to providing tours of Twain’s restored home, a National Historic Landmark, the institution offers activities and educational programs that illuminate Twain’s literary legacy and provide information about his life and times."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Mark Twain House & Museum
 
 ##########
 # COLLECTION SETTINGS
@@ -35,16 +35,22 @@ author: CollectionBuilder
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: demo-metadata
+collections:
+  towns:
+    output: true
+    permalink: /:collection/:title
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+organization-name: "The Mark Twain House and Museum"
+organization-link: https://marktwainhouse.org/
+organization-logo-banner: https://marktwainhouse.org/wp-content/themes/jb-marktwain-2017/images/MarkTwainLogo.svg
+organization-logo-nav: https://marktwainhouse.org/wp-content/themes/jb-marktwain-2017/images/MarkTwainLogo.svg
+facebook: https://www.facebook.com/MarkTwainHouse/
+instagram: https://www.instagram.com/themarktwainhouse/
+twitter: https://twitter.com/twainhouse
 
 
 ##########
@@ -53,9 +59,9 @@ metadata: demo-metadata
 # leave these blank or comment out to NOT include google code. See docs/google.md
 #
 # Add your google-analytics-id to automatically add the embed code, e.g. "G-123XXXXXX"
-# google-analytics-id:
+google-analytics-id: G-BGV7FJKC4F
 # to populate a Google CSE add the id, e.g. "002151703305773322890:1pu3smhw1t8"
-# google-cse-id: 
+google-cse-id: 86326084b22364fbe
 
 ##########
 # ROBOTS EXCLUDE
