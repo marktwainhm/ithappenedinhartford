@@ -1,9 +1,8 @@
 ---
 title: It Happened Here in Your Town
 layout: about
-permalink: /yourtown.html
+permalink: /education.html
 ---
-
 
 Education Program Page! 
 

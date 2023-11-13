@@ -2,6 +2,7 @@
 {% assign cb_icons = site.pages | where: "name","cb-icons.svg" | first %}
 {% assign icons = cb_icons.icons %}{%- endif -%}
 {%- assign fields = site.data.config-metadata -%}
+{%- assign towns = site.towns | map: "location" -%}
 {%- assign stubs = site.data.config-nav | map: 'stub' | join: ';' -%}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item', 'item.parentid == null' -%}
 {%- assign child_items = site.data[site.metadata] | where_exp: 'item','item.parentid' -%}
@@ -134,6 +135,20 @@
             var mapButton = '<a href="{{ '/map.html' | relative_url }}?location=' + item.latitude + ',' + item.longitude + '&marker=' + itemMarker +'" class="btn btn-outline-primary">View on Map</a>';
             if (item.latitude && item.longitude) {
                 /* add map link to children only if specified in theme.yml */
+                {% if site.data.theme.map-child-objects == true %}
+                    itemLink += mapButton;
+                {% else %}
+                    if (item === record) { itemLink += mapButton; }
+                {% endif %}
+            }
+            {%- endif -%}
+            {% if stubs contains "education" %}
+            /* add link to view town essay */
+            var itemLocation = item.location.toLowerCase();
+            var itemMarker = item.id ? item.id : itemPageId;
+            var mapButton = '<a href="{{ '/towns/' | relative_url }}' + itemLocation +'" class="btn btn-outline-primary">View Related Essay</a>';
+            if (item.location) {
+                /* add education link to children only if specified in theme.yml */
                 {% if site.data.theme.map-child-objects == true %}
                     itemLink += mapButton;
                 {% else %}

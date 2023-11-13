@@ -2,6 +2,7 @@
 layout: town-infographic
 title: Sample Town
 permalink: towns/town-sample
+location: moscow
 author: Emily Esten
 ---
 
