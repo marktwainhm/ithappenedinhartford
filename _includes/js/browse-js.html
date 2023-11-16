@@ -6,6 +6,9 @@
 {% else %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item','item.parentid == nil' -%}
 {% endif %}
+{% if page.location %}
+{%- assign items = items | where_exp: 'item', 'item.location == page.location' -%}
+{% endif %}
 {%- assign fields = site.data.config-browse -%}
 <script>
 

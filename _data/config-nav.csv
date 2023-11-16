@@ -1,10 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/
-Exhibition,/hartford.html
-Education,/education.html
+Exhibition,/towns/hartford.html
+It Happened In Your Town,/education.html
 Biographies,/biographies.html
-Browse,/browse.html
+Browse,/towns/hartford/browse.html
+Map,/towns/hartford/map.html,
+Timeline,/towns/hartford/timeline.html
 Subjects,/subjects.html
-Map,/map.html
-Timeline,/timeline.html
-Get Involved,/about.html
+Get Involved,/getinvolved.html
+Acknowledgments,/about.html

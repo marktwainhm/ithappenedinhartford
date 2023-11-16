@@ -4,6 +4,9 @@ layout: page
 ---
 
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.location contains page.location' -%}
+{% if page.location %}
+{%- assign items = items | where_exp: 'item', 'item.location == page.location' -%}
+{% endif %}
 <div class="row">
   <div class="col-md-8">
     <div>

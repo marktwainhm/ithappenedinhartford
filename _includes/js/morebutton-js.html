@@ -1,0 +1,42 @@
+<script>
+       
+
+var conversations = [{% for conversation in site.data.conversation-filters %}{%if forloop.last%}"{{conversation.tag}}"{%else%}"{{conversation.tag}}",{%endif%}{%endfor%}]
+/**
+ * Randomize array element order in-place.
+ * Using Durstenfeld shuffle algorithm.
+ */
+ function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+}
+
+$(document).ready(function(){
+    shuffleArray(conversations);
+    console.log(conversations.length);
+    var div = document.createElement('div');
+    div.innerHTML = document.getElementById([conversations[0]]).innerHTML;
+    document.getElementById('convo-1').appendChild(div);
+    AOS.init();
+});
+var clicks = 0;
+$("#more").click(function(){
+    clicks += 1; 
+    console.log(clicks);
+    var div1 = document.createElement('div');
+    div1.innerHTML = document.getElementById(conversations[clicks]).innerHTML;
+    document.getElementById('convo-' + clicks).appendChild(div1);
+    AOS.init();     
+    if (conversations.length - 1 <= clicks){
+        $("#more").hide();
+    }        
+});
+
+
+          
+        
+</script>

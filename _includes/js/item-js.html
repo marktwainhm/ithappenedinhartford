@@ -5,6 +5,9 @@
 {%- assign towns = site.towns | map: "location" -%}
 {%- assign stubs = site.data.config-nav | map: 'stub' | join: ';' -%}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item', 'item.parentid == null' -%}
+{% if page.location %}
+{%- assign items = items | where_exp: 'item', 'item.location == page.location' -%}
+{% endif %}
 {%- assign child_items = site.data[site.metadata] | where_exp: 'item','item.parentid' -%}
 <script>
 (function(){
@@ -56,7 +59,7 @@
         var itemDisplay, itemDownload;
         function addItem(item) {
             if (item.format.includes('image')) {
-                itemDisplay = '<a class="spotlight gallery-img" data-download="true" href="' + item.filename + '"><img class="img-fluid" src="' + item.filename + '" alt="' + item.title + '">';
+                itemDisplay = '<a class="spotlight gallery-img" data-download="true" href="' + item.filename + '"><img class="img-fluid" src="' + item.filename + '" alt="' + item.alt_text + '">';
                 itemDisplay += record.format.includes('multiple') ? '</a>' : '<div><small class="text-dark">Click to view full screen</small></div></a>';
                 itemDownload = '<a href="' + item.filename + '" target="_blank" rel="noopener" class="btn btn-outline-primary" title="Object download">Download ' + item.format.split("/").pop().toUpperCase() + '</a>';
             } else if (item.format.includes('pdf')) {

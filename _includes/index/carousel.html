@@ -27,6 +27,10 @@
 {%- assign carousel-items = carousel-items | where_exp: 'item','item.parentid == nil' -%}
 {% endif %}
 
+{% if page.location %}
+{%- assign carousel-items = carousel-items | where_exp: 'item', 'item.location == page.location' -%}
+{% endif %}
+
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}

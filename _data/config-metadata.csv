@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
+location,Associated Locations,true
+subject,Related Subjects,true
+people,Related People,true
+exhibition_label,Label,
+description,Description,
 creator,Creator,
 date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location,true
-latitude,Latitude
-longitude,Longitude
+object_id,Object ID,
+obj_type,Object Type
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
 rights,Rights,
+reference_url,View on Connecticut Collections,,true
 rightsstatement,Rights Statement,,true

@@ -36,6 +36,10 @@
 {% else %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.parentid == nil' | where_exp: 'item','item.objectid' -%}
 {% endif %}
+{% if page.location %}
+{%- assign items = items | where_exp: 'item', 'item.location == page.location' -%}
+{% endif %}
+
 {% assign rawTerms = items | map: termsField | join: ";" | split: ";" %}
 {% capture terms %}{% for t in rawTerms %}{% if t != "" and t != " " %}{{ t | strip | downcase }};{% endif %}{% endfor %}{% endcapture %}
 {% assign terms = terms | split: ";" %}
