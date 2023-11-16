@@ -5,6 +5,9 @@
 {% else %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item','item.parentid == nil' -%}
 {% endif %}
+{% if page.location %}
+{%- assign items = items | where_exp: 'item','item.location == page.location' -%}
+{% endif %}
 
 {% comment %} Capture all cloud terms {% endcomment %} 
 {%- assign raw-terms = "" -%}
@@ -12,7 +15,7 @@
 {% assign new = items | map: c | compact | join: ";" %}
 {% assign raw-terms = raw-terms | append: ";" | append: new %}
 {%- endfor -%}
-{%- assign raw-terms = raw-terms | downcase | split: ";" -%}
+{%- assign raw-terms = raw-terms | split: ";" -%}
 
 {% comment %} Clean up raw terms {% endcomment %} 
 {%- capture terms -%}{%- for t in raw-terms -%}{%- if t != "" and t != " " -%}{{ t | strip }};{%- endif -%}{%- endfor -%}{%- endcapture -%}

@@ -3,7 +3,7 @@ layout: town-infographic
 title: Spokane
 permalink: towns/spokane
 location: Spokane
-author: Emily Esten
+author: Alexander Hamilton
 ---
 
 Here is the essay about your sample town. 

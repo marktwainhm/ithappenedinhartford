@@ -1,11 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/
-Exhibition,/towns/hartford.html
-It Happened In Your Town,/education.html
-Biographies,/biographies.html
-Browse,/towns/hartford/browse.html
-Map,/towns/hartford/map.html,
-Timeline,/towns/hartford/timeline.html
-Subjects,/subjects.html
-Get Involved,/getinvolved.html
-Acknowledgments,/about.html
+It Happened In Hartford,,
+Exhibition,/towns/hartford.html,It Happened In Hartford
+Browse,/towns/hartford/browse.html,It Happened In Hartford
+Map,/towns/hartford/map.html,It Happened In Hartford
+Timeline,/towns/hartford/timeline.html,It Happened In Hartford
+Subjects,/towns/hartford/subjects.html,It Happened In Hartford
+Biographies,/biographies.html,It Happened In Hartford
+It Happened In Your Town,,
+View Participating Towns,/education.html,It Happened In Your Town
+Get Involved,/getinvolved.html,It Happened In Your Town

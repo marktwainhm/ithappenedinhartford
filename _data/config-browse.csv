@@ -2,3 +2,11 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 subject,,true
 location,,true
+creator,,false,true
+description,,false,true
+people,,false,true
+source,,false,true
+type,,false,true
+alt_text,,false,true
+exhibition_label,,false,true
+obj_type,,false,true

@@ -16,6 +16,5 @@ credits: true
 
 ## Credits
 
-
-# Links to Elsewhere
-https://ctcollections.org/index.php/Detail/entities/5354
+# Acknowledgements
+Thank you to --insert sponsors here--. This site was created by [Emily Esten](emilyesten.com)

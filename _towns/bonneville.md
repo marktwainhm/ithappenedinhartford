@@ -1,11 +1,10 @@
 ---
 layout: town-infographic
 title: Bonneville
-permalink: towns/ashland
+permalink: towns/bonneville
 location: Bonneville
 author: Erin Bartram
 ---
-{%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.location contains "Philadelphia"' -%}
 
 Here is the essay about your sample town. 
 

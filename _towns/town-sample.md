@@ -3,7 +3,7 @@ layout: town-infographic
 title: Sample Town
 permalink: towns/town-sample
 location: moscow
-author: Emily Esten
+author: Mark Twain
 ---
 
 Here is the essay about your sample town. 

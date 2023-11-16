@@ -3,9 +3,8 @@ layout: town-infographic
 title: Bonner County
 permalink: towns/bonner-county
 location: Bonner County
-author: Emily Esten
+author: Jodi DeBruyne
 ---
-{%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.location contains "Philadelphia"' -%}
 
 Here is the essay about your sample town. 
 
