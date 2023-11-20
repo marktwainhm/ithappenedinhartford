@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-layout: about
+layout: new-home
 permalink: /getinvolved.html
 # include CollectionBuilder info at bottom
 credits: false
@@ -28,4 +28,6 @@ The project will officially begin in late 2023 and run through the end of 2024; 
 
 If you’re looking for a place to get started, try one of the Connecticut newspapers that has digitized copies from 1874: the [Connecticut *Western News*](https://chroniclingamerica.loc.gov/lccn/sn84027718/issues/1874/), the [Hartford *Courant*](https://researchitct.org/newspapers/), the [Litchfield *Enquirer*](https://chroniclingamerica.loc.gov/lccn/sn84020071/), the [New Milford *Journal*](https://collections.ctdigitalarchive.org/islandora/object/30002%3A22175119), the [Norwalk *Gazette*](https://collections.ctdigitalarchive.org/islandora/object/450002%3A37), the [Plainville *News*](https://collections.ctdigitalarchive.org/islandora/object/30002%3A21742069), and the [South Norwalk *Sentinel*](https://collections.ctdigitalarchive.org/islandora/object/450002%3Ao10383360).
 
+<div>
 <iframe src=https://docs.google.com/forms/d/e/1FAIpQLSePI5qeEHupfSPCzEqSRFH5fAeJmh1XPTkCQXopb8CCjOp4XQ/viewform?embedded=true width="640" height="1384" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
