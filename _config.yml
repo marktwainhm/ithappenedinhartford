@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Twain's World
+title: TEST SITE CHANGES
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A house with a heart and a soul
 # description appears in meta tags and other locations
@@ -37,6 +37,9 @@ author: Mark Twain House & Museum
 metadata: demo-mthm-metadata
 collections:
   towns:
+    output: true
+    permalink: /:collection/:title
+  exhibits:
     output: true
     permalink: /:collection/:title
 
