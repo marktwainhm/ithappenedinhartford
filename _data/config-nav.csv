@@ -1,11 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
 Explore,,
-Exhibition,/towns/hartford.html,Explore
-Browse,/towns/hartford/browse.html,Explore
-Map,/towns/hartford/map.html,Explore
-Timeline,/towns/hartford/timeline.html,Explore
-Subjects,/towns/hartford/subjects.html,Explore
+Browse,/browse.html,Explore
+Map,/map.html,Explore
+Timeline,/timeline.html,Explore
+Subjects,/subjects.html,Explore
 Biographies,/biographies.html,Explore
 Other Resources,/resources.html,Explore
 It Happened In Your Town,,

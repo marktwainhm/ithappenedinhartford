@@ -14,7 +14,7 @@
     /* add item data */
     var cb_items = [ 
         {%- for item in items -%}
-        { "objectid": {{ item.objectid | jsonify }}, {% unless fields contains 'title' %}"title": {{ item.title | jsonify }}, {% endunless %}{% for f in fields %}{% if item[f.field] %}{{ f.field | jsonify }}: {{ item[f.field] | jsonify }}, {% endif %}{% endfor %}{% if item.exhibition_label %}"label": {{ item.exhibition_label | jsonify }}, {% endif %}{% if item.exhibition_label %}"creator": {{ item.creator | jsonify }}, {% endif %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }}, {% endif %}{% if item.vimeoid %} "vimeo": {{ item.vimeoid | jsonify }}, {% endif %}"format": {{ item.format | jsonify }}, "filename": {% if item.filename %}{% if item.filename contains '/' %}"{{ item.filename }}"{% else %}"{{ '/objects/' | relative_url }}{{ item.filename }}"{% endif %}{% else %}""{% endif %} }{% unless forloop.last %}, {% endunless %}
+        { "objectid": {{ item.objectid | jsonify }}, {% unless fields contains 'title' %}"title": {{ item.title | jsonify }}, {% endunless %}{% for f in fields %}{% if item[f.field] %}{{ f.field | jsonify }}: {{ item[f.field] | jsonify }}, {% endif %}{% endfor %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }}, {% endif %}{% if item.vimeoid %} "vimeo": {{ item.vimeoid | jsonify }}, {% endif %}"format": {{ item.format | jsonify }}, "filename": {% if item.filename %}{% if item.filename contains '/' %}"{{ item.filename }}"{% else %}"{{ '/objects/' | relative_url }}{{ item.filename }}"{% endif %}{% else %}""{% endif %} }{% unless forloop.last %}, {% endunless %}
         {% endfor %}
     ];
     var children = { {%- assign parents = child_items | map: 'parentid' | compact | uniq -%}
@@ -34,14 +34,10 @@
 
         /* add item title */
         var objectTitle = record.title;
-        document.getElementById("bc-title").innerHTML = objectTitle;
-
-        /* add important metadata */
-        var objectTitle = record.title;
-        var objectMaker = record.creator;
-        var objectYear = record.date;
+        var objectMaker = record.maker;
+        var objectYear = record.year;
         var objectLabel = record.label;
-        document.getElementById("objectTitle").innerHTML = objectTitle;
+        document.getElementById("bc-title").innerHTML = objectTitle;
         document.getElementById("objectMaker").innerHTML = objectMaker;
         document.getElementById("objectYear").innerHTML = objectYear;
         document.getElementById("objectLabel").innerHTML = objectLabel;
@@ -159,13 +155,13 @@
             /* add link to view town essay */
             var itemLocation = item.location.toLowerCase();
             var itemMarker = item.id ? item.id : itemPageId;
-            var eduButton = '<a href="{{ '/towns/' | relative_url }}' + itemLocation +'" class="btn btn-outline-primary">View Related Essay</a>';
+            var mapButton = '<a href="{{ '/towns/' | relative_url }}' + itemLocation +'" class="btn btn-outline-primary">View Related Essay</a>';
             if (item.location) {
                 /* add education link to children only if specified in theme.yml */
                 {% if site.data.theme.map-child-objects == true %}
-                    itemLink += eduButton;
+                    itemLink += mapButton;
                 {% else %}
-                    if (item === record) { itemLink += eduButton; }
+                    if (item === record) { itemLink += mapButton; }
                 {% endif %}
             }
             {%- endif -%}
