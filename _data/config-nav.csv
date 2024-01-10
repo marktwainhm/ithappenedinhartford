@@ -1,12 +1,22 @@
 display_name,stub,dropdown_parent
 Home,/
-It Happened In Hartford,,
-Exhibition,/towns/hartford.html,It Happened In Hartford
-Browse,/towns/hartford/browse.html,It Happened In Hartford
-Map,/towns/hartford/map.html,It Happened In Hartford
-Timeline,/towns/hartford/timeline.html,It Happened In Hartford
-Subjects,/towns/hartford/subjects.html,It Happened In Hartford
-Biographies,/biographies.html,It Happened In Hartford
+Explore,,
+Browse,/browse.html,Explore
+Map,/map.html,Explore
+Timeline,/timeline.html,Explore
+Subjects,/subjects.html,Explore
+Biographies,/biographies.html,Explore
+Tree Map, /treemap.html,Explore
+Other Resources,/resources.html,Explore
 It Happened In Your Town,,
 View Participating Towns,/education.html,It Happened In Your Town
 Get Involved,/getinvolved.html,It Happened In Your Town
+It Happened In Hartford,,
+The Loveliest Home,/exhibits/the-loveliest-home.html,It Happened In Hartford
+Clemens Family,/exhibits/clemens-family.html, It Happened In Hartford
+Hartfordites,/exhibits/hartfordites.html,It Happened In Hartford
+Transition Era,/exhibits/transition-era.html,It Happened In Hartford
+Museum Era,/exhibits/museum-era.html,It Happened In Hartford
+Your Twainiac Story,/exhibits/your-twainiac-story.html,It Happened In Hartford
+Scavenger Hunts,/exhibits/scavenger-hunts.html,It Happened In Hartford
+About MTH&M,/about-house-and-museum.html,

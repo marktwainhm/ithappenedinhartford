@@ -8,7 +8,7 @@ layout: page
     <div>
     <h2>{{ page.title }}</h2>
     <h3>{{ page.author }}</h3>
-    {% include index/carousel.html title="Related Items" height="300" %}
+    {% include index/carousel.html title="Town Items" height="300" %}
   </div>
       <div>{{ content }}</div>
   </div>
@@ -17,6 +17,8 @@ layout: page
     {% include index/time.html %}
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
+
+    {% include index/objects.html %}
 
   </div>
 </div>

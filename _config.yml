@@ -39,6 +39,9 @@ collections:
   towns:
     output: true
     permalink: /:collection/:title
+  exhibits:
+    output: true
+    permalink: /:collection/:title
 
 ##########
 # Site/Organization Branding 

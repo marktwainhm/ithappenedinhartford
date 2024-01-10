@@ -1,5 +1,5 @@
 ---
-title: Map of All Items
+title: Map
 layout: map
 permalink: /map.html
 # see _data/config-map.csv for display options
