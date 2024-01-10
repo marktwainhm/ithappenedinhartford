@@ -1,6 +1,7 @@
 ---
 # JS based item page for CB-GH
 layout: default
+note: item
 custom-foot: js/item-js.html;js/modal-hash-js.html
 gallery: true
 ---
@@ -41,20 +42,15 @@ gallery: true
             </div>
         </div> 
         <div class="col-md-6">
-            <div id="on-display">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="" alt="Default Image for On Display">
-                    <h5 class="card-header">On Display</h5>
-                    <div class="card-body"></div>
-                        <div class="card-text">This item is on display at the <a href="">Institution"</a></div>
-                    </div>
+            <div id="widget-boxes">
+                <div id="on-display" class="card mb-3">
                 </div>
+                <style>
+                    #imageCarousel .carousel-item { height: 300px; }
+                </style>
                 <div id="related-objects" class="card mb-3">
-                    <img class="card-img-top" src="" alt="Default Image for On Display">
-                    <h5 class="card-header">On Display</h5>
-                    <div class="card-body"></div>
-                        <div class="card-text">This item is on display at the <a href="">Institution"</a></div>
-                    </div>
+                    {% include index/carousel.html title="Related Items" height=450 %}
+                    </div>    
                 </div>
             </div>
         </div> 

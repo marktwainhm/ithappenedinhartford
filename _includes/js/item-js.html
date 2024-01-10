@@ -9,12 +9,15 @@
 {%- assign items = items | where_exp: 'item', 'item.location == page.location' -%}
 {% endif %}
 {%- assign child_items = site.data[site.metadata] | where_exp: 'item','item.parentid' -%}
+{%- assign image-items = items | where_exp: 'item', 'item.objectid' | where_exp: "item","item.format contains 'image'" -%}
+{%- assign youtube-items = items | where_exp: 'item', 'item.objectid' | where_exp: "item","item.youtubeid" -%}
+{%- if youtube-items -%}{%- assign carousel-items = image-items | concat: youtube-items -%}{%- else -%}{%- assign carousel-items = image-items -%}{% endif %}
 <script>
 (function(){
     /* add item data */
     var cb_items = [ 
         {%- for item in items -%}
-        { "objectid": {{ item.objectid | jsonify }}, {% unless fields contains 'title' %}"title": {{ item.title | jsonify }}, {% endunless %}{% for f in fields %}{% if item[f.field] %}{{ f.field | jsonify }}: {{ item[f.field] | jsonify }}, {% endif %}{% endfor %}{% if item.exhibition_label %}"label": {{ item.exhibition_label | jsonify }}, {% endif %}{% if item.exhibition_label %}"creator": {{ item.creator | jsonify }}, {% endif %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }}, {% endif %}{% if item.vimeoid %} "vimeo": {{ item.vimeoid | jsonify }}, {% endif %}"format": {{ item.format | jsonify }}, "filename": {% if item.filename %}{% if item.filename contains '/' %}"{{ item.filename }}"{% else %}"{{ '/objects/' | relative_url }}{{ item.filename }}"{% endif %}{% else %}""{% endif %} }{% unless forloop.last %}, {% endunless %}
+        { "objectid": {{ item.objectid | jsonify }}, {% unless fields contains 'title' %}"title": {{ item.title | jsonify }}, {% endunless %}{% for f in fields %}{% if item[f.field] %}{{ f.field | jsonify }}: {{ item[f.field] | jsonify }}, {% endif %}{% endfor %}{% if item.exhibition_label %}"label": {{ item.exhibition_label | jsonify }}, {% endif %}{% if item.ondisplay %}"display": {{ item.ondisplay | jsonify }}, {% endif %}{% if item.creator %}"creator": {{ item.creator | jsonify }}, {% endif %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }}, {% endif %}{% if item.vimeoid %} "vimeo": {{ item.vimeoid | jsonify }}, {% endif %}"format": {{ item.format | jsonify }}, "filename": {% if item.filename %}{% if item.filename contains '/' %}"{{ item.filename }}"{% else %}"{{ '/objects/' | relative_url }}{{ item.filename }}"{% endif %}{% else %}""{% endif %} }{% unless forloop.last %}, {% endunless %}
         {% endfor %}
     ];
     var children = { {%- assign parents = child_items | map: 'parentid' | compact | uniq -%}
@@ -46,6 +49,15 @@
         document.getElementById("objectYear").innerHTML = objectYear;
         document.getElementById("objectLabel").innerHTML = objectLabel;
 
+        /* add the ondisplay box */
+        var itemDisplay;
+        if (record.display.includes("TRUE")) {
+            itemDisplay = '<h5 class="card-header">On Display</h5><div class="card-body"></div><div class="card-text"> This item is on display at its home institution.</div></div>';
+        } else {
+            itemDisplay = '<h5 class="card-header">Not On Display</h5><div class="card-body"></div><div class="card-text"> This item is not on display at its home institution.</div></div>';
+        }
+        document.getElementById("on-display").innerHTML = itemDisplay;
+
         /* get item format for item title */
         var itemFormat;
         if (compoundObject) {
@@ -59,7 +71,7 @@
         }
         document.getElementById("item-format").innerHTML = itemFormat;
         document.getElementById("item-title").innerHTML = record.format.includes('record') ? objectTitle : objectTitle + '<a href="#item-metadata" class="ms-5 btn btn-sm btn-outline-dark small">Item Info <svg class="bi icon-sprite" role="img" aria-label="Jump to Item Info"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#arrow-down"/></svg></a>';
-        
+
         /* add object */ 
         var format = "" + record.format;
         var objectLink = record.filename;
