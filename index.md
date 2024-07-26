@@ -10,3 +10,5 @@ Located in the Nook Farm neighborhood of Hartford, Connecticut, The Mark Twain H
 <a href="{{ '/towns/hartford.html' | relative_url }}" class="btn btn-outline-primary">It Happened Here in Hartford</a><a href="{{ '/education.html' | relative_url }}" class="btn btn-outline-primary">It Happened In Your Town</a>
 
 add logos here (logos link to?)
+
+The *It Happened In Hartford: 150 Years of the Mark Twain House* exhibition is proudly sponsored by <img> and supported by the Bushnell Conservancy and the City of Hartford Forestry Department. 

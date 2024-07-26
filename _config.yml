@@ -20,12 +20,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Twain's World
+title: It Happened in Hartford
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A house with a heart and a soul
+tagline: 150 Years of the Mark Twain House 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Mark Twain House & Museum has restored the author’s Hartford, Connecticut, home, where the author and his family lived from 1874 to 1891. Twain wrote his most important works during the years he lived there, including Adventures of Huckleberry Finn, The Adventures of Tom Sawyer, and A Connecticut Yankee in King Arthur’s Court. In addition to providing tours of Twain’s restored home, a National Historic Landmark, the institution offers activities and educational programs that illuminate Twain’s literary legacy and provide information about his life and times."
+description: "September 2024 marks the 150th anniversary of the arrival of the Clemens family in their newly
+constructed Hartford home….."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Mark Twain House & Museum
 
