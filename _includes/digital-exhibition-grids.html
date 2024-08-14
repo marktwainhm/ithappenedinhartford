@@ -1,0 +1,13 @@
+<div class="posts clearfix">
+  {% for post in site.pages.it-happened-in-hartford.digital-exhibition.{{page.parent-folder }} %}
+    <article class="post">    
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+      	<p>{{ post.content | truncatewords:40}}</p>
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+https://github.com/femmebot/jekyll-grid/blob/master/index.html
