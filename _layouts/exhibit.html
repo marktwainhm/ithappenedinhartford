@@ -4,3 +4,14 @@ layout: page
 <div class="container my-4">
     {{ content }}
 </div>
+
+    <div id="item-nav">
+        <div class="d-none d-md-block">
+            {%- if page.title == "The House That Olivia Built" -%}
+            <a href="{{ page.previous | relative_url }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            {%- else -%}
+            <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            {% endif %}
+            <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+        </div>
+    </div>

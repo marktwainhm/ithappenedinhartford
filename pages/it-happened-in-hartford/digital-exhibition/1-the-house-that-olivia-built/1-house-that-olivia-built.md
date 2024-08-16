@@ -1,6 +1,6 @@
 ---
 title: The House That Olivia Built
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-house-that-olivia-built.html
 # include CollectionBuilder info at bottom
 credits: false
