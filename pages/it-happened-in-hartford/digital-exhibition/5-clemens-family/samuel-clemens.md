@@ -1,5 +1,5 @@
 ---
-title: Samuel Clemens
+title: "A Life Lived in a Rapidly Changing World: Samuel L. Clemens‚ 1835-1910"
 layout: about
 permalink: /digital-exhibition/clemens-family/samuel-clemens.html
 # include CollectionBuilder info at bottom
@@ -11,7 +11,7 @@ landing-page: clemens-family
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## A Life Lived in a Rapidly Changing World: Samuel L. Clemens‚ 1835-1910
+{% include feature/image.html objectid="SLC-Alone-1871-75--8" width="75" %}
 
 Samuel Clemens (1835-1910), creator of the persona of Mark Twain, lived through the rapid changes of full-scale 19th century American industrialization, nationalism (and Civil War), westward expansion and eminent domain over indigenous lands, imperialism, as well as the social and economic changes that accompanied these massive shifts during America’s Gilded Age. In all of this, Clemens was a sharp observer of the people and cultures around him, albeit through the lens of a white man who grew up during legalized slavery.  
  

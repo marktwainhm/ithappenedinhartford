@@ -1,7 +1,7 @@
 ---
 title: Tree Map
 layout: tree
-permalink: /treemap.html
+permalink: /tree.html
 ---
 
 ## Tree Map

@@ -12,7 +12,8 @@ landing-page: clemens-family
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-### GRID– Olivia Susan Clemens
+{% include feature/image.html objectid="Childrens-Photos-Susy-1872-1880--7" width="75" %}
+
 Olivia Susan Clemens, called “Susy” by her family, was the second child and the oldest of three daughters. Born March 19, 1872, Susy was a baby when Langdon died, and after his death both parents doted on Susy. Their close attachment to her remained significant throughout her youth and young adulthood. She was a precocious child, and Clemens wrote that even as a small child she had big thoughts. Clemens and Olivia kept a record of many of the startling and humorous comments made by Susy and her younger sister‚ Clara in a document called “The Children’s’ Record: A Record of the Small foolishnesses of Susie and ‘Bay’ Clemens August 1876 – 1885”. Samuel records Susy’s comments about prayer, and about good and bad behavior. Susy grew to love writing, theater and music.
 
 As a teenager Susy was prone to bouts of depression and other illness, which limited some of her activities. When she was 13, Susy began writing a biography of her father, incorporating family stories, letters he had written, articles about him and her own thoughts about her father. Much of Susy’s writing is included in Mark Twain’s autobiographical writings, where he preserves her grammar and spelling and reflects on her version of events. (Today Susy’s words can be read in a stunning children’s version of her book called The Extraordinary Mark Twain (According to Susy) by Barbara Kerley.) The children entertained themselves and family friends with games of charades and acted out their favorite stories. They turned their father’s book *The Prince and the Pauper* into a stage play in which Susy played a starring role. Susy herself wrote a play called *The Love-Chase* that she and her sisters and friends performed in the drawing room of the house.

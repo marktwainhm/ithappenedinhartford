@@ -10,6 +10,8 @@ parent: meet-the-neighborhoods
 landing-page: meet-the-neighborhoods
 ---
 
+{% include feature/image.html objectid="Twichell--J-H---2-" width="75" %}
+
 Mark Twain’s best friend – “first after Livy” – was a minister. Samuel Clemens’s deep cynicism about religious hypocrisy, and his late-life writings in which he faced the universe with near-ostentatious despair, would seem to make such a friendship unlikely.
 
 But Rev. Joseph Hopkins Twichell of Hartford was indeed Clemens’s intimate friend for most of the author’s life. He provided comradeship, humor, and consolation even when the two men were locked in argument. The two families were close – Mark was “Uncle Mark” to the nine Twichell children and Joe was “Uncle Joe” to the three Clemens girls. At the end of one particularly argumentative letter, Clemens wrote: “Joe, the whole tribe shout love to you and yours.”

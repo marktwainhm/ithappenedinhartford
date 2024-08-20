@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="2013-22-1" width="75" %}
+
 A section of Hartford, known as Statehouse Square, was a center of commerce with stores and business offices of all kinds focused around the then/former center of government. Dwight H. Buell's Jewelry shop which, according to the 1881 Geer's Hartford City Directory was located on 54 High Street, was one such business. 
 
 Dwight H. Buell was a jeweler, silversmith, and watchmaker in the city of Hartford who ended up with a role in the financial calamity that forced the Clemens family to leave the city permanently. Buell was the go-to for any jewelry needs whether that be necklaces, watches, rings, clocks, cufflinks, etc. and dabbled in investments as well. The Clemens family purchased from his shop often, and their receipts over the years include items like combs, clocks, mounting for mosaic pin, and eyeglass repairs. In his autobiography in 1890 Clemens reminisced about his friendship with Buell and how it led to one of the biggest mistakes of his lifetime:

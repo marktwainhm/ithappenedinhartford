@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CSL_PG400-01" width="75" %}
+
 Most of the groceries for the Clemens household would come from stores on Asylum Street, Market Street and Central Row near the Old State House. Fox & Dow was one such grocer near State House Square that was frequented by the Clemens staff.  All of the places they bought groceries from were close to the major transportation routes in the city, the railroad and the river, so that the food being sold was as fresh as it could be. 
 
 Olivia. Clemens, George Griffin, and the family’s cook would work together to plan and budget for the family’s meals–both the fancy dinner parties where Samuel Clemens performed as Mark Twain, and the regular three meals a day that a family with growing girls needed. Today we might go to one grocery store and expect to find most of what we need there, but the Clemens family’s cook would need to purchase from several different stores to make one meal, no matter how fancy or homespun. She might visit five or more different people–a greengrocer, a butcher, a fishmonger, a baker, and a dry goods merchant–to get the ingredients to cook one meal. 

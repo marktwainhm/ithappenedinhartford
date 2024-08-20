@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CHCM_1982-61-282" width="75" %}
+
 Today, Ice is something we take for granted and don’t think too much about. We get it in bags from the store, fill trays from the tap to put in our freezer, or they come straight from our refrigerator door. But back in the Clemens era, ice was a luxury, especially in summer months. And having ice-formed treats at dinner parties was an even higher symbol of status. 
 
 Refrigeration and freezing technologies advanced in stages, but for the first couple thousand years of human existence ice was harvested from nature rather than a human produced product. When rivers and lakes would freeze in the winter, enterprising humans would cut blocks of ice out and store it in naturally cool places like caves or human-made storage structures called ice-wells. This meant that people in climates that allowed for freezing water had ice throughout the winter and maybe into spring; but those in warmer climates or many places in the summer and fall didn’t have access to ice. 

@@ -10,7 +10,8 @@ parent: enter-through-the-back-door
 landing-page: enter-through-the-back-door
 ---
 
-### GRID– Elizabeth  “Lizzie” Wells (birth and death dates unknown)
+{% include feature/image.html objectid="5890-2024" width="75" %}
+
 Elizabeth “Lizzie” Wells was one of many housemaids who worked for the Clemenses in their Hartford home. Others included Ellen, Harriet, Lillian, Mary, Kate, and Josie: Known primarily by their first names, the housemaids who served in the Clemens home were responsible for “above the stairs” duties, including cleaning and tidying the main rooms of the house; lighting and maintaining the fires, fireplaces, and gas fixtures; and preparing guest rooms for visitors.  
 
 Most of the Clemens maids “lived in,” meaning that they had rooms on the second floor above the kitchen wing.  In addition to their pay, which Clemens once recorded in a notebook as $150 a year, the maids were provided a room furnished with a bed, bureau, wash stand and a coal stove for heating.  

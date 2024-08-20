@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
-location,Associated Locations,true
-latitude,Latitude,
-longitude,Longitude
+title,Title,false,,
+creator,Creator,true,,
+date,Date,true,,
+description,Description,,
+exhibitionlabel,Exhibition Label,,
 subject,Related Subjects,true
 people,Related People,true
-description,Description,
-date,Date Created,
-object_id,Object ID,
-obj_type,Object Type
-source,Source,,true
+location,Associated Location,true
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,true,
+subject,Related Subjects,true,
+people,Related People,true,
 identifier,Source Identifier,,
+credit,Credit,false
 rights,Rights,
-reference_url,View on Connecticut Collections,,true
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,,

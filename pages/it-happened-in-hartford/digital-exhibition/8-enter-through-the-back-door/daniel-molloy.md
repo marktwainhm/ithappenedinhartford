@@ -10,6 +10,8 @@ parent: enter-through-the-back-door
 landing-page: enter-through-the-back-door
 ---
 
+{% include feature/image.html objectid="249" width="75" %}
+
 In the spring of 1883 Daniel T. Molloy, an Irish immigrant living in Hartford, heard that Mark Twain needed a gardener. Not just any gardener, Molloy told an interviewer years later, but one who had worked for “an Earl or a Duke.” Samuel Clemens was probably being playful, but Molloy had in fact worked for the Earl of Portarlington  in Ireland. Molloy knocked on the door of the Farmington Avenue house, but Clemens was in a “creative fever” – before him was a summer of resuming work on Huckleberry Finn, which he had set aside for three years. The Irishman returned in the afternoon. “Are you the man who was here this morning?” Clemens asked. He was, and started to recount his resume. “It doesn’t make any difference about your experience,” Clemens said. “Consider yourself hired.”
 
 “I never worked for a better man,” Molloy said, though he once rebuked his boss for always summoning him with a whistle. Molloy got tired of this and finally refused to reply. “I didn’t hear you call me,” he told Clemens. “I heard you call a dog.”

@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="Compositor-drawing--622" width="75" %}
+
 Ever since humans created written languages, there have been different methods for writing those languages down. Words have been carved into stone, written on walls with natural pigments or paints, written on papers with inks or pencil. All of those methods are done by hand, and each copy of a document or book would have to be written individually, so it took a lot of time, effort, and money to create multiple copies of anything.
 
 It wasn’t until the invention of a machine called a printing press that mass production of flyers, posters, books, and newspapers became easier and cheaper. The first use of a printing press was in China and the first book produced with the press dates to 868 C.E.--over a thousand years ago. The Chinese continued to improve upon the technology in their country, but in Europe, printing technology wasn’t available until 1440 when a man named Johannes Guttenberg developed his printing press. Today we have computers and modern printers, but back in the Clemenses’ time, Samuel would have to write his stories out by hand, or use a typewriter, and then rely on a publishing company with printing presses to make copies of his books for sale. He couldn’t just print off a bunch of copies the way we would today. 

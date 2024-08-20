@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
+
 Bushnell Park is the main greenspace in downtown Hartford and it was purposefully created to be so. In the 1850s Hartford was a booming town full of economic success that brought people here to work in a variety of industries including publishing, insurance, banking, munitions, and manufacturing. During this time of rapid industrialization was also a movement to bring curated pockets of nature into cities, like Central Park in New York City. 
 
 When Hartford decided to add their own park, they did contact Frederick Law Olmstead, a Hartford Native and friend of Dr. Horace Bushnell, who was pushing for the park’s creation. Unfortunately, Olmstead was busy with Central Park, but recommended Swiss-born landscape architect and botanist Jacob Wedinman for the job. 

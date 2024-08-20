@@ -1,5 +1,12 @@
-The Library Moves In
---------------------
+---
+title: The Library Moves In
+layout: exhibit
+permalink: /digital-exhibition/saving-the-house/the-library-moves-in.html
+parent: saving-the-house
+landing-page: saving-the-house
+---
+
+{% include feature/image.html objectid="MT-Library-Branch-" width="75" %}
 
 Soon after the Mark Twain Memorial Commission took over the ownership of the Mark Twain House, a talk of a partnership with the Hartford Public Library began and it is suggested that this partnership helped the Mark Twain Memorial Commission, and thus the house as it stands today, survive. A December 6, 1928 letter to the editor of the Hartford Courant suggests that that Mark Twain Memorial campaign has not been successful is due to “a considerable percentage of the persons who might contribute neither particularly liked Mr. Clemens nor approved certain of his books. Moreover, as he was neither a native of Hartford nor, after living there for some time, cared to make it his permanent residence, many consider the proposed memorial, as such, not incumbent upon the city…. On the other hand, everyone, as far as I know, thinks a branch library upon the site in question to be very desirable and that I should contain articles associated with Hartford’s many writers of the past, and in due time, of those who we hope, will succeed them.”
 

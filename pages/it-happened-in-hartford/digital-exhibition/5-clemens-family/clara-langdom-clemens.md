@@ -11,6 +11,8 @@ position: 5
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="Childrens-Photos-Clara-before-marriage--3" width="75" %}
+
 Clara Langdon Clemens was two years younger than her older sister Susy: She was born June 8, 1874. Because they were so close in age, much of Clara’s early years are similar to Susy’s: full of social life, homeschooling in language and music, and foreign travel. Clara’s childhood nickname was “Bay” which evolved from toddler Susy’s pronunciation of “baby” and stuck.
 
 Clara was more adventurous than her older sister and more prone to mishaps, breaking her ankle while sledding on the steep slope where the Hartford house sits. As a young woman, she accompanied her parents on their round-the-world trip in 1895-96. Clara’s *My Father: Mark Twain* is largely concerned with describing their travels on that lecture tour. Clara was a fine pianist and also performed as a singer. Her hopes of becoming an opera star were never fulfilled, but she had a somewhat successful career as a recital soloist.

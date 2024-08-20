@@ -16,5 +16,6 @@ In addition to interpreting the historic Hartford house, the museum presents a w
 To learn more about the Mark Twain House & Museum, visiting us, or our many programs, please visit: www.marktwainhouse.org 
 
 
-
 <a href="https://marktwainhouse.org" class="btn btn-outline-primary">Visit Us</a>
+
+{% include grid-6.html %}

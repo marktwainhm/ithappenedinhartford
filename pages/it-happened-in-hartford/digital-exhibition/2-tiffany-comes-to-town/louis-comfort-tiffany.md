@@ -1,5 +1,5 @@
 ---
-title: Louis Comfort Tiffany
+title: Louis Comfort Tiffany (1848-1933)
 layout: about
 permalink: /digital-exhibition/tiffany-comes-to-town/louis-comfort-tiffany.html
 # include CollectionBuilder info at bottom
@@ -11,8 +11,8 @@ position: 1
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="L-C--Tiffany--9" width="75" %}
 
-## GRID: Louis Comfort Tiffany (1848-1933)
 Tiffany was the son of the founder of the great New York jewelry firm, Charles Tiffany, but seems to have been more fun than his somewhat strait-laced father, frequenting the nightspots of Broadway with the architect Stanford White—who designed the Washington Square arch, and was later shot to death by a jealous husband—and James Steele Mackaye, a theater manager, playwright, actor, and inventor who devised the idea of folding theater seats. In 1879, Tiffany had collected a small group of similarly minded designers together—Samuel Colman, Lockwood DeForest, and Candace Wheeler—in a venture called Associated Artists. Tiffany’s surviving letter serving as a contract with Clemens was quite unspecific: “Walls papered and stenciled . . . Ceiling papered and stenciled in metals . . . Woodwork decorated or not, at our option.”
 
 Associated Artists disbanded after a short tenure, but they did have other important commissions, including  also the Madison Square Theater (for Mackaye), and a room in the White House. (Associated Artists’ 1885 work was removed by President Theodore Roosevelt less than two decades later, the idea being to restore the style of the building to its Federal origins – lavish Victorian stained glass screens just wouldn’t work.)

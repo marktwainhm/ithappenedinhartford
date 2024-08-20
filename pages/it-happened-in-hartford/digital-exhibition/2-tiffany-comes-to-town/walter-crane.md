@@ -1,5 +1,5 @@
 ---
-title: Walter Crane
+title: Walter Crane (1845-1915)
 layout: about
 permalink: /digital-exhibition/tiffany-comes-to-town/walter-crane.html
 # include CollectionBuilder info at bottom
@@ -11,8 +11,8 @@ position: 5
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="Nursery--2-Groo-2023" width="75" %}
 
-## GRID: Walter Crane (1845-1915)
 The wallpaper in the Clemens children’s nursery in the Hartford house is a reproduction of scraps found when part of a fireplace in the room was removed in 1968 while the house was going through restoration. The wallpaper was decorated with illustrations by Walter Crane, the British illustrator influenced by the Arts and Crafts movement and by Japanese woodblock prints. His children’s book illustrations were colorful and elegant. Like his friend William Morris, he was a devoted socialist and his work appeared in radical publications of the era. This wallpaper was one of seven nursery wallpapers Crane designed for Jeffrey and Company, a London firm that also produced Morris’s designs. The wallpapers were machine printed and literary in subject matter. 
 The nursery illustrations portray scenes from the nursery rhyme “A Frog He Would A-Wooing Go…” 
 

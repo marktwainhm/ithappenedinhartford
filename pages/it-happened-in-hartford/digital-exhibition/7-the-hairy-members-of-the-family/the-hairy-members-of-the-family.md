@@ -1,12 +1,16 @@
 ---
 title: The Hairy Members of the Family
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-hairy-members-of-the-family.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+previous: you-also-marry-their-family
+next: enter-through-the-back-door
 ---
+
+{% include feature/image.html objectid="Clara-before-marriage--5" width="75" %}
 
 During the 17 years the Clemens family spent here at their home in Hartford, they had a wide variety of animal friends: cats, dogs, horses, cows, birds--even squirrels! And it wasn’t just Susy, Clara, and Jean that loved animals--their father Samuel Clemens had been an animal lover his whole life!
 
