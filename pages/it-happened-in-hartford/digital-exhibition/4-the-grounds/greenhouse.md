@@ -11,7 +11,8 @@ position: 2
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## Greenhouse
+{% include feature/image.html objectid="MT-Exteriors-1882-1903--7" width="75" %}
+
 When the Clemenses lived here there was a large greenhouse on the lawn between their house and the home of Harriet Beecher Stowe. Olivia Clemens loved having fresh flowers in the house and the family employed gardeners who tended to the greenhouse plants and the many gardens around the property. 
 
 The greenhouse’s origin story dates to March 1881 when Samuel and Olivia Clemens saw workmen digging across the lawn in front of their house. (The front door faced the rear of the neighboring property.) Lawyer Franklin Chamberlin, who had sold them their land, was preparing the  site for a large stone house to be built at the corner of Farmington Avenue and Forest Street. That house’s rear windows would gaze down on the Clemens front door, “big and high, and his kitchen in their faces'' as neighbor Lilly Warner wrote. . Negotiations led to the sale of a 100-foot strip of land as a buffer – a strip that included a greenhouse Chamberlain had constructed in 1871.

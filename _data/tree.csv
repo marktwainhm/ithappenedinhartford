@@ -1,26 +1,56 @@
 top,second,node
-themes,architecture,Japanese Language School
-themes,architecture,Union Station
-themes,architecture,warehouse district
-organizations,community organization,Executive Council for a Greater Tacoma
-organizations,community organization,South Puget Sound Higher Education Council
-organizations,community organization,Tacoma-Pierce County Economic Development Board (EDB)
-themes,education,curriculum planning
-themes,education,research
-themes,education,student organization
-themes,education,student services
-historical context,events,Black Lives Matter movement
-historical context,events,civil rights movement
-historical context,events,Japanese American incarceration
-historical context,events,September 11
-historical context,events,Transcontinental Railroad
-historical context,events,Vietnam War
-organizations,governmental body,Higher Education Coordinating (HEC) Board
-organizations,governmental body,Pierce County
-organizations,governmental body,Washington State legislature
-themes,military,Joint Base Lewis–McChord (JBLM)
-themes,military,veteran
-themes,urban studies,community development
-themes,urban studies,economic development
-themes,urban studies,historic preservation
-themes,urban studies,urban development
+Social,Personal Relationships,Family
+Social,Personal Relationships,Friends
+Social,Personal Relationships,Pets
+Social,Identity,Race & Ethnicity
+Social,Identity,Gender
+Social,Identity,Religion
+Social,Education,Educational Reform
+Social,Clubs/Organizations,Saturday Morning Club
+Social,Clubs/Organizations,Monday Evening Club
+Social,Clubs/Organizations,KKK
+Cultural,Fashion,Adornment
+Cultural,Fashion,Clothing
+Cultural,Fashion,Footware
+Cultural,Arts,Performance Art
+Cultural,Arts,Theatre
+Cultural,Arts,Lectures
+Cultural,Arts,Visual Arts
+Cultural,Arts,Painting
+Cultural,Arts,Sculpture
+Cultural,Arts,Photography
+Cultural,Sports & Recreation,Athletics
+Cultural,Sports & Recreation,Leisure
+Cultural,Memory & Commemoration,Holidays
+Cultural,Memory & Commemoration,Rememberances
+Political,Civil Rights,Suffrage
+Political,Civil Rights,Religious Freedom
+Political,Civil Rights,Civil Rights Movement
+Political,War & Diplomacy,Colonialism
+Political,War & Diplomacy,Sovereignty Rights
+Political,War & Diplomacy,Foreign Arrais
+Political,War & Diplomacy,Wars
+Political,War & Diplomacy,Nationally
+Political,War & Diplomacy,Internationally
+Economic,Industry,Manufacturing
+Economic,Industry,Printing
+Economic,Labor,Unions
+Economic,Labor,Strikes
+Economic,Labor,Economic Rights
+Economic,Technology/Innovation/Invention,Scientific
+Economic,Technology/Innovation/Invention,Business
+Economic,Technology/Innovation/Invention,Industrial
+Economic,Technology/Innovation/Invention,Consumer
+Economic,Finance,Banking
+Economic,Finance,Insurance
+Economic,Finance,Monetary Policy
+Environmental,Climate/Weater,Natural Events
+Environmental,Climate/Weater,Climate Change
+Environmental,Agriculture,Food/Farming
+Environmental,Agriculture,Livestock
+Environmental,Agriculture,Mining
+Environmental,Built Environment,Buildings/Architecture
+Environmental,Built Environment,Furniture
+Environmental,Built Environment,Civil Engineering
+Environmental,Built Environment,Landscape Architecture
+Environmental,Built Environment,Gardens

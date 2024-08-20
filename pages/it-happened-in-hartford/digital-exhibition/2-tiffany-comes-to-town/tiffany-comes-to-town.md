@@ -1,15 +1,17 @@
 ---
 title: Tiffany comes to town
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: tiffany-comes-to-town
-previous: tiffany-comes-to-town
+previous: the-rooms
 next: the-rooms
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/image.html objectid="Decorators-Misc--Associated-Artists-1879-1883--11" width="75" %}
 
 Potter finished construction on the main section of the Clemenses Hartford home in 1875. It wasn’t until 1881, that the Clemenses started on the projects left aside for economic reasons during the 1874-75 construction.  They were able to expand the kitchen wing of the house toward Farmington Avenue and set to work on improving the interior decoration of the house.  The Clemenses first contacted Herbert M. Lawrence, a decorator who had done work for their friends, the Cheney silk magnates of Manchester, Connecticut. Lawrence was in Europe, but recommended a number of alternatives—including “Mr. Louis Tiffany.”
 

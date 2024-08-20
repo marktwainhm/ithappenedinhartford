@@ -10,6 +10,8 @@ landing-page: the-house-that-olivia-built
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="MT-House-Exteriors-1874-81--5-" width="75" %}
+
 In the construction of the Clemenses’ Hartford house architect Edward Tuckerman Potter was aided by the New York architect Alfred H. Thorp, who has been seen as the French connection by scholars trying to puzzle out medieval European influences on the Clemens home. Thorp had studied in Paris with the renowned architect Pierre Jérôme Honoré Daumet, known for his elegant work on civic and church buildings, including the chapel at the Palace of Versailles. The same year the Clemenses’ Hartford home was built, Thorp was also contracted to build Clemens a writing study at the Elmira home of Olivia’s sister, Susan Crane. 
 
 When the Clemenses expanded their kitchen and redecorated the house in 1881, Thorp supervised the construction work. Olivia Clemens wrangled with Thorp over the windows in the entry hall – he wanted less glass and she wanted more to light what admittedly is a dark space for welcoming visitors.

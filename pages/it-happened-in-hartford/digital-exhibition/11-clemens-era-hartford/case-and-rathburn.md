@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="77-13-2" width="75" %}
+
 Bolstered by publishing, insurance, and other industries, Hartford in the late 1800s to early 1900s was one of the richest cities in the United States. Case & Rathburn were among the many stores to be found in downtown where one could find goods – from food and home goods, to clothing and novelties.  By examining his check register, we know that the Clemenses bought a dozen custom shirts and 200 cigars from Case & Rathburn in 1874. 
 
 Clemens preferred the cheap cigars and in a 1905 letter to a friend he said, “I know a good cigar better than you do, for I have had sixty years' experience. No, that is not what I mean; I mean I know a bad cigar better than anybody else. I judge by the price only; if it costs above 5 cents, I know it to be …unsmokable.” Smoking cigars was a vice of Clemens, along with cursing and drinking. He often attempted to give his bad habits up as his wife, Olivia, wasn’t fond of the habits, but he could never quite manage to give any of his vices for an extended period of time. 

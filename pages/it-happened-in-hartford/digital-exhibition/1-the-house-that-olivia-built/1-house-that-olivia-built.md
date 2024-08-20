@@ -11,6 +11,9 @@ next: tiffany-comes-to-town
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="Exterior-1874-81--7" width="75" %}
+{% include feature/image.html objectid="Early-MTH-sketch-" width="75" %}
+
 When Samuel and Olivia Clemens decided to move to Hartford, they were pursuing both financial and social stability. In the 1870s Hartford was a growing city aiming to become one of the foremost business centers in the United States, attracting people from all classes and backgrounds. Hartford offered a variety of business opportunities for Samuel and the social network required of and familiar to someone of Olivia’s background.
 
 When the couple arrived in Hartford in October 1871, they rented rooms from Olivia’s friends John and Isabella Beecher Hooker as they began to immerse themselves into Hartford Society. Later that year, Olivia wrote to Samuel, “I think I have decided what we shall do about building. I have decided so you will not have to decide, Dear Heart.” In 1873, using money from Olivia’s inheritance, the couple purchased a parcel of land in the Hartford neighborhood of Nook Farm and hired architect Edward Tuckerman Potter to design and build the stately 19-room mansion.
@@ -22,5 +25,3 @@ George succeeded. The Clemenses bought the land, and Potter set to work designin
 The resulting home measures 11‚500 square feet and has 25 rooms across three floors. The house, while a fitting addition to the exclusive Nook Farm neighborhood, was reported to be “ the oddest piece of architecture in this city…on Farmington avenue, about a mile west of the depot, is a house being built for Mark Twain..”  It was built with the latest in modern innovations, including gas lighting, heated running water, and a telephone.
 
 The couple spent close to $45‚000 building their new home, exhausting their financial reserves. The architect Potter was considerate of his clients, making sure the building’s basics were complete before getting over-involved with decorating. “You suggested we let up on the fancy touches till we knew how things were going to turn out,” Potter wrote to Clemens around the time he completed working on the house in 1875. As such, when the family moved in, the interiors were kept simply furnished until the couple could afford to finish them to the high standards expected by the surrounding society of which they were now members.  Potter would return in 1881 when the Clemenses expanded the kitchen and decorated the house’s rooms, getting  his assistant, Albert H. Thorp, to oversee the work, while ensuring that the house would be completed in a grander manner.
-
-<insert grid here for Edward Tuckerman Potter & Alfred H. Thorp>

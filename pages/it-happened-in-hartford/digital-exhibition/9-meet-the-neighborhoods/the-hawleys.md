@@ -10,7 +10,8 @@ parent: meet-the-neighborhoods
 landing-page: meet-the-neighborhoods
 ---
 
-## GRID– The Hawleys 
+{% include feature/image.html objectid="Courant_02031873" width="75" %}
+
 ### Joseph and Harriette F. Hawley, 1860-1867 
 Multi-talented Joseph Roswell Hawley (1826 - 1905) was a lawyer partnering with John Hooker in 1850, an associate editor of the Hartford Evening Press with Charles Dudley Warner, and a general during the Civil War. Hawley married Harriet W. Foote, and settled in a rented cottage in Nook Farm, adjacent to the property they would later purchase but never build on. Hawley held multiple political offices including governor of Connecticut (1866), state congressman (1873), and U.S. senator (1881-1905). He also led the United States Centennial Commission which organized the 1876 Centennial Exhibition in Philadelphia. 
  

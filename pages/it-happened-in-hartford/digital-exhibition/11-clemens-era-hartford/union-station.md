@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CMCH_1994-249-0" width="75" %}
+
 When Samuel and Olivia Clemens moved to their Hartford House in 1874, they would have been greeted by the city’s first train station, Union Depot. This first station was designed to reflect an Italianate country villa, with arches, towers, and columns. The design was reflective of the opulence of the era and physical manifestation of Hartford’s claim to an elite status. The tracks ran through the center of the building and serviced two lines. Unfortunately, Union Depot was designed with style over substance and soon became too crowded and could not keep up with the demand of the bustling city. 
 
 The second station is the building you still see here today. Hartford’s Union Station opened to the public in 1889 and was designed with function in mind to better serve the growing city. The tracks were moved to a second story level so that they didn’t interfere with the carriage traffic on the streets below. The new station also increased the number of lines being served from two to four, giving the residents of Hartford greater access to locales all over the country. 

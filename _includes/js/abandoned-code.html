@@ -1,0 +1,10 @@
+        /* add the ondisplay box */
+        var itemDisplay;
+        if (record.display.includes("TRUE")) {
+            itemDisplay = '<h5 class="card-header">On Display</h5><div class="card-body"></div><div class="card-text"> This item is on display at its home institution.</div></div>';
+        } else {
+            itemDisplay = '<h5 class="card-header">Not On Display</h5><div class="card-body"></div><div class="card-text"> This item is not on display at its home institution.</div></div>';
+        }
+        document.getElementById("on-display").innerHTML = itemDisplay;
+
+        

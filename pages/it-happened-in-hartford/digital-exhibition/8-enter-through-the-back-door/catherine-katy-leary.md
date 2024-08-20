@@ -10,6 +10,8 @@ parent: enter-through-the-back-door
 landing-page: enter-through-the-back-door
 ---
 
+{% include feature/image.html objectid="Employees--21-Katy-Leary" width="75" %}
+
 When the family summered in Olivia Clemens’s hometown of Elmira, New York, in 1880, she hired a 24-year old Irish woman, Catherine Leary, as maid. Always known to the family as “Katy,” for thirty years she worked as their seamstress, nursemaid, nanny, and lady’s maid. 
 
 “Katy was a potent influence, all over the premises,” Samuel Clemens wrote of her. “Fidelity, truthfulness, courage, magnanimity, personal dignity, a pole-star for steadiness—these were her equipment, along with a heart of Irish warmth, quick Irish wit, and a large good store of the veiled & shimmering & half surreptitious humor which is the best feature of the ‘American’ brand—or of any brand, for that matter.” 

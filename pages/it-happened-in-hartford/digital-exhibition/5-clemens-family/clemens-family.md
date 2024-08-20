@@ -1,6 +1,6 @@
 ---
 title: Clemens' Family
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-family.html
 # include CollectionBuilder info at bottom
 credits: false
@@ -9,6 +9,8 @@ next: you-also-marry-their-family
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/image.html objectid="SLC-&-Family-Groups--1" width="75" %}
 
 The family that settled in what is now known as the Mark Twain House had its origins in author Samuel Clemens’s dream newspaper assignment – to accompany a group of 73 fellow tourists on the nation’s first true ocean cruise on the steamship Quaker City for five months in 1867. 
 The route was to take the ship from New York through the Mediterranean to what was then called the Holy Land, the area now encompassing Israel, Syria, Jordan and Lebanon, with side trips by rail. His dispatches home to the San Francisco newspaper Alta California were full of elegant descriptions of architecture and landscape – and hilarious swipes at European sophistication and American innocence.  The book that resulted, The Innocents Abroad, started Samuel’s literary career in earnest.  

@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CMCH_2002-109-21" width="75" %}
+
 The brothers William and Edwin Kellogg opened a photography studio in various places along Main Street in Hartford and operated their business for over thirty years, quite a successful feat.  Their studio was known to have the latest and greatest developments and advancements in photography. The topics and subjects they photographed varied from distinguished Hartford residents like Mark Twain to industrial photography at the Hartford factory, Woodruff & Beach, to document the completion of the engine for the USS Kearsarge launched in 1861 for the Union navy during the beginning of the Civil War. 
 
 Not only did the Kellogg brothers photograph Mark Twain, but also the exterior of his interesting and intriguing home on Farmington Avenue. He may have recommended the Kelloggs to his good friend Reverend Joseph Twichell who also sat to have his image taken by the duo. 

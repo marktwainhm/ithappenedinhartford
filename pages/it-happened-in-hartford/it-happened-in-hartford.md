@@ -1,6 +1,6 @@
 ---
 title: It Happened In Hartford
-layout: about
+layout: page
 permalink: /it-happened-in-hartford.html
 # include CollectionBuilder info at bottom
 credits: false
@@ -18,3 +18,5 @@ Making a living as a creative–a writer and a performer–was a fairly new thin
 The Clemenses would spend 17 years in Hartford. Near the end of his life, looking back to the time before the death of his beloved wife and eldest daughter (maybe also Jean?) Samuel Clemens wrote (in what?) that these years were the happiest of their lives. That  statement   steeped in loss and sorrow, cannot do justice to the complex reality of their lives in this house. The family’s time in Hartford  came with  great highs and lows, both personally and professionally. In Hartford they found community in Nook Farm, strength in their family unit, and, for Samuel, success in building the brand of “Mark Twain,” all giving the family a stability they would seek to recreate for the rest of their lives. Ultimately, however, financial hardship and family loss caused the family to leave Hartford, not return, and sell their home here. 
 
 The exhibition consists of display cases located in the Mark Twain House’s Museum Center highlighting objects from our collection, this digital exhibition, and ## history markers around the City of Hartford; and all contribute to our understanding of this place and the people for whom we are tasked to remember. 
+
+{% include grid-4.html %}

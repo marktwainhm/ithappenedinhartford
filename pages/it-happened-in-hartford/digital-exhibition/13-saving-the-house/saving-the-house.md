@@ -1,15 +1,16 @@
 ---
 title: Saving the House
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/saving-the-house.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+previous: post-clemens-era
+next: mark-twains-work
 ---
 
-Saving the House 
-=================
+{% include feature/image.html objectid="No---Art-26-front" width="75" %}
 
 The prime mover in the rescue of the Mark Twain House was Katherine Seymour Day, grandniece of Harriet Beecher Stowe, who in 1925 envisioned a literary center based in this neighborhood. She challenged the area’s increasing commercialization and formed a group called the Friends of Hartford to lobby the city government – “the local Tammany,” she called it, referring to New York’s notorious political club. A campaign was set up to raise money to buy the house, and the final price tag was $150,000, with a mortgage of $55,000. 
 

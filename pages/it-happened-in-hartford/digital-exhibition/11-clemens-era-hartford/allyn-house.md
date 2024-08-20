@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CMCH_2000-197-37" width="75" %}
+
 If you were to go to 203 Trumbull street in downtown Hartford today you would see a TD Bank location, but back when the Clemenses lived in Hartford, this site at the corner of Trumbull and Asylum was home to the [Allyn House](https://emuseum.chs.org/emuseum/objects/25832/allyn-house-corner-of-asylum-street-and-trumbull-street-ha), one of Hartford’s premier hotels. The imposing four-story hotel had two five-story towers and a 400-seat dining hall that ran the entire length of its west side. ) 
 
 On the one hand the Allyn House was a stop on many of Clemens’ tour schedules as he lectured and promoted his persona of Mark Twain. Despite being a well-known author, Clemens didn’t make enough from selling his books to fully  make ends meet, so speaking on a range of topics from race, class, gender, and politics to his own writings, lecturing played a key role in keeping Clemens and his family financially stable. Twain was in good company lecturing at the Allyn House which was popular with famous visitors to Hartford including President Lincoln in March 1860 and Frederick Douglass in 1864 and 1883.  

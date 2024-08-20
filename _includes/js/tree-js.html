@@ -19,7 +19,7 @@
             "Form": "{{end.node}}",
             "name": "{{end.node}}",
             "Description": "blank",
-            "url": "/foundingstories/browse#{{end.node}}"
+            "url": "/browse#{{end.node | url_encode}}"
             }{%unless forloop.last%},{% endunless %}{% endfor%}
         ]
         }{%unless forloop.last%},{% endunless %}{%endfor%}

@@ -1,17 +1,40 @@
 ---
 layout: page
 ---
+
 <div class="container my-4">
     {{ content }}
 </div>
+{% include js/toggle-js.html %}
 
     <div id="item-nav">
         <div class="d-none d-md-block">
-            {%- if page.title == "The House That Olivia Built" -%}
-            <a href="{{ page.previous | relative_url }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
-            {%- else -%}
-            <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
-            {% endif %}
+            {%- if page.title == "Digital Exhibition" -%}
             <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            {%- elsif page.title == "The House That Olivia Built" -%}
+            <a href="{{ page.previous | relative_url }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            
+            {%- elsif page.title == "Mark Twain's Work" -%}
+            <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next | relative_url }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            
+            {% else %}
+            <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            {% endif %}
         </div>
     </div>
+
+
+<div class="posts clearfix">
+  {%- for grid in site.data.config-exhibit -%}
+  {% if grid.parent == page.parent %}
+    <article class="post">    
+      <a href="{{ site.baseurl }}{{ grid.parent }}/{{ grid.child }}">
+        <img src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="link to {{ grid.child }}">
+    </a>
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>

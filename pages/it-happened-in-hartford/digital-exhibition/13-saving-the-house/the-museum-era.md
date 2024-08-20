@@ -5,6 +5,9 @@ permalink: /digital-exhibition/saving-the-house/museum-era.html
 parent: saving-the-house
 landing-page: saving-the-house
 ---
+
+{% include feature/image.html objectid="Visitor-Center--2-Groo-2011" width="75" %}
+
 Formal restoration of the house began in 1963, the same year the Mark Twain House was designated a National Historic Landmark.
 The work began with the Billiards Room. Research, physical investigation, and restoration of the rest of the house continued, and all the major rooms of the home were opened in time for the celebration of the 100th anniversary of the house in 1974.
 

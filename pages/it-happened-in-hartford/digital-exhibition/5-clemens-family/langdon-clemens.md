@@ -11,6 +11,8 @@ position: 3
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="Children's-Photos:-Langdon--2" width="75" %}
+
 When in November 1870 Samuel and Olivia Clemens celebrated the birth of their first child, he was given Olivia’s family name, Langdon. The new father took the opportunity to write to Olivia’s grandmother in the baby’s voice:
 
 > I tell you, I am tired being bundled up head & ears nine-tenths of my time. And I don’t like this thing of being stripped naked & washed. I like to be stripped & warmed at the stove—that is real bully—but I do despise this washing business. I believe it to be a gratuitous & unnecessary piece of meanness. I never see them wash the cat.

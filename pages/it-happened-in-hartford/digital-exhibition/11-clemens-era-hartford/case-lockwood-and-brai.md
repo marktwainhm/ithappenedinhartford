@@ -10,6 +10,8 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 ---
 
+{% include feature/image.html objectid="CMCH_2000-174-7" width="75" %}
+
 The [Case, Lockwood, & Brainard Company](https://archives.lib.uconn.edu/node/1475415) was born in the early 19th century in Hartford before mass industry took off. It was founded by resident Newton Case, and he grew his company at the same time Hartford began to prosper as an industrial city. Eventually it became the largest printing company in the state and one of the largest in the entire country. Case had a knack for implementing new technology and pairing it with developing markets for printing industry products.  Unlike the printing giants Harper and Brothers and G.P Putnam and Sons that still exist; Case, Lockwood & Brainard expanded its business to include things like job printing, binding, and blank book production which strayed from its original foundation which focused solely on book publishing.
 
 Case, Lockwood, & Brainard went through various partners (and therefore names) before it finally settled on its final iteration in 1873. Throughout its history the company had success printing dictionaries, Bibles, account books, poetry, textbooks, and ruled notebooks. They also published works for Hartford residents such as Horace Bushnell and Catherine Beecher. The company was often hired for large printing jobs by other sizable publishers due to their successful track record. In 1873, the company was able to secure its own paper mill through the Hartford Paper Company which allowed them to drastically cut costs and put out a more consistent final product.

@@ -10,6 +10,8 @@ parent: meet-the-neighborhoods
 landing-page: meet-the-neighborhoods
 ---
 
+{% include feature/image.html objectid="Warner--C-D---1" width="75" %}
+
 ### George (1833-1919) & Lilly Gillette Warner (1838-1915) 
 George married Nook Farm resident Elisabeth "Lilly" Gillette, daughter of Francis and Elisabeth Gillette, in 1867, and in 1873, built their own home just north of the Gillette's. George and Lilly Warner's home, combining many architectural styles, was designed by Edward Tuckerman Potter, who subsequently designed the Clemens’ house. George and Lilly sold the house in 1884 to brother Charles and his wife Susan, who lived there until 1900. The house was torn down in the 1950s for a new Hartford high school. A talented artist, Lilly painted with Harriet Beecher Stowe. In 1876, the family moved into her parents' home, the Gillette House just next door. 
  

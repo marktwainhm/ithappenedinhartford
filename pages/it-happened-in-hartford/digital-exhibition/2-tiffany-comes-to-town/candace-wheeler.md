@@ -1,5 +1,5 @@
 ---
-title: Candace Wheeler
+title: Candace Wheeler (1827-1923)
 layout: about
 permalink: /digital-exhibition/tiffany-comes-to-town/candace-wheeler.html
 # include CollectionBuilder info at bottom
@@ -11,8 +11,8 @@ position: 2
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="Candace-Wheeler--15" width="75" %}
 
-## GRID: Candace Wheeler (1827-1923)
 The American designer Candace Wheeler was deeply associated with the Clemenses and their home, both as an important participant in the interior redecoration and later as a family friend. 
 
 Inspired by a British movement to teach needlework skills to women, she founded the New York Society of Decorative Art in 1877 and the New York Exchange for Women’s Work in 1878.  In 1879 she and Louis Comfort Tiffany, a scion of the jewelry family, founded the interior design firm Tiffany & Wheeler, which with the addition of other artists became Louis C. Tiffany & Co., Associated Artists. Wheeler was responsible primarily for the firm’s textile designs, and is mentioned briefly in Clemens’s journal in relation to the 1881 redecoration of the house, but the family friendship did not blossom until the mid-1880s. 
