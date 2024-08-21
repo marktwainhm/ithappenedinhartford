@@ -8,6 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: post-clemens-era
 next: mark-twains-work
+parent: saving-the-house
 ---
 
 {% include feature/image.html objectid="No---Art-26-front" width="75" %}

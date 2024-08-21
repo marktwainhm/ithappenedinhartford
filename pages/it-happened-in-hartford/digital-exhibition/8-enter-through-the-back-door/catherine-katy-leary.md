@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: enter-through-the-back-door
-landing-page: enter-through-the-back-door
 ---
 
 {% include feature/image.html objectid="Employees--21-Katy-Leary" width="75" %}

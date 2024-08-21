@@ -6,6 +6,7 @@ permalink: /it-happened-in-hartford.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+parent: it-happened-in-hartford
 ---
 
 In the years after the American Civil War, at the dawn of the information age, as publishing and performing were beginning to revolutionize how people produced and consumed news, ideas, history and images, Samuel Clemens saw the possibility of making a living by writing books that dealt with the important issues of the day, for everyone to read, and sought financial and social stability through this work. And Clemens didn’t just write books; he created the character of Mark Twain, a voice meant to represent a distinctly American point of view telling stories about Americans living in a rapidly changing world. In so doing, Clemens helped establish the information economy, celebrity culture, and something else (obviously wordsmithing to be done…just trying to get some thoughts down). 

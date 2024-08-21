@@ -4,6 +4,7 @@ layout: exhibit
 permalink: /digital-exhibition/the-grounds.html
 previous: the-rooms
 next: clemens-family
+parent: the-grounds
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

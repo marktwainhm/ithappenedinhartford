@@ -3,6 +3,7 @@ title: Digital Exhibition
 layout: exhibit
 permalink: /digital-exhibition.html
 next: the-house-that-olivia-built
+parent: it-happened-in-hartford
 ---
 
 *It Happened In Hartford: 150 years of the Mark Twain House* is an exhibition that explores the lives of Samuel Clemens (better known as the creator of Mark Twain) and his wife Olivia and three daughters during the time they lived in Hartford, fresh on the success of his first book Innocents Abroad, and as Samuel built his career and wrote the works that he is most known for–Tom Sawyer and Huck Finn. By coming to Hartford, the Clemens family was looking for stability, to grow Samuel’s career and climb the social ladder…and they found all and more for some time in Hartford. This exhibit will  focus on the house they built, the community they joined, the people who worked here, and the City of Hartford itself through the lens of Samuel Clemens’ career. 

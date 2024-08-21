@@ -8,6 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: clemens-era-hartford
 next: saving-the-house
+parent: post-clemens-era
 ---
 
 {% include feature/image.html objectid="Hartford_Courant_Wed_May_27_1903_" width="75" %}

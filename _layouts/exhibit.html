@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<h1> {{ page. title }}</h1>
 
 <div class="container my-4">
     {{ content }}
@@ -30,9 +31,9 @@ layout: page
 <div class="posts clearfix">
   {%- for grid in site.data.config-exhibit -%}
   {% if grid.parent == page.parent %}
-    <article class="post">    
-      <a href="{{ site.baseurl }}{{ grid.parent }}/{{ grid.child }}">
-        <img src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="link to {{ grid.child }}">
+    <article class="post">
+    <img src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">    
+      <a href="{{ site.baseurl }}/ithappenedinhartford/{{ grid.parent }}/{{ grid.child }}">{{ grid.title }}
     </a>
     </article>
     {% endif %}

@@ -8,6 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: clemens-family
 next: the-hairy-members-of-the-family
+parent: you-also-marry-their-family
 ---
 
 {% include feature/image.html objectid="SLC-&-Family-Groups--18" width="75" %}

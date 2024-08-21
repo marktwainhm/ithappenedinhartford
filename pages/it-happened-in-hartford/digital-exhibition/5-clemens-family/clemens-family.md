@@ -6,6 +6,7 @@ permalink: /digital-exhibition/clemens-family.html
 credits: false
 previous: the-grounds
 next: you-also-marry-their-family
+parent: clemens-family
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

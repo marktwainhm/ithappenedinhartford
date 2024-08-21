@@ -1,3 +1,99 @@
-parent,title,permalink 
-the-house-that-olivia-built,alfred-h-thorp,/alfred-h-thorp.html
-the-house-that-olivia-built,edward-tuckerman-potter,/edward-tuckerman-potter.html
+parent,child,image,title
+the-house-that-olivia-built,,Exterior-1874-81--7.jpg,The House That Olivia Built
+the-house-that-olivia-built,alfred-h-thorp,MT-House-Exteriors-1874-81--5.tif,Alfred H. Thorp
+the-house-that-olivia-built,edward-tuckerman-potter,Edward-T.-Potter.jpg,Edward Tuckerman Potter
+tiffany-comes-to-town,,Decorators-Misc.-Associated-Artists1879-1883--11.jpg,Tiffany Comes To Town
+tiffany-comes-to-town,louis-comfort-tiffany,L.C.Tiffany--9.tif,Louis Comfort Tiffany
+tiffany-comes-to-town,candace-wheeler,Candace-Wheeler--15.tif,Candace Wheeler
+tiffany-comes-to-town,lockwood-de-forest,Candace-Wheeler--15.tif,Lockwood de Forest
+tiffany-comes-to-town,samuel-colman,Samuel-Colman--4.tif,Samuel Colman
+tiffany-comes-to-town,walter-crane,Nursery--2-Groo-2023.jpg,Water Crane
+tiffany-comes-to-town,frederick-schweppe,Nursery-wallpaper-detail--1-Groo-2011.jpg,Frederick Schweppe
+the-grounds,,MT-House-Exteriors-1903-1950--14.jpg,The Grounds
+the-grounds,carriage-house,Carriage-House--1-Groo-2023.jpg,Carriage House
+the-grounds,greenhouse,MT-House-Exteriors-1882-1903--7.tif,Greenhoues
+the-grounds,park-river,Park-River.jpg,The Park River
+clemens-family,,SLC--u0026-Family-Groups--1.tif,Clemens Family
+clemens-family,samuel-clemens,SLC-Alone-1871-75--8.TIF,Samuel Clemens
+clemens-family,olivia-louise-langdon-clemens,OLC-Alone--1.jpg,Olivia Louise Langdon Clemens
+clemens-family,langdon-clemens,Childrens-Photos-Langdon--2.tif,Langdom Clemens
+clemens-family,olivia-susan-clemens,Childrens-Photos-Susy-1872-1880--7--edited-.tif,Olivia Susan Clemens
+clemens-family,clara-langdon-clemens,Childrens-Photos-Clara-before-marriage--3.jpg,Clara Langdon Clemens
+clemens-family,jane-lampton-clemens,Childrens-Photos-Jean-1880-1891--5.tif,Jane Lampton Clemens
+you-also-marry-their-family,,SLC-&-family-groups--18.jpg,You Also Marry Their Family
+you-also-marry-their-family,jane-lampton-clemens,Clemens-Family-Photos--Clemens--J.M.-&-Family--1.jpg,Jane Lampton Clemens
+you-also-marry-their-family,john-marshall-clemens,,John Marshall Clemens
+you-also-marry-their-family,jervis-langdon,JervisLangdon.jpg,Jervis Langdon
+you-also-marry-their-family,olivia-lewis-langdon,Langdon--Olivia-Lewis--2.1--2-.tif,Olivia Lewis Langdon
+you-also-marry-their-family,susan-langdon-crane,Crane-Susan-1.tif,Susan Langdon Crane
+you-also-marry-their-family,ossip-gabrilowitsch,Gabrilowitsch--Ossip--3.tif,Ossip Gabrlowitsch
+you-also-marry-their-family,nina-gabrilowisch,,Nina Gabrilowisch
+you-also-marry-their-family,jacques-samoussoud,Childrens-Photos-Clara-Samossoud--11.jpg,Jacques Samoussoud
+enter-through-the-back-door,,KMD_GeorgeGriffin_Stereoview,Enter Through The Back Door
+enter-through-the-back-door,george-griffin,George-Griffin--cropped.jpg,George Griffin
+enter-through-the-back-door,catherine-katy-leary,Katy-Leary.tif,"Catherine ""Katy"" Leary"
+enter-through-the-back-door,rosina-rosa-hay,Rosa2--2-.jpg,"Rosina ""Rosa"" Hay"
+enter-through-the-back-door,elizabeth-lizzie-wells,,"Elizabeth ""Lizzie"" Wells"
+enter-through-the-back-door,daniel-molloy,,Daniel Molloy
+enter-through-the-back-door,john-oneil,Oneills1905-lightened.JPG,The O'Neils
+enter-through-the-back-door,patrick-mcaleer,Patrick.jpg,Patrick McAleer
+meet-the-neighborhoods,,SLC---family-groups--10b.jpg,Meet the Neighborhoods
+meet-the-neighborhoods,the-warners,Warner--C.D.--1.jpg,The Warners
+meet-the-neighborhoods,the-hookers,Houses-other-Hooker--1--2-.tif,The Hookers
+meet-the-neighborhoods,the-stowes,HB-Stowe.tif,The Stowes
+meet-the-neighborhoods,the-gillettes,Friends-Photos---Gillette--William--10.jpg,The Gillettes
+meet-the-neighborhoods,the-perkins,Hartford-Nook-Farm--2.jpg,The Perkins
+meet-the-neighborhoods,asylum-hill-congregational,2012.312.171.jpeg,Asylum Hill Congregational
+meet-the-neighborhoods,joseph-hopkins-twichell,Twichell--J.H.--2.jpg,Joseph Hopkins Twichell
+meet-the-neighborhoods,lily-foote,Livy-to-OLL-Feb.-2--1890.jpg,Lily Foote
+meet-the-neighborhoods,karl-gerhart,KarlGerhardtPhoto.jpg,Karl Gerhart
+meet-the-neighborhoods,morgan-buckley,CMCH--1969.20.1.199.tif,Morgan Buckley
+meet-the-neighborhoods,the-hawleys,,The Hawleys
+meet-the-neighborhoods,dr-taft,,Dr. Taft
+visitors-on-parade,,,Visitors On Parade
+visitors-on-parade,grace-king,Grace_King.png,Grace King
+visitors-on-parade,bret-harte,209202303.jpg,Bret Harte
+visitors-on-parade,henry-stanley,Portrait_of_Discoverer_of_Livingstone_-4671166-.jpg,Henry Stanley
+visitors-on-parade,joel-chandler-harris,cph-3b29774-hdl.loc.govloc.pnpcph.3b29774.jpg,Joel Chandler Harris
+visitors-on-parade,george-washington-cable,SLC-with-Misc.-Friends-1835-89--8.jpg,George Washington Cable
+visitors-on-parade,ulysses-s-grant,U.S.-Grant.jpg,Ulysses S. Grant
+visitors-on-parade,metropolitan-ame-zion-church,,Metropolitan AME Zion Church
+clemens-era-hartford,,,Clemens' Era Hartford
+clemens-era-hartford,union-station,,Union Station
+clemens-era-hartford,american-publishing-company,,American Publishing Company
+clemens-era-hartford,case-lockwood-and-brainard,,"Case, Lockwood, and Brainard"
+clemens-era-hartford,allyn-house,,Allyn House
+clemens-era-hartford,case-and-rathburn,,Case and Rathburn
+clemens-era-hartford,old-state-house,,Old State House
+clemens-era-hartford,fox-and-dow,,Fox and Dow
+clemens-era-hartford,ep-and-wm-kellogg,,EP and Wm. Kellogg
+clemens-era-hartford,george-griffins-apartment,,George Griffin's Apartment
+clemens-era-hartford,brown-and-gross-booksellers,,"Brown and Gross, Booksellers"
+clemens-era-hartford,brown-thompson-and-co,,"Brown, Thompson, and Co."
+clemens-era-hartford,hartford-courant,,Hartford Courant
+clemens-era-hartford,talcott-street-church,,Talcott Street Church
+clemens-era-hartford,hartford-ice-company,,Hartford Ice Company
+clemens-era-hartford,dh-buell,,D. H. Buell
+clemens-era-hartford,paige-compositor,Compositor-drawing--622.jpg,Paige Compositor
+clemens-era-hartford,bushnell-park,,Bushnell Park
+clemens-era-hartford,social-clubs,,Social Clubs
+clemens-era-hartford,education,371.32S979.jpg,Education
+post-clemens-era,,Hartford_Courant_Wed__May_27__1903_.jpg,Post Clemens Era
+post-clemens-era,the-bissells,Marie-Bissell-&-children.jpg,The Bissells
+post-clemens-era,the-kingswood-school-for-boys,MT-Exteriors-1903-50--16.jpg,The Kingswood School for Boys
+post-clemens-era,apartments,Trustees--etc.--31.jpg,Apartments
+saving-the-house,,No--Art26_front.jpg,Saving The House
+saving-the-house,kathrine-seymore-day,K.S.-Day.jpg,Kathrine Seymore Day
+saving-the-house,the-library-moves-in,MT-Library-Branch.tif,The Library Moves In
+saving-the-house,museum-era,Visitor-Center--2-Groo-2011.jpg,Museum Era
+museum-era,walter-k-schwinn,Walter-Schwinn-&-Hal-in-Front-Hall.1967.tif,Walter K. Schwinn
+museum-era,edith-colgate-salsbury,Memorial-Activities-Trustees--Members--&-Staff--3-Salsbury.jpg,Edith Colgate Salsbury
+museum-era,friends-of-the-mark-twain-house,,Friends of the Mark Twain House
+saving-the-house,1974-museum-opening,Visitors--37b.jpg,1974 Museum Opening
+saving-the-house,2003-visitor-center-opening,Visitor-Center--1-Groo-2011.jpg,2003 Visitor Center Opening
+saving-the-house,mark-twain-house-today,MTH-Exterior--1-Groo-2023.jpg,Mark Twain House Today
+it-happened-in-hartford,,,It Happened in Hartford
+it-happened-in-hartford,digital exhibition,,Digital Exhibition
+it-happened-in-hartford,history-around-hartford,,History Around Hartford
+it-happened-in-hartford,action-bound-history-hunts,,ActionBound History Hunts
+it-happened-in-hartford,your-twain-house-story,,Your Twain House Story

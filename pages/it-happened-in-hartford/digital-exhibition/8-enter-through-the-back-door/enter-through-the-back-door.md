@@ -6,6 +6,7 @@ permalink: /digital-exhibition/enter-through-the-back-door.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+parent: enter-through-the-back-door
 previous: the-hairy-members-of-the-family
 next: meet-the-neighborhoods
 ---

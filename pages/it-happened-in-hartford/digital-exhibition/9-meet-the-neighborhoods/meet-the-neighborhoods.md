@@ -8,6 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: enter-through-the-back-door
 next: visitors-on-parade
+parent: meet-the-neighborhoods
 ---
 
   {% include feature/image.html objectid="SLC-&-family-groups--10b" width="75" %}
