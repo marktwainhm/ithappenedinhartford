@@ -1,7 +1,7 @@
 ---
 title: Twain and Grant
 layout: about
-permalink: /digital-exhibition/clemens-era-hartford/bushnell-park/Twain-and-grant.html
+permalink: /digital-exhibition/clemens-era-hartford/bushnell-park/twain-and-grant.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection

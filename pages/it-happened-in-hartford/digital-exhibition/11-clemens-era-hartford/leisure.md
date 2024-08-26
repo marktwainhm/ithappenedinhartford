@@ -1,7 +1,7 @@
 ---
 title: Leisure
 layout: about
-permalink: /digital-exhibition/clemens-era-hartford/Leisure.html
+permalink: /digital-exhibition/clemens-era-hartford/leisure.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
