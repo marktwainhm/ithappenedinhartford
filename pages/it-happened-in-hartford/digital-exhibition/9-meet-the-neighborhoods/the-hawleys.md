@@ -1,13 +1,13 @@
 ---
 title: The Hawleys
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/the-hawleys.html
+permalink: /digital-exhibition/meet-the-neighbors/the-hawleys.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Courant_02031873" width="75" %}
