@@ -1,13 +1,13 @@
 ---
 title: Morgan Buckley 
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/morgan-buckley.html
+permalink: /digital-exhibition/meet-the-neighbors/morgan-buckley.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="CMCH--1969-20-1-199" width="75" %}
