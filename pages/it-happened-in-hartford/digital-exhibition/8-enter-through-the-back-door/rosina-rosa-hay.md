@@ -1,13 +1,13 @@
 ---
 title: Rosina “Rosa” Hay (c. 1850-1920)
 layout: about
-permalink: /digital-exhibition/rosina-rosa-hay.html
+permalink: /digital-exhibition/working-at-the-clemens-house/rosina-rosa-hay.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
-landing-page: enter-through-the-back-door
+parent: working-at-the-clemens-house
+landing-page: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="Rosa2--2-" width="75" %}
