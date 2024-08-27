@@ -1,13 +1,13 @@
 ---
-title: The Hairy Members of the Family
+title: Tails of Twain
 layout: exhibit
-permalink: /digital-exhibition/the-hairy-members-of-the-family.html
+permalink: /digital-exhibition/tails-of-twain.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-previous: you-also-marry-their-family
-next: enter-through-the-back-door
+previous: the-family-tree
+next: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="Clara-before-marriage--5" width="75" %}
