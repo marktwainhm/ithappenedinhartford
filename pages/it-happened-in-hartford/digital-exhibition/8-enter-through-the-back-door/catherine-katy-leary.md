@@ -1,12 +1,12 @@
 ---
 title: Catherine “Katy” Leary (1856-1934)
 layout: about
-permalink: /digital-exhibition/enter-through-the-back-door/catherine-katy-leary.html
+permalink: /digital-exhibition/working-at-the-clemens-house/catherine-katy-leary.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
+parent: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="Employees--21-Katy-Leary" width="75" %}
