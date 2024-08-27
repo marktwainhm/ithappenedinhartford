@@ -1,13 +1,13 @@
 ---
 title: Nina Gabrilowisch (1910-1966)
 layout: about
-permalink: /digital-exhibition/you-also-marry-their-family/nina-gabrilowisch.html
+permalink: /digital-exhibition/the-family-tree/nina-gabrilowisch.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: you-also-marry-their-family
-landing-page: you-also-marry-their-family
+parent: the-family-tree
+landing-page: the-family-tree
 ---
 
 When Samuel Clemens died in April 1910 his daughter Clara, who had married the pianist and conductor Ossip Gabrilowitsch the previous fall, was five months pregnant – a fact she seems not to have relayed to her father in his final days. Nina Gabrilowitsch was born in August, and was raised in the busy environs of a significant musician’s career. The family moved to Munich, Germany, where Ossip conducted the Munich Philharmonic. When World War I broke out Ossip was interned as a Russian national. Clara worked hard to get him back to the United States, where he served for eighteen years as director of the Detroit Symphony Orchestra.
