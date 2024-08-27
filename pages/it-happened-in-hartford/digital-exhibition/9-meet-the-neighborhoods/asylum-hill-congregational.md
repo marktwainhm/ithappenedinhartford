@@ -1,9 +1,9 @@
 ---
 title: Asylum Hill Congregational
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/asylum-hill-congregational.html
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+permalink: /digital-exhibition/meet-the-neighbors/asylum-hill-congregational.html
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
