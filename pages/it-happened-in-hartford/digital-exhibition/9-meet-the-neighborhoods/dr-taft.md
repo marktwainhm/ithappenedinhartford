@@ -1,13 +1,13 @@
 ---
 title: Dr. Taft
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/dr-taft.html
+permalink: /digital-exhibition/meet-the-neighbors/dr-taft.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="CMCH_1991-60-2" width="75" %}
