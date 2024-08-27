@@ -1,13 +1,13 @@
 ---
 title: George Griffin (c. 1850-1897)
 layout: about
-permalink: /digital-exhibition/enter-through-the-back-door/george-griffin.html
+permalink: /digital-exhibition/working-at-the-clemens-house/george-griffin.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
-landing-page: enter-through-the-back-door
+parent: working-at-the-clemens-house
+landing-page: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="KMD_GeorgeGriffin_Stereoview-cropped" width="75" %}
