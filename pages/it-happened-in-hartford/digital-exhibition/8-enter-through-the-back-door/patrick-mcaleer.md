@@ -1,13 +1,13 @@
 ---
 title: Patrick McAleer (c1884-1906)
 layout: about
-permalink: /digital-exhibition/enter-through-the-back-door/patrick-mcaleer.html
+permalink: /digital-exhibition/working-at-the-clemens-house/patrick-mcaleer.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
-landing-page: enter-through-the-back-door
+parent: working-at-the-clemens-house
+landing-page: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="Employees--1-Patrick-McAleer" width="75" %}
