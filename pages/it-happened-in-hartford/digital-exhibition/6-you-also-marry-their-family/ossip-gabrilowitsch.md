@@ -1,13 +1,13 @@
 ---
 title: Ossip Gabrilowitsch (1878-1936)
 layout: about
-permalink: /digital-exhibition/you-also-marry-their-family/ossip-gabrilowitsch.html
+permalink: /digital-exhibition/the-family-tree/ossip-gabrilowitsch.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: you-also-marry-their-family
-landing-page: you-also-marry-their-family
+parent: the-family-tree
+landing-page: the-family-tree
 ---
 
 {% include feature/image.html objectid="Gabrilowitsch--Ossip--3" width="75" %}
