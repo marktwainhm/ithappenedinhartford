@@ -1,13 +1,13 @@
 ---
 title: Olivia Lewis Langdon (1810-1890)
 layout: about
-permalink: /digital-exhibition/you-also-marry-their-family/olivia-lewis-langdon.html
+permalink: /digital-exhibition/the-family-tree/olivia-lewis-langdon.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: you-also-marry-their-family
-landing-page: you-also-marry-their-family
+parent: the-family-tree
+landing-page: the-family-tree
 ---
 
 {% include feature/image.html objectid="Langdon--Olivia-Lewis--2-1" width="75" %}
