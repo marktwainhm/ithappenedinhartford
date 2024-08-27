@@ -1,0 +1,27 @@
+---
+layout: page
+---
+<h1> {{ page. title }}</h1>
+
+<div class="container my-4">
+    {{ content }}
+</div>
+
+<hr>
+<div class="posts clearfix">
+<h3> Visit related pages </h3>
+<br >
+<br >
+  {%- for grid in site.data.config-exhibit -%}
+  {% if grid.parent == page.parent %}
+<div class="card bg-light mb-3" style="width: 18rem;">
+  <img class="card-img-top" src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">
+  <div class="card-body">
+    <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.parent }}/{{ grid.child }}">{{ grid.title }}
+    </a></h4>
+  </div>
+</div>
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>

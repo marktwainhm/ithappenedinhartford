@@ -1,6 +1,6 @@
 ---
 title: About the Mark Twain House and Museum
-layout: about
+layout: grid-page
 permalink: /about-house-and-museum.html
 # include CollectionBuilder info at bottom
 credits: false
@@ -17,5 +17,3 @@ To learn more about the Mark Twain House & Museum, visiting us, or our many prog
 
 
 <a href="https://marktwainhouse.org" class="btn btn-outline-primary">Visit Us</a>
-
-{% include grid-6.html %}

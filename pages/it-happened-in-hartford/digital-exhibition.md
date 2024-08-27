@@ -11,5 +11,3 @@ parent: it-happened-in-hartford
 Within this digital exhibition element, you’ll learn more about this famous author, his extraordinary wife; three lively and intelligent daughters; the people who kept their lives going and the place swept, the grounds tended, and the meals coming. You will also find the stories of those who came to live and work in this house after the Clemenses left, particularly those who preserved it from demolition, restored it to its 19th-century glory, and made it into the historic house museum you can visit today. 
 
 This digital exhibition is a wealth of information that you can read on its own, but it also makes a great companion for anyone wanting to take a deeper dive into a topic they found interesting when visiting our historic house museum or from along our history trail in downtown Hartford.
-
-{% include grid-4.html %}

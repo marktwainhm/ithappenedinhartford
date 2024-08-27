@@ -1,6 +1,6 @@
 ---
 title: About the Mark Twain House and Museum
-layout: page
+layout: grid-page
 permalink: /your-twain-house-story.html
 # include CollectionBuilder info at bottom
 credits: false
@@ -14,5 +14,3 @@ No matter what it is, we want to know YOUR Twain House story!
 Use this google form to submit your story. 
 
 ** Please note that all publicly posted stories may be condensed due to character limits on this page, and will only have first name & last initial or you can chose to remain anonymous, but we hope you tell us the full story and we request that you provide us with your full name and contact information in case we’d like to know more! **
-
-{% include grid-4.html %}

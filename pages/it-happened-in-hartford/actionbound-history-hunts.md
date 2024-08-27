@@ -1,6 +1,6 @@
 ---
 title: ActionBound History Hunts
-layout: page
+layout: grid-page
 permalink: /actionbound-history-hunts.html
 parent: it-happened-in-hartford
 ---
@@ -10,5 +10,3 @@ As we look backward at the Mark Twain House’s history, we are also looking out
 While you walk you’ll find ## historical markers that we’ve placed around the City of Hartford’s Urban Forest. The Forestry Division maintains and improves the urban forest through "out of the box" approaches that will foster ownership by Hartford residents as well as maximize the resources for our green infrastructure
 
 The It Happened In Hartford: 150 Years of the Mark Twain House exhibition is proudly sponsored by
- 
-{% include grid-4.html %}
