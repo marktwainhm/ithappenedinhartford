@@ -1,6 +1,6 @@
 ---
 title: Joseph Hopkins Twichell (1838-1918)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/joseph-hopkins-twichell.html
 # include CollectionBuilder info at bottom
 credits: false

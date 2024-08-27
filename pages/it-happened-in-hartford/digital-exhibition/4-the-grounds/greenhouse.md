@@ -1,6 +1,6 @@
 ---
 title: Greenhouse
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-grounds/greenhouse.html
 # include CollectionBuilder info at bottom
 credits: false

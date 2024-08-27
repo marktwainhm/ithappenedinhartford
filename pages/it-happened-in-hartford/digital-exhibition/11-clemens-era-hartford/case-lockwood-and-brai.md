@@ -1,6 +1,6 @@
 ---
 title: Case, Lockwood & Brainard
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/case-lockwood-and-brainard.html
 # include CollectionBuilder info at bottom
 credits: false

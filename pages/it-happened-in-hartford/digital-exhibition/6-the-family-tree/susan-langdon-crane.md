@@ -1,6 +1,6 @@
 ---
 title: Susan Langdon Crane (1836-1924)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/susan-langdon-crane.html
 # include CollectionBuilder info at bottom
 credits: false

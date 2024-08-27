@@ -1,6 +1,6 @@
 ---
 title: Fox & Dow
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/fox-and-dow.html
 # include CollectionBuilder info at bottom
 credits: false

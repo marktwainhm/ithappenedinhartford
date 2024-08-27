@@ -1,6 +1,6 @@
 ---
 title: Patrick McAleer (c1884-1906)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/patrick-mcaleer.html
 # include CollectionBuilder info at bottom
 credits: false

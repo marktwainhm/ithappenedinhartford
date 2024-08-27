@@ -1,6 +1,6 @@
 ---
 title: Henry Stanley
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/henry-stanley.html
 # include CollectionBuilder info at bottom
 credits: false

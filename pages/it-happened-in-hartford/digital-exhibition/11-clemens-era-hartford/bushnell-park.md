@@ -1,6 +1,6 @@
 ---
 title: Bushnell Park
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/bushnell-park.html
 # include CollectionBuilder info at bottom
 credits: false

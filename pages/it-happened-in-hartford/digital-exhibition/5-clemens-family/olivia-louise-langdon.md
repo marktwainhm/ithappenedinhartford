@@ -1,6 +1,6 @@
 ---
 title: Olivia Louise Langdon
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-family/olivia-louise-langdon.html
 # include CollectionBuilder info at bottom
 credits: false

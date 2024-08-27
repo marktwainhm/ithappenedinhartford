@@ -1,6 +1,6 @@
 ---
 title: Jervis Langdon (1809-1870)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/jervis-langdon.html
 # include CollectionBuilder info at bottom
 credits: false

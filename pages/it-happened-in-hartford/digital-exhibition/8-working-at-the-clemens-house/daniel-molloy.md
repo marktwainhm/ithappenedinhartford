@@ -1,6 +1,6 @@
 ---
 title: Daniel Molloy (c.1862-1930)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/daniel-molloy.html
 # include CollectionBuilder info at bottom
 credits: false

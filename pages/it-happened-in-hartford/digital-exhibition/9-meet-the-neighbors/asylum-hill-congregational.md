@@ -1,6 +1,6 @@
 ---
 title: Asylum Hill Congregational
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/asylum-hill-congregational.html
 parent: meet-the-neighbors
 landing-page: meet-the-neighbors

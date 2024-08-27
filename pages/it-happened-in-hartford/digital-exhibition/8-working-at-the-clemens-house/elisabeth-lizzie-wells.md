@@ -1,6 +1,6 @@
 ---
 title: Elizabeth  “Lizzie” Wells (birth and death dates unknown)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/elizabeth-lizzie-wells.html
 # include CollectionBuilder info at bottom
 credits: false

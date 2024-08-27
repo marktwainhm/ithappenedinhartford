@@ -1,6 +1,6 @@
 ---
 title: Catherine “Katy” Leary (1856-1934)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/catherine-katy-leary.html
 # include CollectionBuilder info at bottom
 credits: false

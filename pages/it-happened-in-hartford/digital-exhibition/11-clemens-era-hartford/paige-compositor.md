@@ -1,6 +1,6 @@
 ---
 title: Paige Compositor
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/paige-compositor.html
 # include CollectionBuilder info at bottom
 credits: false

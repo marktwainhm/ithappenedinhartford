@@ -1,6 +1,6 @@
 ---
 title: EP & Wm. Kellogg - main street side of Gold Building
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/ep-and-wm-kellogg.html
 # include CollectionBuilder info at bottom
 credits: false

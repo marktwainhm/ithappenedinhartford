@@ -1,6 +1,6 @@
 ---
 title: Dr. Taft
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/dr-taft.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: Jacques Samossoud (1894-1966)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/jacques-samossoud.html
 # include CollectionBuilder info at bottom
 credits: false

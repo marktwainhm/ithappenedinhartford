@@ -1,6 +1,6 @@
 ---
 title: Rosina “Rosa” Hay (c. 1850-1920)
-layout: about
+layout: exhibit 
 permalink: /digital-exhibition/working-at-the-clemens-house/rosina-rosa-hay.html
 # include CollectionBuilder info at bottom
 credits: false

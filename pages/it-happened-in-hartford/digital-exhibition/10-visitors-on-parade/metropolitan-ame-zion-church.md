@@ -1,6 +1,6 @@
 ---
 title: Metropolitan AME Zion Church
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/metropolitan-ame-zion-church.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: Jane Lampton Clemens (1803-1890)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/jane-lampton-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: John O’Neil (1848-1923) and Ellen O’Neil (1852-1927)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/john-oneil.html
 # include CollectionBuilder info at bottom
 credits: false

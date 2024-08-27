@@ -1,6 +1,6 @@
 ---
 title: The Hawleys
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-hawleys.html
 # include CollectionBuilder info at bottom
 credits: false

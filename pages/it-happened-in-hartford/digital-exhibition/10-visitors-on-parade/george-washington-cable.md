@@ -1,6 +1,6 @@
 ---
 title: George Washington Cable
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/george-washington-cable.html
 # include CollectionBuilder info at bottom
 credits: false

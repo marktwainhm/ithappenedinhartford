@@ -1,6 +1,6 @@
 ---
 title: Hartford Courant – formerly 14 Pratt St.
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/hartford-courant.html
 # include CollectionBuilder info at bottom
 credits: false

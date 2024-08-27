@@ -1,6 +1,6 @@
 ---
 title: Old State House
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/old-state-house.html
 # include CollectionBuilder info at bottom
 credits: false

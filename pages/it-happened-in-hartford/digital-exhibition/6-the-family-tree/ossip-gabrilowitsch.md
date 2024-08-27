@@ -1,6 +1,6 @@
 ---
 title: Ossip Gabrilowitsch (1878-1936)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/ossip-gabrilowitsch.html
 # include CollectionBuilder info at bottom
 credits: false

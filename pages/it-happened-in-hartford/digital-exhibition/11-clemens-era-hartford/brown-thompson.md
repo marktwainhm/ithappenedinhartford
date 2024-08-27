@@ -1,6 +1,6 @@
 ---
 title: Brown, Thompson, & Co and clothing in general
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/brown-thompson-and-co.html
 # include CollectionBuilder info at bottom
 credits: false

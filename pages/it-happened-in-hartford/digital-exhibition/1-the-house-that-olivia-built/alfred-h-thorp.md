@@ -1,6 +1,6 @@
 ---
 title: Alfred H. Thorp (1843-1919)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-house-that-olivia-built/alfred-h-thorp.html
 # include CollectionBuilder info at bottom
 credits: false

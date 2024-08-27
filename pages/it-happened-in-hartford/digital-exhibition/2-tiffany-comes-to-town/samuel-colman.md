@@ -1,6 +1,6 @@
 ---
 title: Samuel Colman (1832-1920)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/samuel-colman.html
 # include CollectionBuilder info at bottom
 credits: false

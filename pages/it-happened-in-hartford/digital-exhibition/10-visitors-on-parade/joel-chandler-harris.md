@@ -1,6 +1,6 @@
 ---
 title: Joel Chandler Harris
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/joel-chandler-harris.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: The Perkins
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-perkins.html
 # include CollectionBuilder info at bottom
 credits: false

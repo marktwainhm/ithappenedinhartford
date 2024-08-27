@@ -1,6 +1,6 @@
 ---
 title: Clara Langdon Clemens
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-family/clara-langdon-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

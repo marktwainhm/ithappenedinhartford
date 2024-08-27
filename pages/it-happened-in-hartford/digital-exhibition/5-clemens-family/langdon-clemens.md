@@ -1,6 +1,6 @@
 ---
 title: Langdon Clemens
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-family/langdon-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

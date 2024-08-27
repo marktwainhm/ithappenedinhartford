@@ -1,6 +1,6 @@
 ---
 title: George Griffin’s Apartment
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/george-griffins-apartment.html
 # include CollectionBuilder info at bottom
 credits: false

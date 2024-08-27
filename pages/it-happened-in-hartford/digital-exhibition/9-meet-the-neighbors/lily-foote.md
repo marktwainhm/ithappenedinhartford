@@ -1,6 +1,6 @@
 ---
 title: Lily Foote
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/lily-foote.html
 # include CollectionBuilder info at bottom
 credits: false

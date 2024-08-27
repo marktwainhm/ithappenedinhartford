@@ -1,6 +1,6 @@
 ---
 title: "A Life Lived in a Rapidly Changing World: Samuel L. Clemens‚ 1835-1910"
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-family/samuel-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

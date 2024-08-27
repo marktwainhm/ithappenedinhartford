@@ -1,6 +1,6 @@
 ---
 title: Edward Tuckerman Potter (1831-1904)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-house-that-olivia-built/edward-tuckerman-potter.html
 # include CollectionBuilder info at bottom
 credits: false

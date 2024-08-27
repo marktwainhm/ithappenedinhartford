@@ -1,6 +1,6 @@
 ---
 title: Olivia Lewis Langdon (1810-1890)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/olivia-lewis-langdon.html
 # include CollectionBuilder info at bottom
 credits: false

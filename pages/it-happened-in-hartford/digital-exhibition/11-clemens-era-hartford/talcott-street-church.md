@@ -1,6 +1,6 @@
 ---
 title: Talcott Street Church –950 Main Street
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/talcott-street-church.html
 # include CollectionBuilder info at bottom
 credits: false

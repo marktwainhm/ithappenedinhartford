@@ -1,6 +1,6 @@
 ---
 title: Frederick Schweppe (1837-1892)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/frederick-scheweppe.html
 # include CollectionBuilder info at bottom
 credits: false

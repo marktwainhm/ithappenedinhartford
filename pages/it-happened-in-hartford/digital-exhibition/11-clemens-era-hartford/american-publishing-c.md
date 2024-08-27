@@ -1,6 +1,6 @@
 ---
 title: American Publishing Company
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/american-publishing-company.html
 # include CollectionBuilder info at bottom
 credits: false

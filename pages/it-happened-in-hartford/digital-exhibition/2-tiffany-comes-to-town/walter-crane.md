@@ -1,6 +1,6 @@
 ---
 title: Walter Crane (1845-1915)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/walter-crane.html
 # include CollectionBuilder info at bottom
 credits: false

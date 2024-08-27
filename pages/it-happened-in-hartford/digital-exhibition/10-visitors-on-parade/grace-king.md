@@ -1,6 +1,6 @@
 ---
 title: Grace King
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/grace-king.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: The Stowes
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-stowes.html
 # include CollectionBuilder info at bottom
 credits: false

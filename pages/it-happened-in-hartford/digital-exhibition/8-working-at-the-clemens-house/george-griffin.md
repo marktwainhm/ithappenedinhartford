@@ -1,6 +1,6 @@
 ---
 title: George Griffin (c. 1850-1897)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/george-griffin.html
 # include CollectionBuilder info at bottom
 credits: false

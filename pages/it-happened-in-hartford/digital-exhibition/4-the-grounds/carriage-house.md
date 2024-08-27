@@ -1,6 +1,6 @@
 ---
 title: Carriage House
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-grounds/carriage-house.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: Ulysses S. Grant
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/ulysses-s-grant.html
 # include CollectionBuilder info at bottom
 credits: false

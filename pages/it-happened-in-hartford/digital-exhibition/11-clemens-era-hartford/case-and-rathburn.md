@@ -1,6 +1,6 @@
 ---
 title: Case & Rathburn
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/case-and-rathburn.html
 # include CollectionBuilder info at bottom
 credits: false

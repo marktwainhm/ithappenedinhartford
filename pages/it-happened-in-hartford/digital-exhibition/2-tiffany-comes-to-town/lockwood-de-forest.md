@@ -1,6 +1,6 @@
 ---
 title: Lockwood de Forest (1850-1932)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/lockwood-de-forest.html
 # include CollectionBuilder info at bottom
 credits: false

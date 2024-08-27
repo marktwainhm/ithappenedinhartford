@@ -1,6 +1,6 @@
 ---
 title: D.H. Buell Jewelry/Dwight Buell (1833-1889)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/dh-buell-jewelry.html
 # include CollectionBuilder info at bottom
 credits: false

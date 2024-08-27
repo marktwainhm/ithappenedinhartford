@@ -1,6 +1,6 @@
 ---
 title: Bret Harte
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/bret-harte.html
 # include CollectionBuilder info at bottom
 credits: false

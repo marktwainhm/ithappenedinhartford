@@ -1,6 +1,6 @@
 ---
 title: The Park River
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-grounds/the-park-river.html
 # include CollectionBuilder info at bottom
 credits: false

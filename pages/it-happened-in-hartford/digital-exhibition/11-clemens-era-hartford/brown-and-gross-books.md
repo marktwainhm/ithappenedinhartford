@@ -1,6 +1,6 @@
 ---
 title: Brown, & Gross booksellers
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/brown-and-gross-booksellers.html
 # include CollectionBuilder info at bottom
 credits: false

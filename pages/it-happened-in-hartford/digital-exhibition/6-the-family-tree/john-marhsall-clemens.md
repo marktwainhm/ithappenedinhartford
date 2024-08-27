@@ -1,6 +1,6 @@
 ---
 title: John Marshall Clemens (1798-1847)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/john-marshall-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

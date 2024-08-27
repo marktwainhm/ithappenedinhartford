@@ -1,6 +1,6 @@
 ---
 title: Nina Gabrilowisch (1910-1966)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-family-tree/nina-gabrilowisch.html
 # include CollectionBuilder info at bottom
 credits: false

@@ -1,6 +1,6 @@
 ---
 title: Candace Wheeler (1827-1923)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/candace-wheeler.html
 # include CollectionBuilder info at bottom
 credits: false

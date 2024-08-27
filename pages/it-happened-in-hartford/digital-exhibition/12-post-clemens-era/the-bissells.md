@@ -1,6 +1,6 @@
 ---
 title: The Bissell’s
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/the-bissells.html
 # include CollectionBuilder info at bottom
 credits: false

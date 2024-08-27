@@ -1,6 +1,6 @@
 ---
 title: Jane Lampton Clemens
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/jane-lampton-clemens.html
 # include CollectionBuilder info at bottom
 credits: false

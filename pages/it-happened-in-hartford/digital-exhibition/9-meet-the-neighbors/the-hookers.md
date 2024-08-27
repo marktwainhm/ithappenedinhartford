@@ -1,6 +1,6 @@
 ---
 title: The Hookers
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-hookers.html
 # include CollectionBuilder info at bottom
 credits: false

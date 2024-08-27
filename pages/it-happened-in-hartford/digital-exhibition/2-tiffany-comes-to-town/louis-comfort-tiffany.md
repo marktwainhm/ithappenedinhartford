@@ -1,6 +1,6 @@
 ---
 title: Louis Comfort Tiffany (1848-1933)
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/tiffany-comes-to-town/louis-comfort-tiffany.html
 # include CollectionBuilder info at bottom
 credits: false

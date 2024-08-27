@@ -1,6 +1,6 @@
 ---
 title: Morgan Buckley 
-layout: about
+layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/morgan-buckley.html
 # include CollectionBuilder info at bottom
 credits: false
