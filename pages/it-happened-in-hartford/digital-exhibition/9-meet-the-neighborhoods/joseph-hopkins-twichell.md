@@ -1,13 +1,13 @@
 ---
 title: Joseph Hopkins Twichell (1838-1918)
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/joseph-hopkins-twichell.html
+permalink: /digital-exhibition/meet-the-neighbors/joseph-hopkins-twichell.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Twichell--J-H---2-" width="75" %}
