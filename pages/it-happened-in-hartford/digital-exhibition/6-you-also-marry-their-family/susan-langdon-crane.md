@@ -1,13 +1,13 @@
 ---
 title: Susan Langdon Crane (1836-1924)
 layout: about
-permalink: /digital-exhibition/you-also-marry-their-family/susan-langdon-crane.html
+permalink: /digital-exhibition/the-family-tree/susan-langdon-crane.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: you-also-marry-their-family
-landing-page: you-also-marry-their-family
+parent: the-family-tree
+landing-page: the-family-tree
 ---
 
 {% include feature/image.html objectid="Crane--Susan--1" width="75" %}
