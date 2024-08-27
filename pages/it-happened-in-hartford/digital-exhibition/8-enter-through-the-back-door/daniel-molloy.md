@@ -1,12 +1,12 @@
 ---
 title: Daniel Molloy (c.1862-1930)
 layout: about
-permalink: /digital-exhibition/enter-through-the-back-door/daniel-molloy.html
+permalink: /digital-exhibition/working-at-the-clemens-house/daniel-molloy.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
+parent: working-at-the-clemens-house
 ---
 
 {% include feature/image.html objectid="249" width="75" %}
