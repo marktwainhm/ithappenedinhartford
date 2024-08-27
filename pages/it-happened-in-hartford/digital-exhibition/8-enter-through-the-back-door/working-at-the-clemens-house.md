@@ -1,14 +1,14 @@
 ---
-title: Enter Through The Back Door
+title: Working at the Clemens House
 layout: exhibit
-permalink: /digital-exhibition/enter-through-the-back-door.html
+permalink: /digital-exhibition/working-at-the-clemens-house.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: enter-through-the-back-door
-previous: the-hairy-members-of-the-family
-next: meet-the-neighborhoods
+parent: working-at-the-clemens-house
+previous: tails-of-twain
+next: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="KMD_GeorgeGriffin_Stereoview" width="75" %}
