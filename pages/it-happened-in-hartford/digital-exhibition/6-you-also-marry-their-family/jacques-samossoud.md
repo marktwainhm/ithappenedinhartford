@@ -1,11 +1,11 @@
 ---
 title: Jacques Samossoud (1894-1966)
 layout: about
-permalink: /digital-exhibition/you-also-marry-their-family/jacques-samossoud.html
+permalink: /digital-exhibition/the-family-tree/jacques-samossoud.html
 # include CollectionBuilder info at bottom
 credits: false
-parent: you-also-marry-their-family
-landing-page: you-also-marry-their-family
+parent: the-family-tree
+landing-page: the-family-tree
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
