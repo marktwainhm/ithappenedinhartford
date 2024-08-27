@@ -1,13 +1,13 @@
 ---
 title: Lily Foote
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/lily-foote.html
+permalink: /digital-exhibition/meet-the-neighbors/lily-foote.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Livy-to-OLL-Feb--2--1890" width="75" %}
