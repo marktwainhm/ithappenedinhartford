@@ -35,16 +35,9 @@
     clear: both;
 }
 
-.post {
-    blockquote {
-        margin: 1.8em .8em;
-        border-left: 1px;
-        padding: 0.1em 1em;;
+.card {
+    display:inline-block;
     }
-    img {
-       width: 100%;
-       max-width: 420px;
-       height: 100%;
-       max-width: 280px;
-    }
+.card img {
+    max-height: 300px;
 }

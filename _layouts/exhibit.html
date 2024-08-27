@@ -27,14 +27,21 @@ layout: page
         </div>
     </div>
 
+<hr>
 
 <div class="posts clearfix">
+<h3> Visit related pages for {{ page.title }}</h3>
+<br >
+<br >
   {%- for grid in site.data.config-exhibit -%}
   {% if grid.parent == page.parent %}
-    <article class="post">
-    <img src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">    
-      <a href="{{ site.baseurl }}/ithappenedinhartford/{{ grid.parent }}/{{ grid.child }}">{{ grid.title }}
-    </a>
+<div class="card bg-light mb-3" style="width: 18rem;">
+  <img class="card-img-top" src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">
+  <div class="card-body">
+    <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.parent }}/{{ grid.child }}">{{ grid.title }}
+    </a></h4>
+  </div>
+</div>
     </article>
     {% endif %}
   {% endfor %}
