@@ -1,13 +1,13 @@
 ---
 title: The Gillettes
 layout: about
-permalink: /digital-exhibition/meet-the-neighborhoods/the-gillettes.html
+permalink: /digital-exhibition/meet-the-neighbors/the-gillettes.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: meet-the-neighborhoods
-landing-page: meet-the-neighborhoods
+parent: meet-the-neighbors
+landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Friends-Photos---Gillette--William--10" width="75" %}
