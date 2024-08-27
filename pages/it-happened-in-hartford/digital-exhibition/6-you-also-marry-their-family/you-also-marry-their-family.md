@@ -1,5 +1,5 @@
 ---
-title: You also marry their family...
+title: The Family Tree
 layout: exhibit
 permalink: /digital-exhibition/the-family-tree.html
 # include CollectionBuilder info at bottom
