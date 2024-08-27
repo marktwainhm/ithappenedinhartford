@@ -1,14 +1,14 @@
 ---
-title: Meet the Neighborhoods
+title: Meet the Neighbors
 layout: exhibit
-permalink: /digital-exhibition/meet-the-neighborhoods.html
+permalink: /digital-exhibition/meet-the-neighbors.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-previous: enter-through-the-back-door
+previous: working-at-the-clemens-house
 next: visitors-on-parade
-parent: meet-the-neighborhoods
+parent: meet-the-neighbors
 ---
 
   {% include feature/image.html objectid="SLC-&-family-groups--10b" width="75" %}
