@@ -20,15 +20,23 @@ The wallpaper in the Clemens children’s nursery in the Hartford house is a rep
 The nursery illustrations portray scenes from the nursery rhyme “A Frog He Would A-Wooing Go…” 
 
 > *A frog he would a-wooing go,*
+>
 > *Heigh ho! says Rowley,*
+>
 > *A frog he would a-wooing go,*
+>
 > *Whether his mother would let him or no.*
+>
 > *With a rowley, powley, gammon, and spinach,*
+>
 > *Heigh ho! says Anthony Rowley.*
 
 …known perhaps better in America in its Appalachian variant, “Froggy Went A-Courting.”
 
 > *Frog went a-courtin', and he did ride, Uh-huh,*
-> *Frog went a-courtin', and he did ride, Uh-huh,*
+>
+>  *Frog went a-courtin', and he did ride, Uh-huh,*
+>
 > *Frog went a-courtin', and he did ride.*
+>
 > *With a sword and a pistol by his side, Uh-huh.*
