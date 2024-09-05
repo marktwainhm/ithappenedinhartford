@@ -1,5 +1,5 @@
 ---
-title: The House That Olivia Built
+title: The House That The Clemenses Built
 layout: exhibit
 permalink: /digital-exhibition/the-house-that-olivia-built.html
 # include CollectionBuilder info at bottom
