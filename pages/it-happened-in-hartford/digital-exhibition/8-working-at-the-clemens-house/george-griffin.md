@@ -1,5 +1,5 @@
 ---
-title: George Griffin (c. 1850-1897)
+title: George Griffin (c.1850-1897)
 layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/george-griffin.html
 # include CollectionBuilder info at bottom
@@ -9,7 +9,7 @@ credits: false
 parent: working-at-the-clemens-house
 landing-page: working-at-the-clemens-house
 previous: working-at-the-clemens-house
-next: catherine-katy-leary
+next: catherine-leary
 ---
 
 {% include feature/image.html objectid="KMD_GeorgeGriffin_Stereoview-cropped" width="75" %}
