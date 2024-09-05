@@ -22,4 +22,4 @@ In the household, Griffin was well connected to the social and political world o
 
 Griffin was married twice, first to a woman named Rhoda with whom he had a daughter who died in infancy; and then to a woman named Mary with whom he had a son, Lucius, who unfortunately died as a teenager. Mary and Lucious are both buried in Old North Church on the north-side of Hartford. Griffin’s burial is believed to be unmarked in New York City. 
 
-In 2024 the Twain scholar Kevin Mac Donnell of Austin, Texas, was able to locate the sole known photograph of Griffin. Mac Donnell also produced the first full-scale biography of Griffin, published in the Mark Twain Journal’s spring issue, which filled out many previously unknown elements of his career and family life. 
+In 2024 the Twain scholar Kevin Mac Donnell of Austin, Texas, was able to locate the sole known photograph of Griffin. Mac Donnell also produced the first full-scale biography of Griffin, published in the _Mark Twain Journal’s_ spring issue, which filled out many previously unknown elements of his career and family life. 
