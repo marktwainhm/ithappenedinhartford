@@ -114,7 +114,7 @@ At home in Hartford, Samuel continued to practice his storytelling craft– he u
   <p>Twain’s fifth and last travel book is a relatively straightforward narrative of his round-the-world lecture tour of 1895-96. It includes discussions of Australian history and economic development, Asian culture, British rule in India and South African politics. It contains many humorous passages, but is generally more serious in tone than the author’s earlier travel works.</p>
 </div>
 
-<button type="button" class="collapsible">The Mysterious Stranger -1916</button>
+<button type="button" class="collapsible">1916 The Mysterious Stranger</button>
 <div class="content">
   {% include feature/image.html objectid="The-Mysterious-Stranger-Wat---810C625my" width="75" %}
   <p>An adult tale set in a medieval European village‚ _The Mysterious Stranger_ tells of some boys who encounter a young stranger who performs wonderful feats of magic and shows the boys different times and places in mankind’s history. The stranger turns out to be a nephew of Satan. In this work, not published during his lifetime and not in its entirety for decades after his death, Twain explored and explained his feelings about religion and faith, good and evil.</p>
