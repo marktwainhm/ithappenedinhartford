@@ -12,6 +12,7 @@ next: tiffany-comes-to-town
 ---
 
 {% include feature/image.html objectid="Exterior-1874-81--7" width="75" %}
+
 When Samuel and Olivia Clemens decided to move to Hartford, they were pursuing both financial and social stability. In the 1870s Hartford was a growing city aiming to become one of the foremost business centers in the United States, attracting people from all classes and backgrounds. Hartford offered a variety of economic opportunities for Samuel and the social network familiar to someone of Olivia’s background.
 
 When the couple arrived in Hartford in October 1871, they rented rooms from Olivia’s friends John and Isabella Beecher Hooker as they began to immerse themselves into Hartford society. Later that year, Olivia wrote to Samuel, “I think I have decided what we shall do about building. I have decided so you will not have to decide, Dear Heart.” In 1873, using money from Olivia’s inheritance, the couple purchased a parcel of land in the Hartford neighborhood of Nook Farm and hired architect Edward Tuckerman Potter to design and build a stately 19-room mansion.
