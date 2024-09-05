@@ -13,7 +13,6 @@ next: tiffany-comes-to-town
 ---
 
 {% include feature/image.html objectid="MT-House-Exteriors-1874-81--5-" width="75" %}
-**Alfred H. Thorp (1843-1919)**
 
 New York architect Alfred H. Thorp, worked with Edward Tuckerman Potter, in the construction of the Clemenses’ Hartford house. Thorp has been seen as the source of knowledge about French architecture by scholars trying to puzzle out the different medieval European influences on the Clemens home. Thorp had studied in Paris with the renowned architect Pierre Jérôme Honoré Daumet, known for his elegant work on civic and church buildings, including the chapel at the Palace of Versailles. The same year the Clemenses’ Hartford home was built, Thorp was also contracted to build Clemens a writing study at the Elmira home of Olivia’s sister, Susan Crane. 
 
