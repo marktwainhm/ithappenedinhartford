@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: visitors-on-parade
 next: Business
-parent: post-clemens-era
+parent: clemens-era-hartford
 ---
 
 {% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}
