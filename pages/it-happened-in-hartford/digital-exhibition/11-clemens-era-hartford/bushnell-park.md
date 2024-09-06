@@ -7,9 +7,9 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: Hartford-Society
-landing-page: Hartford-Society
-previous: Hartford-Society
-next: leisure
+landing-page: leisure
+previous: leisure
+next: baseball
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
