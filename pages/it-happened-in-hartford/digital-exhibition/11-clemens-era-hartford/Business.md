@@ -13,4 +13,4 @@ next: Union-station
 
 {% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}
 
-When the Clemenses came to Hartford in the 1870s, the city was booming. It was full of industry and commerce fueled by the growing population and growing industries such as publishing. Based on their check register, letters, and other archives, we can identify over 150 locations/businesses in Hartford that connect to the family in one way or another. Below are a selection of those locations. Click on their icon to learn more about each. 
+When the Clemenses came to Hartford in the 1870s, the city was a booming commercial center fueled by the growing population and  industries such as publishing, munitions, and textiles. The city was the source of all the goods and services the Clemens family needed for their daily lives. Based on their check register, letters, and other archives, we can identify over 150 locations/businesses in Hartford that connect to the family in one way or another. Below are a selection of those locations. Click on their icon to learn more about each. 
