@@ -6,8 +6,8 @@ permalink: /digital-exhibition/clemens-era-hartford/education.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: Hartford-society
-landing-page: Hartford-society
+parent: clemens-era-hartford
+landing-page: clemens-era-hartford
 previous: churches
 next: Post-clemens-era
 ---
