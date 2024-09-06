@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 landing-page: business
-previous: Allyn-House
+previous: case-and-rathburn
 next: Fox-and-dow
 ---
 
