@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
-landing-page: the-family-tree
-previous: Susan-langdon-crane
-next: nina-gabrilowitsch
+previous: the-family-tree/susan-langdon-crane
+next: the-family-tree/nina-gabrilowitsch
 ---
 
 {% include feature/image.html objectid="Gabrilowitsch--Ossip--3" width="75" %}

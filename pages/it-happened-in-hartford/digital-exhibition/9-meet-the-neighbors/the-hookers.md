@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
-landing-page: meet-the-neighbors
-previous: the-warners
-next: the-stowes
+previous: meet-the-neighbors/the-warners
+next: meet-the-neighbors/the-stowes
 ---
 
 {% include feature/image.html objectid="Houses-other-Hooker--1" width="75" %}

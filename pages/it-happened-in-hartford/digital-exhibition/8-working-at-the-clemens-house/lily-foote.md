@@ -9,7 +9,7 @@ credits: false
 parent: working-at-the-clemens-house
 landing-page: working-at-the-clemens-house
 previous: patrick-mcaleer
-next: meet-the-neighbors
+next: working-at-the-clemens-house/meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Livy-to-OLL-Feb--2--1890" width="75" %}

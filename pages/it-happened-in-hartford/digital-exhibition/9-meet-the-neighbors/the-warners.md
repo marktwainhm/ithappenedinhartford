@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
-landing-page: meet-the-neighbors
 previous: meet-the-neighbors
-next: the-hookers
+next: meet-the-neighbors/the-hookers
 ---
 
 ### George (1833-1919) & Lilly Gillette Warner (1838-1915) 

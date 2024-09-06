@@ -9,7 +9,7 @@ credits: false
 parent: working-at-the-clemens-house
 landing-page: working-at-the-clemens-house
 previous: working-at-the-clemens-house
-next: catherine-leary
+next: working-at-the-clemens-house/catherine-leary
 ---
 
 {% include feature/image.html objectid="KMD_GeorgeGriffin_Stereoview-cropped" width="75" %}

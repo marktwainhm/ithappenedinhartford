@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
-landing-page: the-family-tree
-previous: jervis-langdon
-next: susan-langdon-crane
+previous: the-family-tree/jervis-langdon
+next: the-family-tree/susan-langdon-crane
 
 ---
 

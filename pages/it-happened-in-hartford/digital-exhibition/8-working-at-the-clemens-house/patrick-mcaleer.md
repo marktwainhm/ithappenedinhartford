@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 landing-page: working-at-the-clemens-house
-previous: john-oneil
-next: lily-foote
+previous: working-at-the-clemens-house/john-oneil
+next: working-at-the-clemens-house/lily-foote
 ---
 
 {% include feature/image.html objectid="Employees--1-Patrick-McAleer" width="75" %}

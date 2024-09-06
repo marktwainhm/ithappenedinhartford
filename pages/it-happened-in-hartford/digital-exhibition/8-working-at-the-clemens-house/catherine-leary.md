@@ -8,8 +8,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
-previous: george-griffin
-next: rosina-hay
+previous: working-at-the-clemens-house/george-griffin
+next: working-at-the-clemens-house/osina-hay
 ---
 
 {% include feature/image.html objectid="Employees--21-Katy-Leary" width="75" %}
