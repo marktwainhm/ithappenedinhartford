@@ -1,5 +1,5 @@
 ---
-title: Elizabeth “Lizzie” Wells (n.d.)
+title: Elizabeth “Lizzie” Wells (c.1845-n.d.)
 layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/elizabeth-wells.html
 # include CollectionBuilder info at bottom
