@@ -9,7 +9,7 @@ credits: false
 parent: business
 landing-page: business
 previous: case-lockwood-brainard
-next: state-house-square
+next: case-and-rathburn
 ---
 
 {% include feature/image.html objectid="CMCH_2000-197-37" width="75" %}
