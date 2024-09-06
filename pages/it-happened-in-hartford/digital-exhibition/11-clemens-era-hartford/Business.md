@@ -6,11 +6,11 @@ permalink: /digital-exhibition/clemens-era-hartford.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+parent: post-clemens-era
 previous: post-clemens-era
 next: Union-station
-parent: post-clemens-era
 ---
 
 {% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}
 
-We think of “Clemens Era Hartford” as the seventeen years the Clemens family lived here. But we have to remember that Hartford’s existing sophisticated population, dynamic commerce, splendid homes, broad avenues, and natural beauty were what attracted Samuel and Olivia Clemens to relocate here in 1871. And Hartford continued to grow and thrive after the Clemenses left. 
+When the Clemenses came to Hartford in the 1870s, the city was booming. It was full of industry and commerce fueled by the growing population and growing industries such as publishing. Based on their check register, letters, and other archives, we can identify over 150 locations/businesses in Hartford that connect to the family in one way or another. Below are a selection of those locations. Click on their icon to learn more about each. 
