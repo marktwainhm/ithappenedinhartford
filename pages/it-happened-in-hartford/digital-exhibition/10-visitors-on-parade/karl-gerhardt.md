@@ -1,7 +1,7 @@
 ---
-title: Karl Gerhart 
+title: Karl Gerhardt (1853-1940)
 layout: exhibit
-permalink: /digital-exhibition/visitors-on-parade/karl-gerhart.html
+permalink: /digital-exhibition/visitors-on-parade/karl-gerhardt.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
