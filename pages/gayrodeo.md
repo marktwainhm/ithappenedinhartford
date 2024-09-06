@@ -1,7 +1,7 @@
 ---
-title: Gay Rodeo Home
+title: Twain House Stories
 layout: gayrodeo
-permalink: /gayrodeo.html
+permalink: /twain-house-stories.html
 ---
 
 {% for conversation in site.data.conversation-filters %}
