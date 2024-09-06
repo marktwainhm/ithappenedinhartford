@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
 landing-page: clemens-era-hartford
-previous: churches
-next: Post-clemens-era
+previous: clemens-era-hartford/churches
+next: clemens-era-hartford/post-clemens-era
 ---
 
 {% include feature/image.html objectid="371-32S979" width="75" %}

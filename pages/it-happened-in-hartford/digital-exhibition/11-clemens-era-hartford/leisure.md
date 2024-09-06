@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
 previous: clemens-era-hartford
-next: Bushnell-park
+next: clemens-era-hartford/bushnell-park
 ---
 
 {% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}

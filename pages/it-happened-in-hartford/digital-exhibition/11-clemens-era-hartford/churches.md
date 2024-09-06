@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
-previous: social-clubs
-next: education
+previous: clemens-era-hartford/social-clubs
+next: clemens-era-hartford/education
 ---
 
 Samuel Clemens struggled with religion his whole life, but his wifi Olivia was devout in her beliefs. Smauel's best friend, Joseph Twichell, was the Reverant at the Asylum Hill Congregational Church, so the Clemenses were regular attendees at that church. While George Griffin, their butler, attended the Metropolitan AME Zion Church. 

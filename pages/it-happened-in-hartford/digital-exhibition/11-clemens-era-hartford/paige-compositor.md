@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: business
-landing-page: business
-previous: hartford-ice-company
-next: leisure
+previous: clemens-era-hartford/hartford-ice-company
+next: clemens-era-hartford/leisure
 ---
 
 {% include feature/image.html objectid="Compositor-drawing--622" width="75" %}

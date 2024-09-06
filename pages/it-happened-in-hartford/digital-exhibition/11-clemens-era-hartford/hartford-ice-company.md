@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: business
-landing-page: business
-previous: hartford-courant
-next: paige-compositor
+previous: clemens-era-hartford/hartford-courant
+next: clemens-era-hartford/paige-compositor
 ---
 
 {% include feature/image.html objectid="CHCM_1982-61-282" width="75" %}

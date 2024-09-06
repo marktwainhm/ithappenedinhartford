@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
-previous: peddling-revolution
-next: churches
+previous: clemens-era-hartford/peddling-revolution
+next: clemens-era-hartford/churches
 ---
 
 Social Clubs were a source of entertainment and status during the Gilded Age. The Clemenses were patrons and participants in many social clubs and engangments. Below are three often associated with the Clemenses.

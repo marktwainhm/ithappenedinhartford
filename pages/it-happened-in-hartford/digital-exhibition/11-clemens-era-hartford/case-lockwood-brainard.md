@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 landing-page: business
-previous: american-publishing
-next: allyn-house
+previous: clemens-era-hartford/american-publishing
+next: clemens-era-hartford/allyn-house
 ---
 
 {% include feature/image.html objectid="CMCH_2000-174-7" width="75" %}
