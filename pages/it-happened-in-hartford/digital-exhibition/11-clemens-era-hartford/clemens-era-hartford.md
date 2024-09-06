@@ -7,8 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 previous: visitors-on-parade
-next: post-clemens-era
-parent: Business
+next: Business
+parent: post-clemens-era
 ---
 
 {% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}
