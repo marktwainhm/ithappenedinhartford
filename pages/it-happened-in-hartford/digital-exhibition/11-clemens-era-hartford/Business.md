@@ -6,8 +6,8 @@ permalink: /digital-exhibition/clemens-era-hartford.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: post-clemens-era
-previous: post-clemens-era
+parent: clemens-era-hartford
+previous: clemens-era-hartford
 next: Union-station
 ---
 
