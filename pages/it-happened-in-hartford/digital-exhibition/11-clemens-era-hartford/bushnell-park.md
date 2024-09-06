@@ -9,7 +9,7 @@ credits: false
 parent: Hartford-Society
 landing-page: Hartford-Society
 previous: Hartford-Society
-next: social-clubs
+next: leisure
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
