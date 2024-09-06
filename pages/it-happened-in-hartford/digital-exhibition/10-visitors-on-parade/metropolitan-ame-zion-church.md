@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
-landing-page: visitors-on-parade
 ---
 
 In 1816 African American Christians in Hartford got tired of being segregated in the balconies of churches dominated by Whites, and began to hold Sunday meetings on their own. Ten years later they formed an African Religious Society with its own building on Talcott Street. The society split in 1833, with one faction forming a Congregational church and the other a Methodist Episcopal church.

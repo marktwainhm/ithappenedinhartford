@@ -3,7 +3,6 @@ title: Edith Colgate Salsbury
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/edith-colgate-salsbury.html
 parent: saving-the-house
-landing-page: saving-the-house
 ---
 
 {% include feature/image.html objectid="Memorial-Actitivities-Trustees--Members---Staff--3-Salsbury" width="75" %}

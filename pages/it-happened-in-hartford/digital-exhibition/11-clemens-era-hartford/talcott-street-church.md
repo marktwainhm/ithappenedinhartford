@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
 ---
 
 In 1819 a group of African Americans living in Hartford were tired of having to sit in the back of churches and given assigned seating in galleries. They decided they would worship on their own terms and started in a small conference room of the First Church of Christ, now Center Church. They became the first Black Congregational Church in the state and the third oldest in the country. A year later they moved to a building on State Street and formed “The African American Religious Society of Hartford.” Plans began to find a new house of worship where all were welcomed, and seating was wherever one chose. Eventually they purchased a property at the corner of Talcott and Market streets and built a stone and brick church. It was the epicenter for Hartford’s Black community and a meeting place for abolitionists and the social movements that emerged during the period. Additionally, the church realized they needed to educate their members in order to help them succeed and therefore established a school district where Black children could learn how to read and write; the only place they could do so for many years.

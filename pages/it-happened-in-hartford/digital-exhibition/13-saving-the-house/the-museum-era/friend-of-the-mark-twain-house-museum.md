@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: saving-the-house
-landing-page: saving-the-house
 ---
 Fran Gordon met with 32 women on September 25, 1967 to formally organize what is now the Friends of the Mark Twain House & Museum.* The group evolved after the president of the Board of Trustees added women to its membership in 1954. They were responsible for caring for museum collections, library cataloging and research, and giving tours of the house.
 

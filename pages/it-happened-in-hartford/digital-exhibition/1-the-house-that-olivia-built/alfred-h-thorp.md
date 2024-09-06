@@ -5,7 +5,6 @@ permalink: /digital-exhibition/the-house-that-olivia-built/alfred-h-thorp.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-house-that-olivia-built
-landing-page: the-house-that-olivia-built
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

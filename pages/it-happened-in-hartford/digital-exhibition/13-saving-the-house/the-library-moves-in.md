@@ -3,7 +3,6 @@ title: The Library Moves In
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/the-library-moves-in.html
 parent: saving-the-house
-landing-page: saving-the-house
 ---
 
 {% include feature/image.html objectid="MT-Library-Branch-" width="75" %}

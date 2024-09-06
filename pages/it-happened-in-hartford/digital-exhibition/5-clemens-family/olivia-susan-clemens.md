@@ -4,10 +4,7 @@ layout: exhibit
 permalink: /digital-exhibition/clemens-family/olivia-susan-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
-parent-page: clemens-family
-position: 4
 parent: clemens-family
-landing-page: clemens-family
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

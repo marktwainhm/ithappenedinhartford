@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
-landing-page: visitors-on-parade
 ---
 
 {% include feature/image.html objectid="LOC_2001704085" width="75" %}

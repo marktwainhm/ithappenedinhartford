@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: bushnell-park
-landing-page: bushnell-park
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}

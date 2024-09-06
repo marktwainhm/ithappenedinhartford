@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
 ---
 
 Now the longest continuously running newspaper in the United States, The Hartford Courant was already a well-established pillar of the city when it was based at 14 Pratt St., where Samuel Clemens, known professionally as Mark Twain, would have found it. It was first founded in 1764 by Thomas Green as The Connecticut Courant. Over the following decades it evolved, experimenting with new names and formats under different leadership. In 1867, former Civil War general and politician Joseph Hawley, leading the Hartford Evening Press purchased the paper that The Connecticut Courant had become, The Hartford Daily Courant. He merged his two papers to make The Hartford Courant that we know today. Author Charles Dudley Warner joined him as co-editor. During their leadership, the Courant became one of the most well-known newspapers not only in the state but the nation.

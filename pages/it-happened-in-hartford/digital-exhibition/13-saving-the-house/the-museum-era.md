@@ -3,7 +3,6 @@ title: Museum Era
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/museum-era.html
 parent: saving-the-house
-landing-page: saving-the-house
 ---
 
 {% include feature/image.html objectid="Visitor-Center--2-Groo-2011" width="75" %}

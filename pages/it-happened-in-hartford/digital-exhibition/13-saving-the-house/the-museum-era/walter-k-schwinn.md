@@ -3,7 +3,6 @@ title: Walter K. Schwinn
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/walter-k-schwinn.html
 parent: saving-the-house
-landing-page: saving-the-house
 ---
 
 {% include feature/image.html objectid="Walter-Schwinn---Hal-in-Front-Hall--1967" width="75" %}

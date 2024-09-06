@@ -5,8 +5,6 @@ permalink: /digital-exhibition/clemens-family/clara-langdon-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: clemens-family
-landing-page: clemens-family
-position: 5
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

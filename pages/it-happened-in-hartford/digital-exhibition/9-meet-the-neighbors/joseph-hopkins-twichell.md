@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
-landing-page: meet-the-neighbors
 ---
 
 {% include feature/image.html objectid="Twichell--J-H---2-" width="75" %}

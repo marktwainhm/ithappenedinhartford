@@ -5,7 +5,6 @@ permalink: /digital-exhibition/the-family-tree/jane-lampton-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-family-tree
-landing-page: the-family-tree
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

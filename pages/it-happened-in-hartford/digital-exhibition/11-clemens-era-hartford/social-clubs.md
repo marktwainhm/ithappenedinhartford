@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
 ---
 
 we still need to write some thing for this introduction 🙂

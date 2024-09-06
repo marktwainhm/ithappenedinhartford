@@ -7,7 +7,6 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: clemens-era-hartford
-landing-page: clemens-era-hartford
 ---
 
 In 1878 at 79 Asylum Street Brown & Gross Booksellers and Stationers were next door neighbors to clothiers Covey & Smith, later Smith, White & Co. Brown & Gross moved its location around the city several times and additionally went through several name changes throughout its long history.

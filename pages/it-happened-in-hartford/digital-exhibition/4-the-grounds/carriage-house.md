@@ -5,8 +5,6 @@ permalink: /digital-exhibition/the-grounds/carriage-house.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-grounds
-landing-page: the-grounds
-position: 1
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
