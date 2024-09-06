@@ -6,9 +6,9 @@ permalink: /digital-exhibition/clemens-era-hartford/bushnell-park.html
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-parent: leisure-and-social
-landing-page: leisure-and-social
-previous: leisure-and-social
+parent: Hartford-Society
+landing-page: Hartford-Society
+previous: Hartford-Society
 next: social-clubs
 ---
 
