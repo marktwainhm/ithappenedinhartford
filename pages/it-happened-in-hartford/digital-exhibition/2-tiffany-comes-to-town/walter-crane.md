@@ -19,7 +19,7 @@ The wallpaper in the Clemens children’s nursery in the Hartford house is a rep
 
 The nursery illustrations portray scenes from the nursery rhyme “A Frog He Would A-Wooing Go…” 
 
-<blockquote>
+<blockquote style="margin-bottom: 0;margin-top: 0;">
 <i>A frog he would a-wooing go,
 Heigh ho! says Rowley,
 A frog he would a-wooing go,
