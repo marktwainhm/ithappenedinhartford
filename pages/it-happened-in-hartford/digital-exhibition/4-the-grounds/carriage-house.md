@@ -8,7 +8,7 @@ parent: the-grounds
 landing-page: the-grounds
 position: 1
 previous: the-grounds
-next: greenhouse
+next: the-grounds/greenhouse
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

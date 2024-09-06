@@ -5,10 +5,8 @@ permalink: /digital-exhibition/tiffany-comes-to-town/walter-crane.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: tiffany-comes-to-town
-landing-page: tiffany-comes-to-town
-position: 5
-previous: samuel-colman
-next: frederick-schweppe
+previous: tiffany-comes-to-town/samuel-colman
+next: tiffany-comes-to-town/frederick-schweppe
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

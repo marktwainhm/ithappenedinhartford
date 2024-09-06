@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
 landing-page: visitors-on-parade
-previous: george-washington-cable
+previous: visitors-on-parade/george-washington-cable
 next: clemens-era-hartford
 ---
 

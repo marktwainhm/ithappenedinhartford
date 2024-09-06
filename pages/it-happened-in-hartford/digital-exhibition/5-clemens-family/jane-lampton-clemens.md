@@ -6,9 +6,7 @@ permalink: /digital-exhibition/jane-lampton-clemens.html
 credits: false
 parent-page: clemens-family
 parent: clemens-family
-landing-page: clemens-family
-position: 6
-previous: clara-langdon-clemens
+previous: clemens-family/clara-langdon-clemens
 next: the-family-tree
 
 # Edit the markdown on in this file to describe your collection

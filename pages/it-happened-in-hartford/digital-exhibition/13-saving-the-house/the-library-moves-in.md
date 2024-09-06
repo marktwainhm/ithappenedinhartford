@@ -3,7 +3,6 @@ title: The Library Moves In
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/the-library-moves-in.html
 parent: saving-the-house
-landing-page: saving-the-house
 previous: katharine-seymore-day
 next: the-museum-era
 ---

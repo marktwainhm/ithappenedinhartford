@@ -7,7 +7,7 @@ credits: false
 parent: tiffany-comes-to-town
 landing-page: tiffany-comes-to-town
 position: 3
-previous: candace-wheeler
+previous: tiffany-comes-to-town/candace-wheeler
 next: samuel-colman
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

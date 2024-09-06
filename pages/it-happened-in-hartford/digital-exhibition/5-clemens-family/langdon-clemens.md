@@ -7,8 +7,8 @@ credits: false
 parent: clemens-family
 landing-page: clemens-family
 position: 3
-previous: olivia-louise-langdon
-next: langdon-clemens
+previous: clemens-family/olivia-louise-langdon
+next: clemens-family/langdon-clemens
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

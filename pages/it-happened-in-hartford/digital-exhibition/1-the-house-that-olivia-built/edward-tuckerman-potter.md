@@ -5,9 +5,8 @@ permalink: /digital-exhibition/the-house-that-olivia-built/edward-tuckerman-pott
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-house-that-olivia-built
-landing-page: the-house-that-olivia-built
 previous: the-house-that-olivia-built
-next: alfred-h-thorp
+next: the-house-that-olivia-built/alfred-h-thorp
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

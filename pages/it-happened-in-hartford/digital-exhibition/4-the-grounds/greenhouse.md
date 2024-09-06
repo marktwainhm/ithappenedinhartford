@@ -7,8 +7,8 @@ credits: false
 parent: the-grounds
 landing-page: the-grounds
 position: 2
-previous: carriage-house
-next: the-park-river
+previous: the-grounds/carriage-house
+next: the-grounds/the-park-river
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

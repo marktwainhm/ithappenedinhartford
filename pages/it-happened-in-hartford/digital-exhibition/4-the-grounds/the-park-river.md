@@ -7,7 +7,7 @@ credits: false
 parent: the-grounds
 landing-page: the-grounds
 position: 3
-previous: greenhouse
+previous: the-grounds/greenhouse
 next: clemens-family
 
 # Edit the markdown on in this file to describe your collection

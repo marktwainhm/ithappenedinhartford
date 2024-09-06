@@ -8,7 +8,7 @@ parent: tiffany-comes-to-town
 landing-page: tiffany-comes-to-town
 position: 1
 previous: tiffany-comes-to-town
-next: candace-wheeler
+next: tiffany-comes-to-town/candace-wheeler
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

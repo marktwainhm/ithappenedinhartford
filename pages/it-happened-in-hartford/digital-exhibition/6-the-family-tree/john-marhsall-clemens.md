@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
-landing-page: the-family-tree
-previous: jane-lampton-clemens
-next: jervis-langdon
+previous: the-family-tree/jane-lampton-clemens
+next: the-family-tree/jervis-langdon
 ---
 
 Born in Virginia, John Marshall Clemens studied law and was licensed to practice in 1822. He married Jane Lampton in 1823. In 1827 the Clemenses relocated to Jamestown, Tennessee, where Clemens opened a store and eventually became a clerk of the county court. With an eye to the family’s future, he purchased about seventy-five thousand acres near Jamestown; the investment never yielded any return but frustration and bitterness to the next generation. 

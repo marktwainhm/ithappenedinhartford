@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
-landing-page: visitors-on-parade
-previous: grace-king
-next: henry-stanley
+previous: visitors-on-parade/grace-king
+next: visitors-on-parade/henry-stanley
 ---
 
 {% include feature/image.html objectid="209202303" width="75" %}

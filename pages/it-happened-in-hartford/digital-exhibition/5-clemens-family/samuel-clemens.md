@@ -8,7 +8,7 @@ position: 1
 parent: clemens-family
 landing-page: clemens-family
 previous: clemens-family
-next: olivia-louise-langdon
+next: clemens-family/olivia-louise-langdon
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

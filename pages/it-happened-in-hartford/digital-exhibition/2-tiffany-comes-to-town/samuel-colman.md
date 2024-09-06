@@ -5,10 +5,8 @@ permalink: /digital-exhibition/tiffany-comes-to-town/samuel-colman.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: tiffany-comes-to-town
-landing-page: tiffany-comes-to-town
-position: 4
-previous: lockwood-de-forest
-next: walter-crane
+previous: tiffany-comes-to-town/lockwood-de-forest
+next: tiffany-comes-to-town/walter-crane
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

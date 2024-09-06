@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
 landing-page: visitors-on-parade
-previous: the-hawleys
-next: grace-king
+previous: visitors-on-parade/the-hawleys
+next: visitors-on-parade/grace-king
 ---
 
 {% include feature/image.html objectid="Karl-Gerhardt-Photo-" width="75" %}

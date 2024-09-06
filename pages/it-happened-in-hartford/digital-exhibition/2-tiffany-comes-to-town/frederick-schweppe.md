@@ -5,9 +5,7 @@ permalink: /digital-exhibition/tiffany-comes-to-town/frederick-scheweppe.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: tiffany-comes-to-town
-landing-page: tiffany-comes-to-town
-position: 6
-previous: walter-crane
+previous: tiffany-comes-to-town/walter-crane
 next: the-rooms
 
 # Edit the markdown on in this file to describe your collection

@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
-landing-page: visitors-on-parade
-previous: joel-chandler-harris
-next: ulysses-s-grant
+previous: visitors-on-parade/joel-chandler-harris
+next: visitors-on-parade/ulysses-s-grant
 ---
 
 A southern writer, son of slaveholders, and former Confederate soldier from New Orleans, George Washington Cable struggled as a young teenager to try to support his family in post-war Louisiana, while simultaneously seeking an  education.  Cable’s opinions about southern culture, slavery, and the Lost Cause of the Confederacy changed over time, leading him to take up a strong position against the racism and White Supremacy of the Jim Crow Era. In the 1870s, he focused on writing stories about Creole life, acknowledging the multi-racial world that existed within the strict color lines of the American South. These books and articles brought him recognition and fame, as well as criticism from pro-Confederacy Southerners.

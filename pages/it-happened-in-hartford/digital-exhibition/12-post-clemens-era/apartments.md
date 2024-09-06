@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: post-clemens-era
-landing-page: post-clemens-era
-previous: the-kingswood-school
-next: saving-the-house
+previous: post-clemens-era/the-kingswood-school
+next: post-clemens-era/saving-the-house
 ---
 
 {% include feature/image.html objectid="Trustees--etc---31" width="75" %}

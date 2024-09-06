@@ -7,9 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: post-clemens-era
-landing-page: post-clemens-era
 previous: post-clemens-era
-next: the-kingswood-school
+next: post-clemens-era/the-kingswood-school
 ---
 
 {% include feature/image.html objectid="Marie-Bissell-&-children" width="75" %}

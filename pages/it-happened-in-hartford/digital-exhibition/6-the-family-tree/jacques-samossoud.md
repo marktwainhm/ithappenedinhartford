@@ -5,8 +5,7 @@ permalink: /digital-exhibition/the-family-tree/jacques-samossoud.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-family-tree
-landing-page: the-family-tree
-previous: nina-gabrilowitsch
+previous: the-family-tree/nina-gabrilowitsch
 next: tails-of-twain
 
 # Edit the markdown on in this file to describe your collection
