@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: hartford-society
 landing-page: hartford-society
-previous: business
-next: american-publishing
+previous: leisure
+next: churches
 ---
 
 Social Clubs were a source of entertainment and status during the Gilded Age. The Clemenses were patrons and participants in many social clubs and engangments. Below are three often associated with the Clemenses.
