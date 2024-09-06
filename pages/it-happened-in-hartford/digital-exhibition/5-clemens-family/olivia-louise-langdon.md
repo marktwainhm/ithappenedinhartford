@@ -4,11 +4,8 @@ layout: exhibit
 permalink: /digital-exhibition/clemens-family/olivia-louise-langdon.html
 # include CollectionBuilder info at bottom
 credits: false
-parent-page: clemens-family
-position: 2
 parent: clemens-family
-landing-page: clemens-family
-previous: clemens-family/samuel-clemens
+previous: clemens-family/mark-twains-work
 next: clemens-family/langdon-clemens
 
 # Edit the markdown on in this file to describe your collection

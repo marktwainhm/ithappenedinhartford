@@ -4,7 +4,6 @@ layout: exhibit
 permalink: /digital-exhibition/jane-lampton-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
-parent-page: clemens-family
 parent: clemens-family
 previous: clemens-family/clara-langdon-clemens
 next: the-family-tree

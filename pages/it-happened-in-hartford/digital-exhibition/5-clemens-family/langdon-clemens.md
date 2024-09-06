@@ -5,8 +5,6 @@ permalink: /digital-exhibition/clemens-family/langdon-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: clemens-family
-landing-page: clemens-family
-position: 3
 previous: clemens-family/olivia-louise-langdon
 next: clemens-family/langdon-clemens
 

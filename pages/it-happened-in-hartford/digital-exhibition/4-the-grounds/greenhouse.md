@@ -5,8 +5,6 @@ permalink: /digital-exhibition/the-grounds/greenhouse.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-grounds
-landing-page: the-grounds
-position: 2
 previous: the-grounds/carriage-house
 next: the-grounds/the-park-river
 

@@ -6,9 +6,8 @@ permalink: /digital-exhibition/clemens-family/samuel-clemens.html
 credits: false
 position: 1
 parent: clemens-family
-landing-page: clemens-family
 previous: clemens-family
-next: clemens-family/olivia-louise-langdon
+next: clemens-family/mark-twains-work
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

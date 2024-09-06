@@ -1,13 +1,13 @@
 ---
 title: Mark Twain's Work
 layout: exhibit
-permalink: /digital-exhibition/mark-twains-work.html
+permalink: /digital-exhibition/clemens-family/mark-twains-work.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-previous: samuel-clemens
-next: olivia-louise-langdon
+previous: clemens-family/samuel-clemens
+next: clemens-family/olivia-louise-langdon
 ---
 
 {% include feature/image.html objectid="359-67_ID-01" width="75" %}

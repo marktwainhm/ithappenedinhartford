@@ -5,8 +5,6 @@ permalink: /digital-exhibition/the-grounds/carriage-house.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: the-grounds
-landing-page: the-grounds
-position: 1
 previous: the-grounds
 next: the-grounds/greenhouse
 
