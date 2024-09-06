@@ -11,11 +11,11 @@ parent: it-happened-in-hartford
 
 _**It Happened in Hartford: 150 years of the Mark Twain House**_ is a multi-layered exhibition experience that includes:
 
-- ** A physical exhibition in the visitor center of the Mark Twain House highlighting over 100 objects from our collection relating to the House’s history and Clemens family’s personal and professional lives in Hartford. 
+- A physical exhibition in the visitor center of the Mark Twain House highlighting over 100 objects from our collection relating to the House’s history and Clemens family’s personal and professional lives in Hartford. 
 
-- ** A history trail with twelve stops throughout the streets of Hartford and Bushnell Park.
+- A history trail with twelve stops throughout the streets of Hartford and Bushnell Park.
 
-- ** This digital exhibition, which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.
+- This digital exhibition, which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.
 
 Each element of this exhibition can be enjoyed separately or together based on your personal interest.
 
