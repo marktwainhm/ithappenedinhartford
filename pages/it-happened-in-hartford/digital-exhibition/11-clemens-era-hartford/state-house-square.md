@@ -1,7 +1,7 @@
 ---
 title: Old State House
 layout: exhibit
-permalink: /digital-exhibition/clemens-era-hartford/old-state-house.html
+permalink: /digital-exhibition/clemens-era-hartford/state-house-square.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
