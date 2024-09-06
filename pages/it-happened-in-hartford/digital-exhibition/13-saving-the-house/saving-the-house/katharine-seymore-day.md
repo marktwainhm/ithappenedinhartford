@@ -1,7 +1,7 @@
 ---
 title: Katharine Seymore Day
 layout: exhibit
-permalink: /digital-exhibition/saving-the-house/kathrine-seymore-day.html
+permalink: /digital-exhibition/saving-the-house/katharine-seymore-day.html
 parent: saving-the-house
 landing-page: saving-the-house
 previous: saving-the-house
