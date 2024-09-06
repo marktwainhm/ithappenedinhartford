@@ -9,7 +9,7 @@ credits: false
 parent: business
 landing-page: business
 previous: hartford-ice-company
-next: Leisure-and-Society
+next: hartford-society
 ---
 
 {% include feature/image.html objectid="Compositor-drawing--622" width="75" %}
