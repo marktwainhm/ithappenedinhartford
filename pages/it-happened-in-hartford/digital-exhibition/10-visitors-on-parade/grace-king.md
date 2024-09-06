@@ -1,5 +1,5 @@
 ---
-title: Grace King
+title: Grace King (1852-1932)
 layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/grace-king.html
 # include CollectionBuilder info at bottom
