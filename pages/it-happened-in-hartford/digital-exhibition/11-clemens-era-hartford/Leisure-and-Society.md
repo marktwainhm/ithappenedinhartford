@@ -16,4 +16,4 @@ next: bushnell-park
 
 In the Clemens’s era classism, racism, social-economics, and gender expectations dictated every aspect of life, including leisure and social activities – from who was allowed to go where and with whom to what the proper attire was during those activities. We like to think we’ve come a long way since the 1870s, but similar restrictions still remain today as we as a society continue the battle for human rights and their impacts on our lives.
 
-Below is information on some, but not all, of the social and leisure aspects of the Clemenses' lives including social clubs, leisure activies, and local churches. Click on each to learn more. 
+Below is information on some, but not all, of the social and leisure aspects of the Clemenses' lives including social clubs, leisure activities, and local churches. Click on each to learn more. 
