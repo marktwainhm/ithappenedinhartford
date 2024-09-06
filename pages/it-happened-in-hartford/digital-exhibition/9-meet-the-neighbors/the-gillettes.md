@@ -8,6 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
 landing-page: meet-the-neighbors
+previous: the-stowes
+next: the-perkins
 ---
 
 {% include feature/image.html objectid="Friends-Photos---Gillette--William--10" width="75" %}
@@ -18,5 +20,4 @@ Abolitionist Francis Gillette married Elisabeth Hooker in 1834 and settled in Fa
 ### William Gillette (1853-1937) 
 William Gillette's parents wanted him to become a lawyer, but he loved the theater and became one of the most celebrated actors and playwrights of his generation. His many productions included dramas and comedies, and he co-starred with the likes of Helen Hayes and Ethel Barrymore. In 1899, Gillette starred in his own adaptation of Conan Doyle's Sherlock Holmes. The role would define his career. 
  
-Born and raised in Nook Farm, Gillette attended Hartford Public High School, put on plays with his friends, and built a stationary steam engine in his parents' home. He was a fun-loving uncle to his sister Lilly's children, and the family awaited his visits to Nook Farm. His mansion in Hadlyme, "Gillette Castle", was completed in 1919 and purchased by the state of Connecticut after his death. 
-
+Born and raised in Nook Farm, Gillette attended Hartford Public High School, put on plays with his friends, and built a stationary steam engine in his parents' home. He was a fun-loving uncle to his sister Lilly's children, and the family awaited his visits to Nook Farm. His mansion in Hadlyme, <a href="https://ctparks.com/parks/gillette-castle-state-park/">Gillette’s Castle</a>, was completed in 1919 and purchased by the state of Connecticut after his death. 
