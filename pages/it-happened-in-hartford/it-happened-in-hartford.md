@@ -31,6 +31,6 @@ The Clemenses would spend 17 years in Hartford. Near the end of his life, lookin
 
 It Happened In Hartford: 150 Years of the Mark Twain House is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department. 
 
-{% include feature/image.html objectid="HIG_Logo_1920x1080" width="75" %} 
+{% include feature/image.html objectid="{{ site.url }}/objects/HIG_Logo_1920x1080" width="75" %} 
 
-{% include feature/image.html objectid="BPC-logo-no-background" width="25" %}{% include feature/image.html objectid="BPC-logo-no-background" width="25" %}
+{% include feature/image.html objectid="{{ site.url }}/BPC-logo-no-background" width="25" %}{% include feature/image.html objectid="{{ site.url }}/BPC-logo-no-background" width="25" %}

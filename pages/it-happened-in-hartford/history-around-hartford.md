@@ -11,5 +11,7 @@ We invite you to explore downtown Hartford and Bushnell Park through the lens of
 These twelve historical markers are also strategically placed around the City of Hartford’s Urban Forest. The Forestry Division maintains and improves the urban forest through "out of the box" approaches that will foster ownership by Hartford residents as well as maximize the resources for our green infrastructure. The common name and species of each of the urban forest trees that host our signs are identified. 
 
 It Happened In Hartford: 150 Years of the Mark Twain House is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.
-{% include feature/image.html objectid="HIG_Logo_1920x1080" width="75" %}
-{% include feature/image.html objectid="BPC-logo-no-background" width="25" %}{% include feature/image.html objectid="BPC-logo-no-background" width="25" %}
+
+{% include feature/image.html objectid="/objects/HIG_Logo_1920x1080" width="75" %}
+{% include feature/image.html objectid="/objects/BPC-logo-no-background" width="25" %}
+{% include feature/image.html objectid="objects/BPC-logo-no-background" width="25" %}

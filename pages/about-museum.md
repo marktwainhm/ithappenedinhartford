@@ -3,7 +3,7 @@ title: About the Mark Twain House and Museum
 layout: grid-page
 permalink: /about-house-and-museum.html
 # include CollectionBuilder info at bottom
-credits: false
+credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -18,3 +18,14 @@ To learn more about the Mark Twain House & Museum, visiting us, or our many prog
 
 
 <a href="https://marktwainhouse.org" class="btn btn-outline-primary">Visit Us</a>
+
+## Sponsors
+
+## Credits
+
+# Acknowledgements
+Thank you to --insert sponsors here--. 
+
+This site was created by [Emily Esten](emilyesten.com)
+
+
