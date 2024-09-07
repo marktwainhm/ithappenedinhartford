@@ -6,7 +6,7 @@ permalink: /digital-exhibition/tiffany-comes-to-town/lockwood-de-forest.html
 credits: false
 parent: tiffany-comes-to-town
 previous: tiffany-comes-to-town/candace-wheeler
-next: samuel-colman
+next: tiffany-comes-to-town/samuel-colman
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

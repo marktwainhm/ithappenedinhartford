@@ -2,7 +2,7 @@
 title: The Rooms
 layout: exhibit
 permalink: /digital-exhibition/the-rooms.html
-previous: tiffany-comes-to-town
+previous: tiffany-comes-to-town/frederick-schweppe
 next: the-grounds
 # include CollectionBuilder info at bottom
 credits: false
@@ -32,6 +32,7 @@ The colors of the painted and stenciled canvas applied to the walls had become p
   {% include feature/image.html objectid="2nd-floor-hallway-window-Groo-2011" width="75" %}
   <p>During the long process of restoration staff have sometimes discovered new information about the house, which then needs to be carefully evaluated to determine if something is a Clemens-era feature or one added by later occupants of The Mark Twain House. The oval interior window you can see today on the second floor is a great example of this process. When the house was restored in the 1960s there was no window here. However, evidence told researchers that at one point in the history of the house an interior window was prominently featured in the main stairwell, between the second-floor hall and Susy Clemens' room. Based on that research the window has been restored to its present configuration. </p>
 </div>
+
 <button type="button" class="collapsible">Drawing Room</button>
 <div class="content">
   {% include feature/image.html objectid="Drawing-Room--1-Groo-2023" width="75" %}

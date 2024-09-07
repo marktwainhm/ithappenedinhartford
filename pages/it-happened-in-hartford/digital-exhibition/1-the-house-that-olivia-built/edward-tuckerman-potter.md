@@ -1,12 +1,12 @@
 ---
 title: Edward Tuckerman Potter (1831-1904)
 layout: exhibit
-permalink: /digital-exhibition/the-house-that-olivia-built/edward-tuckerman-potter.html
+permalink: /digital-exhibition/the-house-that-the-clemenses-built/edward-tuckerman-potter.html
 # include CollectionBuilder info at bottom
 credits: false
-parent: the-house-that-olivia-built
-previous: the-house-that-olivia-built
-next: the-house-that-olivia-built/alfred-h-thorp
+parent: the-house-that-the-clemenses-built
+previous: the-house-that-the-clemenses-built
+next: the-house-that-the-clemenses-built/alfred-h-thorp
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

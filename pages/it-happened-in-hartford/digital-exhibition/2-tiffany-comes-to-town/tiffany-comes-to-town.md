@@ -5,8 +5,8 @@ permalink: /digital-exhibition/tiffany-comes-to-town.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: tiffany-comes-to-town
-previous: house-that-olivia-built
-next: the-rooms
+previous: the-house-that-the-clemenses-built
+next: tiffany-comes-to-town/louis-comfort-tiffany
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

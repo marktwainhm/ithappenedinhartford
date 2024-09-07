@@ -6,7 +6,7 @@ permalink: /digital-exhibition/tiffany-comes-to-town/walter-crane.html
 credits: false
 parent: tiffany-comes-to-town
 previous: tiffany-comes-to-town/samuel-colman
-next: tiffany-comes-to-town/frederick-schweppe
+next: tiffany-comes-to-town/frederick-scheweppe
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -19,19 +19,28 @@ The nursery illustrations portray scenes from the nursery rhyme “A Frog He Wou
 
 <blockquote style="margin-bottom: 0;margin-top: 0;">
 <i>A frog he would a-wooing go,</i>
+<br />
 <i>Heigh ho! says Rowley,</i>
+<br />
 <i>A frog he would a-wooing go,</i>
+<br />
 <i>Whether his mother would let him or no.</i>
+<br />
 <i>With a rowley, powley, gammon, and spinach,</i>
+<br />
 <i>Heigh ho! says Anthony Rowley.</i>
 </blockquote>
 
+<br />
 …known perhaps better in America in its Appalachian variant, “Froggy Went A-Courting.”
+<br />
 
-> *Frog went a-courtin', and he did ride, Uh-huh,*
->
->  *Frog went a-courtin', and he did ride, Uh-huh,*
->
-> *Frog went a-courtin', and he did ride.*
->
-> *With a sword and a pistol by his side, Uh-huh.*
+<blockquote style="margin-bottom: 0;margin-top: 0;">
+<i>Frog went a-courtin', and he did ride, Uh-huh,</i>
+<br />
+<i>Frog went a-courtin', and he did ride, Uh-huh,</i>
+<br />
+<i>Frog went a-courtin', and he did ride.</i>
+<br />
+<i>With a sword and a pistol by his side, Uh-huh.</i>
+</blockquote>

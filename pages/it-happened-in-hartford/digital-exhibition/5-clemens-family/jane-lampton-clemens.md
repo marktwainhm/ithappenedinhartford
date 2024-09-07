@@ -1,7 +1,7 @@
 ---
 title: Jane Lampton Clemens (1880-1909)
 layout: exhibit
-permalink: /digital-exhibition/jane-lampton-clemens.html
+permalink: /digital-exhibition/clemens-family/jane-lampton-clemens.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: clemens-family

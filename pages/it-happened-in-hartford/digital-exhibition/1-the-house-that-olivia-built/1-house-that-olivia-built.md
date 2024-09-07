@@ -1,12 +1,12 @@
 ---
 title: The House That The Clemenses Built
 layout: exhibit
-permalink: /digital-exhibition/the-house-that-olivia-built.html
+permalink: /digital-exhibition/the-house-that-the-clemenses-built.html
 # include CollectionBuilder info at bottom
 credits: false
-parent: the-house-that-olivia-built
+parent: the-house-that-the-clemenses-built
 previous: digital-exhibition
-next: tiffany-comes-to-town
+next: the-house-that-the-clemenses-built/edward-tuckerman-potter
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

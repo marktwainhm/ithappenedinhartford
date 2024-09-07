@@ -6,7 +6,7 @@ permalink: /digital-exhibition/clemens-family/langdon-clemens.html
 credits: false
 parent: clemens-family
 previous: clemens-family/olivia-louise-langdon
-next: clemens-family/langdon-clemens
+next: clemens-family/olivia-susan-clemens
 
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

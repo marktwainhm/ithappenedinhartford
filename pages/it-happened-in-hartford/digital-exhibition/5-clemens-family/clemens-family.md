@@ -5,7 +5,7 @@ permalink: /digital-exhibition/clemens-family.html
 # include CollectionBuilder info at bottom
 credits: false
 previous: the-grounds
-next: the-family-tree
+next: clemens-family/samuel-clemens
 parent: clemens-family
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page

@@ -11,17 +11,14 @@ layout: page
     <div id="item-nav">
         <div class="d-none d-md-block">
             {%- if page.title == "Digital Exhibition" -%}
-            <a href="{{ page.next | prepend: "/ithappenedinhartford/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+            
             {%- elsif page.title == "The House That Olivia Built" -%}
-            <a href="{{ page.previous | relative_url }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
-            <a href="{{ page.next | prepend: "/ithappenedinhartford/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
-            
-            {%- elsif page.title == "Mark Twain's Work" -%}
-            <a href="{{ page.previous | prepend: "/ithappenedinhartford/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
-            <a href="{{ page.next | relative_url }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
-            
+            <a href="{{ page.previous | prepend: "/" }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+
             {% else %}
-            <a href="{{ page.previous | prepend: "ithappenedinhartford/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
             <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
             {% endif %}
         </div>

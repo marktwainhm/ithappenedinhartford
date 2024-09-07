@@ -2,7 +2,7 @@
 title: Digital Exhibition
 layout: exhibit
 permalink: /digital-exhibition.html
-next: the-house-that-olivia-built
+next: the-house-that-the-clemenses-built
 parent: it-happened-in-hartford
 ---
 
