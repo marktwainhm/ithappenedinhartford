@@ -1,7 +1,7 @@
 ---
 title: Peddling Revolution
 layout: exhibit
-permalink: /digital-exhibition/clemens-era-hartford/social-clubs.html
+permalink: /digital-exhibition/clemens-era-hartford/peddling-revolution.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
