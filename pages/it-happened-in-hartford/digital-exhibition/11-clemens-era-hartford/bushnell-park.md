@@ -13,6 +13,7 @@ next: baseball
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
+
 Bushnell Park is the main greenspace in downtown Hartford, and was the first publicly funded public park in the United States. In the 1850s Hartford was a booming town that brought people here to work in a variety of industries including publishing, insurance, banking, munitions, and manufacturing. And, during this period of rapid industrialization, a movement began to bring curated pockets of nature into cities, like Central Park in New York City, to combat the pollution, poor water quality, overcrowding, and other urban issues. 
 
 When Hartford decided to add their own park, they did contact Frederick Law Olmstead, a Hartford Native and friend of Dr. Horace Bushnell, who was pushing for the park’s creation. Unfortunately, Olmstead was busy designing Central Park, but recommended Swiss-born landscape architect and botanist Jacob Wedinman for the job. 
