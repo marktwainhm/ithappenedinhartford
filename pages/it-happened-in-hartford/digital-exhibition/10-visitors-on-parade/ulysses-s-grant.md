@@ -12,7 +12,7 @@ previous: visitors-on-parade/george-washington-cable
 next: clemens-era-hartford
 ---
 
-{% include feature/image.html objectid="LOC-2002725252" width="75" %}
+{% include feature/image.html objectid="LOC_2002725252" width="75" %}
 
 Ulysses S. Grant was a West Point graduate, who served in the Mexican American War (1846-48), retiring after his service. However, he rejoined the Union army in 1861 at the start of the Civil War, rose through the ranks, and ultimately was appointed general-in-chief of all the Union armies by President Abaham Lincoln. Grant was instrumental in the success of the Union Army, leading to Confederate General Lee’s surrender at Appomattox and the end of the war. Subsequently Grant  was elected to the United States presidency and served two terms from 1869-1877. 
 
