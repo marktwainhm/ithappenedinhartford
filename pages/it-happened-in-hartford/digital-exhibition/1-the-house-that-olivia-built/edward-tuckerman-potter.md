@@ -12,7 +12,7 @@ next: the-house-that-the-clemenses-built/alfred-h-thorp
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Edward-T--Potter-" width="75" %}
+{% include feature/image.html objectid="EdwardPotter" width="75" %}
 
 Architect Edward Tuckerman Potter designed the Clemens house in Hartford. Potter was mainly known for his church architecture, including the Church of the Good Shepherd in Hartford and for an octagonal Moorish-style building in the midst of the Union College campus in Schenectady, New York, complete with a mosque-like dome.  His work on the Church of the Holy Shepherd in the city’s South Meadows, was commissioned by Elizabeth Colt, the widow and business successor of six-gun manufacturer Samuel Colt. The building still displays carved bas-relief decorations featuring the weapons that brought the Colts their fame and wealth. 
 
