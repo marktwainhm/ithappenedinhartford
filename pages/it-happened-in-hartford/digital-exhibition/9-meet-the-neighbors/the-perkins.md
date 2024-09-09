@@ -11,7 +11,7 @@ previous: meet-the-neighbors/the-gillettes
 next: meet-the-neighbors/the-twichells
 ---
 
-{% include feature/image.html objectid="Hartford-Nook-Farm--2" width="75" %}
+{% include feature/image.html objectid="MTHM_NookFarm-02" width="75" %}
 
 ### Thomas Clap Perkins (1798-1870) & Mary Beecher Perkins (1805-1900)  
 Lawyer Thomas Clap Perkins married teacher Mary Beecher in 1827. The couple had four children, and one of their granddaughters was author Charlotte Perkins Gilman. Mary, known as the "quiet" Beecher sister, was not a public activist like her siblings. Her letters, though, reveal a witty, articulate observer of her times. 
