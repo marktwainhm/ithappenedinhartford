@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/candace-wheeler
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="L-C--Tiffany--9" width="75" %}
+{% include feature/image.html objectid="LCTiffany9" width="75" %}
 
 Tiffany was the son of the founder of the great New York jewelry firm, Charles Tiffany, but seems to have been more fun than his somewhat strait-laced father, frequenting the nightspots of Broadway with the architect Stanford White—who designed the Washington Square arch, and was later shot to death by a jealous husband—and James Steele Mackaye, a theater manager, playwright, actor, and inventor who devised the idea of folding theater seats. In 1879, Tiffany founded a firm called Associated Artist with a small group of similarly minded designers—Samuel Colman, Lockwood de Forest, and Candace Wheeler.  Tiffany’s surviving letter serving as a contract with Clemens was quite unspecific: “Walls papered and stenciled . . . Ceiling papered and stenciled in metals . . . Woodwork, decorated or not, at our option.”
 
