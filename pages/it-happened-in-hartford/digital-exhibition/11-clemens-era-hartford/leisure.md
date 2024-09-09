@@ -11,7 +11,7 @@ previous: clemens-era-hartford
 next: clemens-era-hartford/bushnell-park
 ---
 
-{% include feature/image.html objectid="CMCH_2000-209-11" width="75" %}
+{% include feature/image.html objectid="ChildrenPhotos-Groups-9" width="75" %}
 
 In the Clemens’s era classism, racism, social-economics, and gender expectations dictated every aspect of life, including leisure activities – from who was allowed to go where and with whom to what the proper attire was during those leisure activities. We like to think we’ve come a long way since the 1870s, but similar restrictions still remain today as we as a society continue the battle for human rights and their impacts on our lives. 
 
