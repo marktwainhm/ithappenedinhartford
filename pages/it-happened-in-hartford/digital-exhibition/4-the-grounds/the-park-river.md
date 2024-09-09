@@ -11,7 +11,7 @@ next: clemens-family
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/image.html objectid="MT-House-Grounds--4" width="75" %}
+{% include feature/image.html objectid="MTHM_House-Grounds-04" width="75" %}
 
 The Clemenses’ Hartford home was a part of the neighborhood known as Nook Farm within Asylum Hill. This tight-knit community including families such as the Clemenses, Hookers, Beechers, Gillettes, Warners, Hawleys, and Burtons, among others, got its name from the bend, or “nook,” in the Park River which bordered the area to the west and south. When you visit the Mark Twain House today, the Park River runs below ground along the base of the hill, where today we have a footpath and a section of our guest parking lot. 
 
