@@ -15,11 +15,9 @@ _**It Happened in Hartford: 150 years of the Mark Twain House**_ is a multi-laye
 
 - A physical exhibition in the visitor center of the Mark Twain House highlighting over 100 objects from our collection relating to the House’s history and Clemens family’s personal and professional lives in Hartford. 
 
-- A history trail with twelve stops throughout the streets of Hartford and Bushnell Park.
+ - <a href="{{ site.url }}//history-around-hartford.html">A history trail with twelve stops throughout the streets of Hartford and Bushnell Park.</a>
 
-- This digital exhibition, which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.
-
-Each element of this exhibition can be enjoyed separately or together based on your personal interest.
+- <a href="{{ site.url }}/it-happened-in-hartford.html">This digital exhibition, which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.</a>
 
 As a whole the exhibition tells the story of Samuel Clemens (better known as the creator of Mark Twain), and his wife Olivia and three daughters during the 17 years they lived in Hartford, fresh on the success of his first book Innocents Abroad, and as Samuel built his career as writer and performer “Mark Twain” and wrote the works that he is most known for–The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.
 
