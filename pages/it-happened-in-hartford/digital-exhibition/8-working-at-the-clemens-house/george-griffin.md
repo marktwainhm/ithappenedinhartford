@@ -11,7 +11,7 @@ previous: working-at-the-clemens-house
 next: working-at-the-clemens-house/catherine-leary
 ---
 
-{% include feature/image.html objectid="KMD_GeorgeGriffin_Stereoview-cropped" width="75" %}
+{% include feature/image.html objectid="KMD_GeorgeGriffin_Cropped" width="75" %}
 
 Born enslaved, probably in Maryland, around 1850, George Griffin escaped to the Union Army during the Civil War and served as personal servant to a major general. As an adult he made his way to Hartford where he worked as a waiter at the Allyn House, the preeminent hotel of the era. In his essay “A Family Sketch,” Samuel Clemens recalls that Griffin came one day “to wash some windows and remained half a generation.” While Samuel’s story is funny and can be romanticized, the position of butler was not one that Griffin could have attained accidentally.  As  head of the household staff (with the possible exception of the ladies’ maid and coachman), this was a responsible, supervisory post. And in 1870s Hartford, supervising white servants was an unusual role for an African American. It is more likely that the two crossed paths in Hartford, possibly at the Allyn House, and Griffin was recommended for the position of butler in the Clemenses’ newly formed household. 
 
