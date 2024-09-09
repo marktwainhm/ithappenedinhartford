@@ -10,7 +10,8 @@ previous: the-family-tree
 next: working-at-the-clemens-house
 ---
 
-{% include feature/image.html objectid="Clara-before-marriage--5" width="75" %}
+{% include feature/image.html objectid="MTHM_Clara-before-marriage5" width="75" %}
+
 Though humans and animals have a long history together, keeping animals as pets is a fairly recent development. For thousands of years, people had dogs for hunting and cats to keep the mice away, but only in the 19th century did it become common for people to keep animals as friends and companions.
 
 Samuel Clemens’s affection for cats is widely known, for he was rarely without them and would even rent kittens if he found himself without any feline friends. This fondness stemmed from his mother’s compassion for all creatures, whether they had paws or claws, wings or whiskers.  He shared this family trait with his three daughters and many pets experienced the love and affections of Susy, Clara, and Jean Clemens at their home in Hartford. 
