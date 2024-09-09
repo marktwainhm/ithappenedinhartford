@@ -12,6 +12,6 @@ next: the-grounds/greenhouse
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Carriage-House--1-Groo-2023" width="75" %}
+{% include feature/image.html objectid="GROO_CarriageHouse_2023-01" width="75" %}
 
 The carriage house was built in 1874 at the same time and in the same style as the main house. The carriage had stalls for horses and cows, space to park the carriages, a hayloft, and an apartment for the coachman, Patrick McAleer and his family. Today the three floors – a basement, main floor, and upper floor – are used for administrative, mechanical, and event space. 

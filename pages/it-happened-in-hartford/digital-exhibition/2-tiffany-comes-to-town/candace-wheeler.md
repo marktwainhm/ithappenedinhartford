@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/lockwood-de-forest
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Candace-Wheeler--15" width="75" %}
+{% include feature/image.html objectid="Candace-Wheeler-15" width="75" %}
 
 The American designer Candace Wheeler was deeply associated with the Clemenses and their home, both as an important participant in the interior redecoration and later as a family friend. 
 

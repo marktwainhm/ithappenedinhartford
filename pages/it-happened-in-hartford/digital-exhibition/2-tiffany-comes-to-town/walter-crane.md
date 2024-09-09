@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/frederick-scheweppe
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Nursery--2-Groo-2023" width="75" %}
+{% include feature/image.html objectid="GROO_Nursery_2023-02" width="75" %}
 
 The wallpaper in the Clemens children’s nursery in the Hartford house is a reproduction of scraps found when part of a fireplace in the room was removed in 1968 while the house was undergoing restoration. The wallpaper was decorated with illustrations by Walter Crane, the British illustrator influenced by the Arts and Crafts movement and by Japanese woodblock prints. His children’s book illustrations were colorful and elegant. Like his friend William Morris, Crane was a devoted socialist and his work appeared in radical publications of the era. This wallpaper was one of seven nursery wallpapers Crane designed for Jeffrey and Company, a London firm that also produced Morris’s designs. The wallpapers were machine printed and literary in subject matter. 
 

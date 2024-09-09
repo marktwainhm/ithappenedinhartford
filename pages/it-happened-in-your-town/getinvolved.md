@@ -20,7 +20,7 @@ In 2024, we’re celebrating the 150th birthday of The Mark Twain House with our
 
 Each participating group will select 3 objects, documents, buildings, or other historical sources that tell us about their town. With guidance from the museum’s interpretive and curatorial staff, they’ll prepare and submit a full description for each item, including images. 
 
-Each town’s materials will be included in our online exhibit, which will use the [Collection Builder platform](https://collectionbuilder.github.io/) (don’t worry, we’ll take care of all the technical stuff!) Then, historians of the Gilded Age from around the country will write essays based on each town’s submissions, providing context for students’ discoveries.
+Each town’s materials will be included in this online exhibit (don’t worry, we’ll take care of all the technical stuff!) alongside all of the materials from the museum's own collection featured here. 
 
 It Happened In Your Town will allow students to engage with their community’s past and present, demonstrating the power of local history to tell national and global stories. 
 
