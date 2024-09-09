@@ -12,7 +12,7 @@ previous: visitors-on-parade/the-hawleys
 next: visitors-on-parade/grace-king
 ---
 
-{% include feature/image.html objectid="Karl-Gerhardt-Photo-" width="75" %}
+{% include feature/image.html objectid="KMD_KarlGerhardt" width="75" %}
 
 One fateful day in 1881 a local machinist named Karl Gerhardt and his wife, Hariet, knocked on the door of the Clemens family asking if they would be interested in visiting his art studio to look at his work that he was pursuing in his spare time. Samuel and OliviaThey agreed  to the visit, and Samuel and Olivia were surprised to see a life-sized depiction of Harriet Gerhardt nude to her waist in sculpture but were impressed with the artistry. The families became friendly and Samuel took an interest in supporting Gerhardt’s artistic career.
 
