@@ -11,7 +11,7 @@ previous: visitors-on-parade/grace-king
 next: visitors-on-parade/henry-stanley
 ---
 
-{% include feature/image.html objectid="209202303" width="75" %}
+{% include feature/image.html objectid="LOC_209202303" width="75" %}
 
 Bret Harte moved to California from New York in 1854 and tried out various occupations before he settled on writing; he spent time as a tutor, assisted at an apothecary, and reported on events for a  newspaper. A few years later Harte began to write and publish assorted poems and stories. By 1860 he was writing for the Golden Era, a San Francisco newspaper. In the mid-1860s Harte met Samuel Clemens and the two quickly became friends. In 1868 Harte helped edit Clemens’s manuscript for Innocents Abroad, which would go on to become the author’s bestselling book during his lifetime. Harte visited the Clemens home in Hartford in 1876 where he wrote a popular story, “Thankful Blossom” in the Mahogany suite guestroom. He also collaborated with Clemens on the unsuccessful play Ah Sin, (a dramatization of his story, “Heathen Chinee”) but due to quarrels during its writing, the two became alienated and remained so. 
 
