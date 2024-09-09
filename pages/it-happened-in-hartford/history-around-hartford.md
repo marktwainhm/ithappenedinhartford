@@ -3,6 +3,7 @@ title: History Around Hartford
 layout: grid-page
 permalink: /history-around-hartford.html
 parent: it-happened-in-hartford
+type: landing
 ---
 As we look backward at the Mark Twain House’s history, we are also looking outward. Hartford was the Clemenses' city, so for this exhibit we have used the whole city as our second “gallery space.” 
 

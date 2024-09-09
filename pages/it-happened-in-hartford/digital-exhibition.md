@@ -4,6 +4,7 @@ layout: exhibit
 permalink: /digital-exhibition.html
 next: the-house-that-the-clemenses-built
 parent: it-happened-in-hartford
+type: landing
 ---
 
 _**It Happened in Hartford: 150 years of the Mark Twain House**_ is a multi-layered exhibition experience that includes this digital exhibition which contains a wealth of information that you can read on its own, or use to take a deeper dive into a topic you found interesting when visiting our historic house museum or our history trail in downtown Hartford.

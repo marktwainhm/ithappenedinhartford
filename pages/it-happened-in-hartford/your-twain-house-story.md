@@ -7,6 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: it-happened-in-hartford
+type: landing
 ---
 
 The Mark Twain House & Museum welcomes over 55,000 people annually, and countless people experienced the House in the 100 years prior to its opening as a museum.

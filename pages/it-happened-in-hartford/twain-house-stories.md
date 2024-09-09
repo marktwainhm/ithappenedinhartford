@@ -2,6 +2,7 @@
 title: Twain House Stories
 layout: gayrodeo
 permalink: /twain-house-stories.html
+type: landing
 ---
 
 Stories to come! 

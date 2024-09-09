@@ -7,6 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: it-happened-in-hartford
+type: landing
 ---
 
 _**It Happened in Hartford: 150 years of the Mark Twain House**_ is a multi-layered exhibition experience that includes:
