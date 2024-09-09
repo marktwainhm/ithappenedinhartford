@@ -11,7 +11,7 @@ parent: clemens-family
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="SLC-&-Family-Groups--1" width="75" %}
+{% include feature/image.html objectid="MTHM_SLC_FamilyGroups01" width="75" %}
 
 The Clemens family — Samuel, Olivia, Langdon, Susy, Clara, and Jean – called Hartford their home for 17 years. 
 
