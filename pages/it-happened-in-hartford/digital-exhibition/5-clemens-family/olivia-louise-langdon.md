@@ -12,7 +12,7 @@ next: clemens-family/langdon-clemens
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="OLC-Alone--1" width="75" %}
+{% include feature/image.html objectid="MTHM_OLC-Alone-01" width="75" %}
 
 Olivia Langdon Clemens was born Olivia Louise Langdon on November 27, 1845, in Elmira, New York, the daughter of Jervis and Olivia Langdon. She had a younger brother, Charles, and an adopted older sister, Susan. Olivia was called “Livy” by her friends and family, and by her husband, Samuel L. Clemens, whom she married on Feb. 2, 1870. She was educated at home with private tutors and also took classes at Elmira Female College (Elmira College today). 
 
