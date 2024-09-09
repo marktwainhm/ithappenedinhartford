@@ -12,7 +12,7 @@ next: the-rooms
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Nursery-wallpaper-detail--1-Groo-2011" width="75" %}
+{% include feature/image.html objectid="GROO_Nursery_2011-01-Detail" width="75" %}
 
 The Clemenses spent much of the years 1878-79 in Europe, where Samuel was preparing material for his book A Tramp Abroad. Samuel and Olivia also used their stay to buy and ship home furnishings, art, and statuary for the planned redecoration of their Hartford home. On their return, as Samuel wrote to a friend, “Livy is viewing designs and instructing the artist who is making ready to fresco the Hartford house.” The work he was talking about was on the second floor, the family’s living area, and the artist was Frederick Schweppe of Olivia’s hometown of Elmira, New York.
 
