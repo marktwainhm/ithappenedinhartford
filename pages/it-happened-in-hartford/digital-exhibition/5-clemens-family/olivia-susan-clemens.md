@@ -12,7 +12,7 @@ next: clemens-family/clara-langdon-clemens
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Childrens-Photos-Susy-1872-1880--7" width="75" %}
+{% include feature/image.html objectid="MTHM_Susy1872-1880_7" width="75" %}
 
 Olivia Susan Clemens, called “Susy” by her family, was the second child and the oldest of three daughters. Born March 19, 1872, Susy was a baby when Langdon died, and after his death both parents doted on Susy. Their close attachment to her remained significant throughout her youth and young adulthood. She was a precocious child, and Clemens wrote that even as a small child she had big thoughts. Samuel and Olivia kept a record of many of the startling and humorous comments made by Susy and her younger sister, Clara, in a document called “The Children’s’ Record: A Record of the Small foolishnesses of Susie and ‘Bay’ Clemens August 1876 – 1885.” Susy grew to love writing, theater and music.
 
