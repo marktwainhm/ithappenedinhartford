@@ -13,7 +13,7 @@ layout: page
             {%- if page.title == "Digital Exhibition" -%}
             <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
             
-            {%- elsif page.title == "The House That Olivia Built" -%}
+            {%- elsif page.title == "The House That The Clemenses Built" -%}
             <a href="{{ page.previous | prepend: "/" }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
             <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
 
@@ -36,7 +36,7 @@ layout: page
   <img class="card-img-top" src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">
   <div class="card-body">
     {% if page.type == "landing" %}
-    <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.child }}">{{ grid.title }}</a></h4>
+    <h4 class="card-title"><a href="{{ site.baseurl }}{{ grid.child }}">{{ grid.title }}</a></h4>
     {% else %}
         <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.parent }}{{ grid.child }}">{{ grid.title }}</a></h4>
     {% endif %}
