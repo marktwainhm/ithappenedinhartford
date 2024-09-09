@@ -11,7 +11,7 @@ previous: meet-the-neighbors/the-warners
 next: meet-the-neighbors/the-stowes
 ---
 
-{% include feature/image.html objectid="Houses-other-Hooker--1" width="75" %}
+{% include feature/image.html objectid="MTHM_HookerHouse-01" width="75" %}
 
 ### John Hooker (1816-1901) 
 Lawyer John Hooker married Isabella Beecher in 1841. With his brother-in-law Francis Gillette, he purchased 140 acres known as ‘Nook Farm' in 1853. John and Isabella raised three children in Nook Farm. A graduate of Yale, John spent his early adulthood in the abolitionist movement and was an advocate for women’s right to vote. Hooker served as a congregational deacon; but intellectually curious, he accepted the Spiritualism belief that it was possible to communicate with spirits. 
