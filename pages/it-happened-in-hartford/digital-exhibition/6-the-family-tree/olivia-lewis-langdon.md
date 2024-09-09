@@ -12,7 +12,7 @@ next: the-family-tree/susan-langdon-crane
 
 ---
 
-{% include feature/image.html objectid="Langdon--Olivia-Lewis--2-1" width="75" %}
+{% include feature/image.html objectid="MTHM_OLL_2-1" width="75" %}
 
 Olivia Lewis Langdon, Olivia Clemens’s mother, was “a Victorian of the pleasantest type,” according to her granddaughter Ida Langdon – “she was intellectual and she was practical, she was socially inclined and socially gifted.” Like her husband Jervis, she was deeply committed to the abolitionist cause before the Civil War. 
 
