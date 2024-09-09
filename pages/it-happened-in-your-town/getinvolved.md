@@ -24,7 +24,7 @@ Each town’s materials will be included in our online exhibit, which will use t
 
 It Happened In Your Town will allow students to engage with their community’s past and present, demonstrating the power of local history to tell national and global stories. 
 
-The project will officially begin in late 2023 and run through the end of 2024; submissions any time in that period will be included in the project. To receive updates on participation, or to inquire about program specifics, please complete the form below.
+To receive updates on participation, or to inquire about program specifics, please complete the form below.
 
 If you’re looking for a place to get started, try one of the Connecticut newspapers that has digitized copies from 1874: the [Connecticut *Western News*](https://chroniclingamerica.loc.gov/lccn/sn84027718/issues/1874/), the [Hartford *Courant*](https://researchitct.org/newspapers/), the [Litchfield *Enquirer*](https://chroniclingamerica.loc.gov/lccn/sn84020071/), the [New Milford *Journal*](https://collections.ctdigitalarchive.org/islandora/object/30002%3A22175119), the [Norwalk *Gazette*](https://collections.ctdigitalarchive.org/islandora/object/450002%3A37), the [Plainville *News*](https://collections.ctdigitalarchive.org/islandora/object/30002%3A21742069), and the [South Norwalk *Sentinel*](https://collections.ctdigitalarchive.org/islandora/object/450002%3Ao10383360).
 
