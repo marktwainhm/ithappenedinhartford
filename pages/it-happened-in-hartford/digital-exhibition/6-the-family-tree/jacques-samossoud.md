@@ -12,7 +12,7 @@ next: tails-of-twain
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Childrens-Photos-Clara-Samossoud--11" width="75" %}
+{% include feature/image.html objectid="MTHM_ClaraSamossoud11" width="75" %}
 
 After the death of her first husband, Clara Clemens relocated to Hollywood. There she met another Russian musician, Jacques Samossoud, and married him when she was 70 years old. She described the marriage as “positively miraculous in its multifarious strata of rainbowism.”
 
