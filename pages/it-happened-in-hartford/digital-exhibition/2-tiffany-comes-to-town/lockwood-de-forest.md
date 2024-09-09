@@ -12,7 +12,7 @@ next: tiffany-comes-to-town/samuel-colman
 ---
 
 
-{% include feature/image.html objectid="Lockwood-deForest--1" width="75" %}
+{% include feature/image.html objectid="MTHM_Decorators_Lockwood-deForest_01" width="75" %}
 
 Lockwood de Forest was one of the Associated Artists group, led by Louis Comfort Tiffany, who were brought into the Clemens home in 1881 to “revamp” the decoration, as Samuel Clemens described their task. De Forest was a painter and designer with a particular interest in Indian art and design. The painter Frederic Church was a mentor to de Forest during his European travels in the 1860s, and he later set up a studio in New York. After he joined Tiffany and designer Candace Wheeler in the Associated Artists firm de Forest traveled to India with his wife, Meta Kemble, on their honeymoon. 
 
