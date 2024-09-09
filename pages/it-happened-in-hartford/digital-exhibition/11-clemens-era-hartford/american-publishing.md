@@ -12,7 +12,7 @@ previous: union-station
 next: case-lockwood-brainard
 ---
 
-{% include feature/image.html objectid="Hartford_Courant_1874_03_13_3" width="75" %}
+{% include feature/image.html objectid="Courant_18740313" width="75" %}
 
 The American Publishing Company , once located at 284 Asylum Street, was founded in Hartford on April 10, 1865, at the very end of the Civil War,  only one day after Lee surrendered to Grant. 
 
