@@ -11,7 +11,7 @@ previous: clemens-era-hartford/allyn-house
 next: clemens-era-hartford/state-house-square
 ---
 
-{% include feature/image.html objectid="77-13-2" width="75" %}
+{% include feature/image.html objectid="77-13-2_f1_20240805" width="75" %}
 
 Bolstered by publishing, insurance, and other industries, Hartford in the late 1800s to early 1900s was a wealthy city in the United States. Case & Rathburn were among the many stores to be found in downtown where residents could find the supplies they needed – from food and home goods, to clothing and novelties. By examining their check register, we know that the Clemenses bought a dozen custom shirts and 200 cigars from Case & Rathburn in 1874. 
 
