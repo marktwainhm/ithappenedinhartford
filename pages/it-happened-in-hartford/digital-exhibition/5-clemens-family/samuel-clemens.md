@@ -13,7 +13,7 @@ next: clemens-family/mark-twains-work
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="SLC-Alone-1871-75--8" width="75" %}
+{% include feature/image.html objectid="MTHM_SLC_Alone1871-1875-08" width="75" %}
 
 **A Life Lived in a Rapidly Changing World**
 
