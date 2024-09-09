@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/walter-crane
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Decorators-Misc---Colman--Samuel" width="75" %}
+{% include feature/image.html objectid="MTHM_SamuelColman4" width="75" %}
 
 As one of the Associated Artists group led by Louis Tiffany and Candace Wheeler, Samuel Colman had a role in the major interior redecoration of the Clemens home in Hartford in 1881. He is best known, though, as a member of the Hudson River School of landscape painters. He exhibited at the National Academy of Design in New York at the age of 18. He traveled extensively in Europe and the western United States, where he also set up his easel to convey landscape and architectural features in a Romantic style. Possibly his best-known work is the five-foot-by-three-foot painting Storm King on the Hudson, which shows the looming riverside mountain in the Hudson Highlands with a variety of sail and steam boats in the foreground. 
 
