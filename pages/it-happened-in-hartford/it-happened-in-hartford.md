@@ -7,6 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: it-happened-in-hartford
+next: the-house-that-the-clemenses-built
 type: landing
 ---
 
