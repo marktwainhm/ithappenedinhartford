@@ -12,7 +12,7 @@ next: the-family-tree/john-marshall-clemens
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Clemens-Family-Photos---Clemens,-J-M----Family--1" width="75" %}
+{% include feature/image.html objectid="MTHM_Family_JaneClemens-01" width="75" %}
 
 
 Samuel’s mother was born in Adair County, Kentucky. In 1823 she married John Marshall Clemens, in part to spite a former suitor. The couple had seven children, of whom only four (Orion, Pamela, Samuel, and Henry) survived at the time of John Marshall Clemens’s death in 1847. The widowed Jane left Hannibal, Missouri, and between 1853 and 1870 lived in Muscatine, and possibly Keokuk, Iowa, and in St. Louis, Missouri, initially as part of Orion Clemens’s household and then with her daughter Pamela Moffett. 
