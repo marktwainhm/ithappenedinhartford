@@ -11,7 +11,7 @@ next: saving-the-house
 parent: post-clemens-era
 ---
 
-{% include feature/image.html objectid="Hartford_Courant_Wed_May_27_1903_" width="75" %}
+{% include feature/image.html objectid="Courant_19030527" width="75" %}
 
 Financial problems forced Samuel and Olivia to close up their Hartford home and to move the family to Europe in 1891. The family would never live in Hartford again. Susy’s death in 1896 made it too hard for Olivia to return to their Hartford home, and the Clemenses sold the property in 1903 to the Richard Bissell family. 
 
