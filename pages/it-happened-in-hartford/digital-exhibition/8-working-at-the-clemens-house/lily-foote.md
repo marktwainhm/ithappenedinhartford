@@ -11,7 +11,6 @@ previous: patrick-mcaleer
 next: working-at-the-clemens-house/meet-the-neighbors
 ---
 
-{% include feature/image.html objectid="Livy-to-OLL-Feb--2--1890" width="75" %}
 
 Lilly Gillette Foote was born in 1860 in Guilford, Connecticut and grew up here before she left to study at Newnham College, in Cambridge, England. After her studies she moved to Hartford in 1880 at age 20 and was soon after hired by the Clemens family as a governess. The Clemens daughters, Susy and Clara, were 8 and 6 respectively when Miss Gillette was hired to help with their education. In the 1800s, governesses were often single women of the same social class as their employers – “Miss Foote” was a cousin of neighbor Harriet Beecher Stowe and an uncle had been governor of Connecticut. 
 
