@@ -11,7 +11,7 @@ previous: meet-the-neighbors/the-perkins
 next: visitors-on-parade
 ---
 
-{% include feature/image.html objectid="Twichell--J-H---2-" width="75" %}
+{% include feature/image.html objectid="MTHM_Friends_JosephTwichell-02" width="75" %}
 
 Samuel Clemens’ best friend – “first after Livy” – was a minister. Clemens’ deep cynicism about religious hypocrisy, and his late-life writings in which he faced the universe with great despair, would seem to make such a friendship unlikely.
 
