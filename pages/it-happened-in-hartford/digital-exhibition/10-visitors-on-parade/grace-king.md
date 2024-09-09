@@ -10,7 +10,7 @@ parent: visitors-on-parade
 previous: visitors-on-parade/karl-gerhardt
 next: visitors-on-parade/bret-harte
 ---
-{% include feature/image.html objectid="0535-img0094-pcd" width="75" %}
+{% include feature/image.html objectid="HBSC-0535-img0094-pcd" width="75" %}
 
 Grace King was a southern writer from New Orleans who focused on stories, events, and the  history of her home state of Louisiana. Born in 1851 to a well-known and respected family, the end of legalized slavery and the economic impact of the Civil War, led to the family losing wealth and property. Grace was nonetheless able to focus on her formal education and love of literature. During the 1885 Cotton Centennial Exposition she met the editor Richard Watson Gilder. In the course of their conversation they discussed other writers who wrote about life in the South following the Civil War, including George W. Cable. Grace felt that Cable’s portrayal of the South was negative and a betrayal of Southern culture. Gilder encouraged Grace to write her own stories of Louisiana. The next day she put pen to paper and wrote her first published short story. 
 
