@@ -11,7 +11,7 @@ previous: working-at-the-clemens-house/daniel-molloy
 next: working-at-the-clemens-house/patrick-mcaleer
 ---
 
-{% include feature/image.html objectid="Employees--6-John----Ellen-O-Neil" width="75" %}
+{% include feature/image.html objectid="MTHM_Employees_Oneil_06" width="75" %}
 
 John and Ellen O’Neil (nee Dougherty) arrived in the United States from Ireland in 1871, and joined the Clemens household when John was hired as the gardener in 1885. He earned $50 a month, and later $60,  but did not receive room and board as some servants did. To supplement their income, they sold flowers from the greenhouse on the property, switching to Christmas trees at the proper time of year. Samuel Clemens wrote that the O’Neils were two of “the three persons I have had long acquaintance with who could be trusted to do their work well & faithfully without supervision,” the third being coachman Patrick McAleer. 
 
