@@ -11,7 +11,7 @@ previous: working-at-the-clemens-house/catherine-leary
 next: working-at-the-clemens-house/elizabeth-wells
 ---
 
-{% include feature/image.html objectid="Rosa2--2-" width="75" %}
+{% include feature/image.html objectid="MTHM_Employees_Rosa" width="75" %}
 
 Rosina Hay was hired by the Clemenses when they moved into their Hartford home in 1874 as a nursemaid for Susy, age 2, and Clara, born that year. German-born Rosina had been living with her brother, a barber in Hartford in 1874, but the Clemenses actually met her two years earlier when they were summering at Fenwick Hall on the Connecticut shore. Olivia wrote to her sister-in-law, Mollie Clemens, about Rosina: “I have found a little German maid who is entirely accustomed to children and comes highly recommended…She was taking care of children in Fenwick when we were there.” 
 
