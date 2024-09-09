@@ -12,7 +12,7 @@ previous: clemens-era-hartford/churches
 next: clemens-era-hartford/post-clemens-era
 ---
 
-{% include feature/image.html objectid="371-32S979" width="75" %}
+{% include feature/image.html objectid="MTHM_371-32S979" width="75" %}
 
 Susy, Clara, and Jean Clemens girls had their first lessons at home in the schoolroom next door to the nursery on the second floor of their Hartford home. This room was originally their father’s study, but he soon found that he could not work listening to such giggly, tumultuous play next door. Clemens moved out, and the girls moved in with their mother, Olivia, as their first teacher. In 1880 the family hired Lilly Gillette Foote to be their governess for the next eleven years. Ms. Foote and other tutors taught reading, writing, history, arithmetic, literature and science. Clemens wanted them to read German books before English books – his reason being that they would learn English no matter what, and it would be easier for them to learn other languages while they were young. Olivia employed a German nurse named Rosa who always conversed with the children in German so they could practice their skills. The girls also studied piano, singing and social dancing. All these skills were expected of young upper middle-class women.
 
