@@ -12,7 +12,7 @@ next: clemens-family/jane-lampton-clemens
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Childrens-Photos-Clara-before-marriage--3" width="75" %}
+{% include feature/image.html objectid="MTHM_Clara-before-marriage3" width="75" %}
 
 Clara Langdon Clemens was born June 8, 1874, two years after her older sister, Susy. Because they were so close in age, much of Clara’s early years are similar to Susy’s: full of social life, homeschooling in language and music, and foreign travel. Clara’s childhood nickname was “Bay” which evolved from toddler Susy’s pronunciation of “baby.”
 

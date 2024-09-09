@@ -12,7 +12,7 @@ next: clemens-family/olivia-susan-clemens
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Children's-Photos:-Langdon--2" width="75" %}
+{% include feature/image.html objectid="MTHM_Langdon2" width="75" %}
 
 When in November 1870 Samuel and Olivia Clemens celebrated the birth of their first child, born prematurely, he was given Olivia’s family name, Langdon. The new father took the opportunity to write to Olivia’s grandmother in the baby’s voice:
 

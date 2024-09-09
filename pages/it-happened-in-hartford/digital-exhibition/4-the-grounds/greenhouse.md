@@ -12,7 +12,7 @@ next: the-grounds/the-park-river
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="MT-Exteriors-1882-1903--7" width="75" %}
+{% include feature/image.html objectid="MTHM_House-Exterior_1903-1950_07" width="75" %}
 
 When the Clemenses lived here there was a large greenhouse, built in 1871, on the lawn between their house and the home of Harriet Beecher Stowe. However, it wasn’t until 1881 that Clemens became the owner of the structure. Lawyer Franklin Chamberlin, who had sold them their land, was preparing his property, across the lawn from the Clemenses house, for a large stone house to be built at the corner of Farmington Avenue and Forest Street. That house’s rear windows would gaze down on the Clemens front door, “big and high, and his kitchen in their faces'' as neighbor Lilly Warner wrote. Negotiations led to the sale of a 100-foot strip of land as a buffer between the houses – a strip that included Chamberlin’s greenhouse.
 
