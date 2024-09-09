@@ -12,7 +12,7 @@ next: the-family-tree
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Childrens-Photos-Jean-1880-1891--5" width="75" %}
+{% include feature/image.html objectid="MTHM_Jean1880-1891_5" width="75" %}
 
 The youngest child of Samuel and Olivia, Jane Lampton Clemens, was born July 26, 1880, and named after her paternal grandmother She was always called “Jean” by her family and friends. Later in 1880, Samuel wrote to his sister: “Jean is as fat as a watermelon, & just as sweet, & good, & often just as wet.” Jean loved wildlife and being outdoors. As a teenager and young adult she was what today would be called an animal rights activist. She joined the Humane Society and made donations to similar organizations during the family’s many travels. She loved horseback riding, and as an adult longed for a vocation and source of income of her own to make her more independent. In 1891, when the family packed up for Europe, Clara and Susy were practically adults‚ with careers in mind. At that point Jean was only 11, and still had much of her childhood left.
 
