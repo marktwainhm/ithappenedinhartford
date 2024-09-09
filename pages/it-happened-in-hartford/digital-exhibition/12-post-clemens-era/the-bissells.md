@@ -11,7 +11,7 @@ previous: post-clemens-era
 next: post-clemens-era/the-kingswood-school
 ---
 
-{% include feature/image.html objectid="Marie-Bissell-&-children" width="75" %}
+{% include feature/image.html objectid=MTHM_Bissell-Marie" width="75" %}
 
 Richard M. Bissell was president of The Hartford Fire Insurance Company for twenty-eight years. For part of that time the Bissell’s lived in the Clemens family home, which they purchased  in 1903 for $28,800 and moved in shortly thereafter. Richard’s wife, Marie, was “a midwesterner who found Hartford society stuffy,” says historian Eugene R. Gaddis. “Even during Prohibition, champagne flowed liberally at her soirees, and on the morning after at least one party, a grand piano was spotted on her front lawn.”  
 
