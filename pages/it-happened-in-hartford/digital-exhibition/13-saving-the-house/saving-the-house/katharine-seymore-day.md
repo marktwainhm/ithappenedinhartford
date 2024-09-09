@@ -8,7 +8,7 @@ previous: saving-the-house
 next: the-library-moves-in
 ---
 
-{% include feature/image.html objectid="Trustees--etc---10" width="75" %}
+{% include feature/image.html objectid="MTHM_Memorial_Trustees-10" width="75" %}
 
 Katharine Seymour Day had impeccable Nook Farm lineage and was the child of Olivia’s good friend, Alice Hooker Day and her husband John Day. The Clemenses attended their wedding in 1869 and the newlyweds welcomed their daughter a year later. (The couple later rented the Clemens home while Samuel and Olivia were in Europe in the 1890s.) Katharine was the granddaughter of John and Isabella Beecher Hooker, and the great-niece of Harriet Beecher Stowe. 
 
