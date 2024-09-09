@@ -11,7 +11,7 @@ previous: clemens-era-hartford/case-and-rathburn
 next: clemens-era-hartford/fox-and-dow
 ---
 
-{% include feature/image.html objectid="CMCH_2000-171-51" width="75" %}
+{% include feature/image.html objectid="CMCH_2000-171-31" width="75" %}
 
 State House Square in Hartford has been a center of commerce for the city of Hartford for 100s of years. Back in 1874 when Samuel Clemens and his family moved into their Hartford home, this square was THE center of the city hosting both commercial interests and the seat of the government. The square was surrounded by business offices for doctors, merchants, creatives, and government officials, as well as store fronts for a variety of goods and services. We know that both the Clemens family doctor, Dr. Cincinnatus Taft, and a jeweler they bought cufflinks from, D.H. Buell Jewelry, had store fronts and offices on State House Square. 
 Built in 1796 the Federal style Old State House at the center of this square served as home to all three branches of the Connecticut state government from 1796 to 1878. It was designed by Charles Bulfinch and is the oldest state house in the nation. According to their website: “Major state and national events have, and continue to occur at the Old State House. Lafayette was made a citizen here, many American presidents, including Jackson, Monroe, Johnson, Ford and Bush have visited. President Carter gave the U.S.S. Nautilus to Connecticut in a ceremony at the Old State House in 1981. The trials of Cinque and the Amistad opened here in 1839. P.T. Barnum served in the legislature here, and notables such as Mark Twain, Charles Dickens, Samuel Colt and Harriet Beecher Stowe visited the building.”
