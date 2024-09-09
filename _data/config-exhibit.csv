@@ -1,9 +1,9 @@
 parent,exhibit,child,image,title
-it-happened-in-hartford,,it-happened-in-hartford,IHIH_Logo.jpg,It Happened In Hartford
-it-happened-in-hartford,,digital-exhibition,IHIH_Logo.jpg,Digital Exhibition
-it-happened-in-hartford,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
-it-happened-in-hartford,,your-twain-house-story,YourStory_Logo.jpg,Your Twain House Story
-digital-exhibition,,digital-exhibition,IHIH_Logo.jpg,It Happened In Hartford
+it-happened-in-hartford,,/it-happened-in-hartford,IHIH_Logo.jpg,It Happened In Hartford
+it-happened-in-hartford,,/digital-exhibition,IHIH_Logo.jpg,Digital Exhibition
+it-happened-in-hartford,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
+it-happened-in-hartford,,/your-twain-house-story,YourStory_Logo.jpg,Your Twain House Story
+digital-exhibition,,/digital-exhibition,IHIH_Logo.jpg,It Happened In Hartford
 digital-exhibition,digital-exhibition/,the-house-that-olivia-built,Exterior-1874-81--7.jpg,The House the Clemenses Built
 digital-exhibition,digital-exhibition/,clemens-family,SLC--u0026-Family-Groups--1.tif,The Clemens Family
 digital-exhibition,digital-exhibition/,the-family-tree,SLC-&-family-groups--18.jpg,The Family Tree
@@ -105,21 +105,21 @@ museum-era,digital-exhibition/,,Visitor-Center--2-Groo-2011.jpg,Museum Era
 museum-era,digital-exhibition/,walter-k-schwinn,Walter-Schwinn-&-Hal-in-Front-Hall.1967.tif,Walter K. Schwinn
 museum-era,digital-exhibition/,edith-colgate-salsbury,Memorial-Activities-Trustees--Members--&-Staff--3-Salsbury.jpg,Edith Colgate Salsbury
 it-happened-in-your-town,,,YourTown_Logo.jpg,It Happened in Your Town
-it-happened-in-your-town,,digital-exhibition,IHIH_Logo.jpg,Digital Exhibition
-it-happened-in-your-town,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
-it-happened-in-your-town,,your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
-it-happened-in-your-town,,twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
+it-happened-in-your-town,,/digital-exhibition,IHIH_Logo.jpg,Digital Exhibition
+it-happened-in-your-town,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
+it-happened-in-your-town,,/your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
+it-happened-in-your-town,,/twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
 history-around-hartford,,,HartfordHistory_Logo.jpg,History Around Hartford
-history-around-hartford,,it-happened-in-hartford,IHIH_Logo.jpg,Digital Exhibition
-history-around-hartford,,it-happened-in-your-town,YourTown_Logo.jpg,History Around Hartford
-history-around-hartford,,your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
-history-around-hartford,,twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
+history-around-hartford,,/it-happened-in-hartford,IHIH_Logo.jpg,Digital Exhibition
+history-around-hartford,,/it-happened-in-your-town,YourTown_Logo.jpg,History Around Hartford
+history-around-hartford,,/your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
+history-around-hartford,,/twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
 your-twain-house-story,,,YourStory_Logo.jpg,Your Twain House Story
-your-twain-house-story,,it-happened-in-hartford,IHIH_Logo.jpg,It Happened in Hartford
-your-twain-house-story,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
-your-twain-house-story,,it-happened-in-your-town,YourTown_Logo.jpg,It Happened in Hartford
-your-twain-house-story,,twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
-twain-house-stories,,twain-house-stories,,Read Twain House Stories
-twain-house-stories,,it-happened-in-hartford,IHIH_Logo.jpg,It Happened in Hartford
-twain-house-stories,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
-twain-house-stories,,it-happened-in-your-town,YourTown_Logo.jpg,It Happened in Hartford
+your-twain-house-story,,/it-happened-in-hartford,IHIH_Logo.jpg,It Happened in Hartford
+your-twain-house-story,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
+your-twain-house-story,,/it-happened-in-your-town,YourTown_Logo.jpg,It Happened in Hartford
+your-twain-house-story,,/twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
+twain-house-stories,,/twain-house-stories,Stories_Logo.jpg,Read Twain House Stories
+twain-house-stories,,/it-happened-in-hartford,IHIH_Logo.jpg,It Happened in Hartford
+twain-house-stories,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
+twain-house-stories,,/it-happened-in-your-town,YourTown_Logo.jpg,It Happened in Hartford
