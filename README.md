@@ -3,6 +3,10 @@
 This repository holds the source code for https://twainsworld.org/.
 It also uses code from the conversation visualization at [Voices of Gay Rodeo](https://github.com/thecdil/gayrodeo_dev) at the Center for Digital Inquiry and Learning at the University of Idaho, and the Tree Map visualization [Founding Stories](https://github.com/UWTacomaLibrary/foundingstories) from the UW Tacoma Library.
 
+## About
+September 2024 marks the 150th anniversary of the arrival of the Clemens family in their newly built Hartford home and 50 years since the Mark Twain House formally opened as a Museum. The Mark Twain House and Museum are celebrating these important milestones over the next year in a number of ways, including a special exhibition, a community history project, and an education initiative. 
+The It Happened In Hartford: 150 Years of the Mark Twain House exhibition is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.
+
 ## CollectionBuilder 
 
 <https://collectionbuilder.github.io/>
