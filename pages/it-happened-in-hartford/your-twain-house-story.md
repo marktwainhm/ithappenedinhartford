@@ -1,6 +1,6 @@
 ---
 title: About the Mark Twain House and Museum
-layout: grid-page
+layout: exhibit
 permalink: /your-twain-house-story.html
 # include CollectionBuilder info at bottom
 credits: false
