@@ -29,7 +29,7 @@ Making a living as a creative–a writer and a performer–was fairly new in the
 
 The Clemenses would spend 17 years in Hartford. Near the end of his life, looking back to the time before the death of his beloved wife and two of his three daughters Samuel Clemens expressed great sorrow and loss for the time he and his family lived in Hartford. But, that sentiment cannot do justice to the great highs and lows, both personally and professionally that the family experienced in this house. In Hartford they found community in Nook Farm, strength in their family unit, and, for Samuel, success in building the brand of “Mark Twain,” all giving the family a stability they would seek to recreate for the rest of their lives. Ultimately, however, financial hardship and family loss caused the family to leave Hartford, not return, and sell their home here. 
 
-**_It Happened In Hartford: 150 Years of the Mark Twain House_ is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department. **
+**_It Happened In Hartford: 150 Years of the Mark Twain House_ is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.**
 
 {% include feature/image.html objectid="/objects/HIG_Logo_1920x1080.jpg" width="50" alt="The Hartford Logo" %}
 {% include feature/image.html objectid="/objects/BushnellConservancy_Logo.png" width="25" alt="Bushnell Conservancy Logo" %}
