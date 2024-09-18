@@ -1,8 +1,8 @@
 parent,exhibit,child,image,title
-it-happened-in-hartford,,/it-happened-in-hartford,IHIH_Logo.jpg,It Happened In Hartford
-it-happened-in-hartford,,/digital-exhibition,DigitalExhibitLogo.png,Digital Exhibition
-it-happened-in-hartford,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
-it-happened-in-hartford,,/your-twain-house-story,YourStory_Logo.jpg,Your Twain House Story
+it-happened-in-hartford,,it-happened-in-hartford,IHIH_Logo.jpg,It Happened In Hartford
+it-happened-in-hartford,,digital-exhibition,DigitalExhibitLogo.png,Digital Exhibition
+it-happened-in-hartford,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
+it-happened-in-hartford,,your-twain-house-story,YourStory_Logo.jpg,Your Twain House Story
 digital-exhibition,,/digital-exhibition,IHIH_Logo.jpg,It Happened In Hartford
 digital-exhibition,digital-exhibition/,the-house-that-the-clemenses-built,MTHM_House-Exterior_1874-1881-07.jpg,The House the Clemenses Built
 digital-exhibition,digital-exhibition/,clemens-family,MTHM_SLC_FamilyGroups01.jpg,The Clemens Family
@@ -15,105 +15,105 @@ digital-exhibition,digital-exhibition/,clemens-era-hartford,CMCH_2000-171-51.jpg
 digital-exhibition,digital-exhibition/,post-clemens-era,MTHM_Library-Branch.jpg,Post Clemens Era
 digital-exhibition,digital-exhibition/,saving-the-house,MTHM_Memorial_Trustees-10.jpg,Saving the House
 the-house-that-the-clemenses-built,digital-exhibition/,,MTHM_House-Exterior_1874-1881-07.jpg,The House That the Clemenses Built
-the-house-that-the-clemenses-built,digital-exhibition/,alfred-h-thorp,MTHM_House-Exterior_1874-1881_05.jpg,Alfred H. Thorp
-the-house-that-the-clemenses-built,digital-exhibition/,edward-tuckerman-potter,EdwardPotter.jpg,Edward Tuckerman Potter
+the-house-that-the-clemenses-built,digital-exhibition/,/alfred-h-thorp,MTHM_House-Exterior_1874-1881_05.jpg,Alfred H. Thorp
+the-house-that-the-clemenses-built,digital-exhibition/,/edward-tuckerman-potter,EdwardPotter.jpg,Edward Tuckerman Potter
 tiffany-comes-to-town,digital-exhibition/,,MTHM_Decorators-AA-1879-1883_11.jpg,Tiffany Comes To Town
-tiffany-comes-to-town,digital-exhibition/,louis-comfort-tiffany,LCTiffany9.jpg,Louis Comfort Tiffany
-tiffany-comes-to-town,digital-exhibition/,candace-wheeler,Candace-Wheeler-15.jpg,Candace Wheeler
-tiffany-comes-to-town,digital-exhibition/,lockwood-de-forest,MTHM_Decorators_Lockwood-deForest_01.jpg,Lockwood de Forest
-tiffany-comes-to-town,digital-exhibition/,samuel-colman,MTHM_SamuelColman4.jpg,Samuel Colman
-tiffany-comes-to-town,digital-exhibition/,walter-crane,GROO_Nursery_2023-02.jpg.jpg,Water Crane
-tiffany-comes-to-town,digital-exhibition/,frederick-schweppe,GROO_Nursery_2011-01-Detail.jpg,Frederick Schweppe
+tiffany-comes-to-town,digital-exhibition/,/louis-comfort-tiffany,LCTiffany9.jpg,Louis Comfort Tiffany
+tiffany-comes-to-town,digital-exhibition/,/candace-wheeler,Candace-Wheeler-15.jpg,Candace Wheeler
+tiffany-comes-to-town,digital-exhibition/,/lockwood-de-forest,MTHM_Decorators_Lockwood-deForest_01.jpg,Lockwood de Forest
+tiffany-comes-to-town,digital-exhibition/,/samuel-colman,MTHM_SamuelColman4.jpg,Samuel Colman
+tiffany-comes-to-town,digital-exhibition/,/walter-crane,GROO_Nursery_2023-02.jpg.jpg,Water Crane
+tiffany-comes-to-town,digital-exhibition/,/frederick-schweppe,GROO_Nursery_2011-01-Detail.jpg,Frederick Schweppe
 the-grounds,digital-exhibition/,,MTHM_House-Exterior_1903-1950_14.jpg,The Grounds
-the-grounds,digital-exhibition/,carriage-house,GROO_CarriageHouse_2023-01.jpg,Carriage House
-the-grounds,digital-exhibition/,greenhouse,MTHM_House-Exterior_1903-1950_07.jpg,Greenhouse
-the-grounds,digital-exhibition/,park-river,MTHM_House-Exterior_1903-1950_14.jpg,The Park River
+the-grounds,digital-exhibition/,/carriage-house,GROO_CarriageHouse_2023-01.jpg,Carriage House
+the-grounds,digital-exhibition/,/greenhouse,MTHM_House-Exterior_1903-1950_07.jpg,Greenhouse
+the-grounds,digital-exhibition/,/park-river,MTHM_House-Exterior_1903-1950_14.jpg,The Park River
 clemens-family,digital-exhibition/,,MTHM_SLC_FamilyGroups01.jpg,Clemens Family
-clemens-family,digital-exhibition/,samuel-clemens,MTHM_SLC_Alone1871-1875-08.jpg,Samuel Clemens
-clemens-family,digital-exhibition/,olivia-louise-langdon-clemens,MTHM_OLC-Alone-01.jpg,Olivia Louise Langdon Clemens
-clemens-family,digital-exhibition/,langdon-clemens,MTHM_Langdon2.jpg,Langdon Clemens
-clemens-family,digital-exhibition/,olivia-susan-clemens,MTHM_Susy1872-1880_7.jpg,Olivia Susan Clemens
-clemens-family,digital-exhibition/,clara-langdon-clemens,MTHM_Clara-before-marriage3.jpg,Clara Langdon Clemens
-clemens-family,digital-exhibition/,jane-lampton-clemens,MTHM_Jean1880-1891_5.jpg,Jane Lampton Clemens
+clemens-family,digital-exhibition/,/samuel-clemens,MTHM_SLC_Alone1871-1875-08.jpg,Samuel Clemens
+clemens-family,digital-exhibition/,/olivia-louise-langdon-clemens,MTHM_OLC-Alone-01.jpg,Olivia Louise Langdon Clemens
+clemens-family,digital-exhibition/,/langdon-clemens,MTHM_Langdon2.jpg,Langdon Clemens
+clemens-family,digital-exhibition/,/olivia-susan-clemens,MTHM_Susy1872-1880_7.jpg,Olivia Susan Clemens
+clemens-family,digital-exhibition/,/clara-langdon-clemens,MTHM_Clara-before-marriage3.jpg,Clara Langdon Clemens
+clemens-family,digital-exhibition/,/jane-lampton-clemens,MTHM_Jean1880-1891_5.jpg,Jane Lampton Clemens
 the-family-tree,digital-exhibition/,,MTHM_SLC_FamilyGroups18.jpg,The Family Tree
-the-family-tree,digital-exhibition/,jane-lampton-clemens,MTHM_Family_JaneClemens-01.jpg,Jane Lampton Clemens
-the-family-tree,digital-exhibition/,john-marshall-clemens,IHIH_ComingSoon.jpg,John Marshall Clemens
-the-family-tree,digital-exhibition/,jervis-langdon,JervisLangdon.jpg,Jervis Langdon
-the-family-tree,digital-exhibition/,olivia-lewis-langdon,MTHM_OLL_2-1.jpg,Olivia Lewis Langdon
-the-family-tree,digital-exhibition/,susan-langdon-crane,SusanCrane1.jpg,Susan Langdon Crane
-the-family-tree,digital-exhibition/,ossip-gabrilowitsch,GabrilowitschOssip3.jpg,Ossip Gabrlowitsch
-the-family-tree,digital-exhibition/,nina-gabrilowisch,NinaGabrilowitsch8.JPG,Nina Gabrilowisch
-the-family-tree,digital-exhibition/,jacques-samoussoud,MTHM_ClaraSamossoud11.jpg,Jacques Samoussoud
+the-family-tree,digital-exhibition/,/jane-lampton-clemens,MTHM_Family_JaneClemens-01.jpg,Jane Lampton Clemens
+the-family-tree,digital-exhibition/,/john-marshall-clemens,IHIH_ComingSoon.jpg,John Marshall Clemens
+the-family-tree,digital-exhibition/,/jervis-langdon,JervisLangdon.jpg,Jervis Langdon
+the-family-tree,digital-exhibition/,/olivia-lewis-langdon,MTHM_OLL_2-1.jpg,Olivia Lewis Langdon
+the-family-tree,digital-exhibition/,/susan-langdon-crane,SusanCrane1.jpg,Susan Langdon Crane
+the-family-tree,digital-exhibition/,/ossip-gabrilowitsch,GabrilowitschOssip3.jpg,Ossip Gabrlowitsch
+the-family-tree,digital-exhibition/,/nina-gabrilowisch,NinaGabrilowitsch8.JPG,Nina Gabrilowisch
+the-family-tree,digital-exhibition/,/jacques-samoussoud,MTHM_ClaraSamossoud11.jpg,Jacques Samoussoud
 working-at-the-clemens-house,digital-exhibition/,,KMD_GeorgeGriffin_Stereoview,Working at the Clemens House
-working-at-the-clemens-house,digital-exhibition/,george-griffin,KMD_GeorgeGriffin_cropped.jpg,George Griffin
-working-at-the-clemens-house,digital-exhibition/,catherine-leary,MTHM_Employees-KatyLeary.jpg,Katy Leary
-working-at-the-clemens-house,digital-exhibition/,rosina-hay,MTHM_Employees_Rosa.jpg, Rosina Hay
-working-at-the-clemens-house,digital-exhibition/,elizabeth-wells,wappingalice.jpg,Elizabeth Wells
-working-at-the-clemens-house,digital-exhibition/,daniel-molloy,IHIH_ComingSoon.jpg,Daniel Molloy
-working-at-the-clemens-house,digital-exhibition/,john-oneil,MTHM_Employees_Oneil_06.JPG,The O'Neils
-working-at-the-clemens-house,digital-exhibition/,patrick-mcaleer,MTHM_Employees_Patrick.jpg,Patrick McAleer
-working-at-the-clemens-house,digital-exhibition/,lily-foote,OLC-OLL_02Feb1890.jpg,Lily Foote
+working-at-the-clemens-house,digital-exhibition/,/george-griffin,KMD_GeorgeGriffin_cropped.jpg,George Griffin
+working-at-the-clemens-house,digital-exhibition/,/catherine-leary,MTHM_Employees-KatyLeary.jpg,Katy Leary
+working-at-the-clemens-house,digital-exhibition/,/rosina-hay,MTHM_Employees_Rosa.jpg, Rosina Hay
+working-at-the-clemens-house,digital-exhibition/,/elizabeth-wells,wappingalice.jpg,Elizabeth Wells
+working-at-the-clemens-house,digital-exhibition/,/daniel-molloy,IHIH_ComingSoon.jpg,Daniel Molloy
+working-at-the-clemens-house,digital-exhibition/,/john-oneil,MTHM_Employees_Oneil_06.JPG,The O'Neils
+working-at-the-clemens-house,digital-exhibition/,/patrick-mcaleer,MTHM_Employees_Patrick.jpg,Patrick McAleer
+working-at-the-clemens-house,digital-exhibition/,/lily-foote,OLC-OLL_02Feb1890.jpg,Lily Foote
 meet-the-neighbors,digital-exhibition/,,SLC---family-groups--10b.jpg,Meet the Neighborhoods
-meet-the-neighbors,digital-exhibition/,the-warners,Warner--C.D.--1.jpg,The Warners
-meet-the-neighbors,digital-exhibition/,the-hookers,Houses-other-Hooker--1--2-.tif,The Hookers
-meet-the-neighbors,digital-exhibition/,the-stowes,HB-Stowe.tif,The Stowes
-meet-the-neighbors,digital-exhibition/,the-gillettes,Friends-Photos---Gillette--William--10.jpg,The Gillettes
-meet-the-neighbors,digital-exhibition/,the-perkins,Hartford-Nook-Farm--2.jpg,The Perkins
-meet-the-neighbors,digital-exhibition/,the-twichells,Twichell--J.H.--2.jpg,Joseph Hopkins Twichell
+meet-the-neighbors,digital-exhibition/,/the-warners,Warner--C.D.--1.jpg,The Warners
+meet-the-neighbors,digital-exhibition/,/the-hookers,Houses-other-Hooker--1--2-.tif,The Hookers
+meet-the-neighbors,digital-exhibition/,/the-stowes,HB-Stowe.tif,The Stowes
+meet-the-neighbors,digital-exhibition/,/the-gillettes,Friends-Photos---Gillette--William--10.jpg,The Gillettes
+meet-the-neighbors,digital-exhibition/,/the-perkins,Hartford-Nook-Farm--2.jpg,The Perkins
+meet-the-neighbors,digital-exhibition/,/the-twichells,Twichell--J.H.--2.jpg,Joseph Hopkins Twichell
 visitors-on-parade,digital-exhibition/,,FamilyGroups_10.jpg,Visitors On Parade
-meet-the-neighbors,digital-exhibition/,the-hawleys,IHIH_ComingSoon.jpg,The Hawleys
-meet-the-neighbors,digital-exhibition/,karl-gerhart,KarlGerhardtPhoto.jpg,Karl Gerhart
-visitors-on-parade,digital-exhibition/,grace-king,Grace_King.png,Grace King
-visitors-on-parade,digital-exhibition/,bret-harte,209202303.jpg,Bret Harte
-visitors-on-parade,digital-exhibition/,henry-stanley,Portrait_of_Discoverer_of_Livingstone_-4671166-.jpg,Henry Stanley
-visitors-on-parade,digital-exhibition/,joel-chandler-harris,cph-3b29774-hdl.loc.govloc.pnpcph.3b29774.jpg,Joel Chandler Harris
-visitors-on-parade,digital-exhibition/,george-washington-cable,SLC-with-Misc.-Friends-1835-89--8.jpg,George Washington Cable
-visitors-on-parade,digital-exhibition/,ulysses-s-grant,U.S.-Grant.jpg,Ulysses S. Grant
+meet-the-neighbors,digital-exhibition/,/the-hawleys,IHIH_ComingSoon.jpg,The Hawleys
+meet-the-neighbors,digital-exhibition/,/karl-gerhart,KarlGerhardtPhoto.jpg,Karl Gerhart
+visitors-on-parade,digital-exhibition/,/grace-king,Grace_King.png,Grace King
+visitors-on-parade,digital-exhibition/,/bret-harte,209202303.jpg,Bret Harte
+visitors-on-parade,digital-exhibition/,/henry-stanley,Portrait_of_Discoverer_of_Livingstone_-4671166-.jpg,Henry Stanley
+visitors-on-parade,digital-exhibition/,/joel-chandler-harris,cph-3b29774-hdl.loc.govloc.pnpcph.3b29774.jpg,Joel Chandler Harris
+visitors-on-parade,digital-exhibition/,/george-washington-cable,SLC-with-Misc.-Friends-1835-89--8.jpg,George Washington Cable
+visitors-on-parade,digital-exhibition/,/ulysses-s-grant,U.S.-Grant.jpg,Ulysses S. Grant
 clemens-era-hartford,digital-exhibition/,,CMCH_2000-171-51.jpg,Clemens' Era Hartford
-clemens-era-hartford,digital-exhibition/,Business,hpl_hhc_cp_gn_h216.jpg,Businesses
-clemens-era-hartford,digital-exhibition/,Leisure,CMCH_1982-80-61B.jpg,Leisure
-clemens-era-hartford,digital-exhibition/,Social Clubs,81-2-7.jpg,Social Clubs
-clemens-era-hartford,digital-exhibition/,Churches,Asylum Hill Congregational Church.jpg,Churches
-clemens-era-hartford,digital-exhibition/,Education,Hartford-Public-High-School-1883-1897-HPHS.jpg,Education
+clemens-era-hartford,digital-exhibition/,/business,hpl_hhc_cp_gn_h216.jpg,Businesses
+clemens-era-hartford,digital-exhibition/,/leisure,CMCH_1982-80-61B.jpg,Leisure
+clemens-era-hartford,digital-exhibition/,/social-clubs,81-2-7.jpg,Social Clubs
+clemens-era-hartford,digital-exhibition/,/churches,Asylum Hill Congregational Church.jpg,Churches
+clemens-era-hartford,digital-exhibition/,/education,Hartford-Public-High-School-1883-1897-HPHS.jpg,Education
 business,digital-exhibition/,,hpl_hhc_cp_gn_h216.jpg,Businesses
-business,digital-exhibition/,union-station,CMCH_1994-249-0.jpg,Union Station
-business,digital-exhibition/,american-publishing-company,MTHM_703-72_f_20240804.jpg,American Publishing Company
-business,digital-exhibition/,case-lockwood-and-brainard,CMCH_2000-174-7.jpg,"Case, Lockwood, and Brainard"
-business,digital-exhibition/,allyn-house,CMCH_2000-197-37.jpg,Allyn House
-business,digital-exhibition/,case-and-rathburn,77.18_f1_20240805.jpg,Case and Rathburn
-business,digital-exhibition/,state-house-square,CMCH_2000-171-51.jpg,State House Square
-business,digital-exhibition/,fox-and-dow,hpl_hhc_cp_gn_h216.jpg,Fox and Dow
-business,digital-exhibition/,ep-and-wm-kellogg,CMCH_2002-109-21.jpg,EP and Wm. Kellogg
-business,digital-exhibition/,george-griffins-apartment,hpl_hhc_cp_gn_h355.jpg,George Griffin's Apartment
-business,digital-exhibition/,brown-and-gross-booksellers,MTHM_175,"Brown and Gross, Booksellers"
-business,digital-exhibition/,brown-thompson-and-co,1964-23_f,"Brown, Thompson, and Co."
-business,digital-exhibition/,hartford-courant,3885.81_f.jpg,Hartford Courant
-business,digital-exhibition/,hartford-ice-company,IceCutting-A511170,Hartford Ice Company
-business,digital-exhibition/,paige-compositor,Compositor-drawing--622.jpg,Paige Compositor
+business,digital-exhibition/,/union-station,CMCH_1994-249-0.jpg,Union Station
+business,digital-exhibition/,/american-publishing-company,MTHM_703-72_f_20240804.jpg,American Publishing Company
+business,digital-exhibition/,/case-lockwood-and-brainard,CMCH_2000-174-7.jpg,"Case, Lockwood, and Brainard"
+business,digital-exhibition/,/allyn-house,CMCH_2000-197-37.jpg,Allyn House
+business,digital-exhibition/,/case-and-rathburn,77.18_f1_20240805.jpg,Case and Rathburn
+business,digital-exhibition/,/state-house-square,CMCH_2000-171-51.jpg,State House Square
+business,digital-exhibition/,/fox-and-dow,hpl_hhc_cp_gn_h216.jpg,Fox and Dow
+business,digital-exhibition/,/ep-and-wm-kellogg,CMCH_2002-109-21.jpg,EP and Wm. Kellogg
+business,digital-exhibition/,/george-griffins-apartment,hpl_hhc_cp_gn_h355.jpg,George Griffin's Apartment
+business,digital-exhibition/,/brown-and-gross-booksellers,MTHM_175,"Brown and Gross, Booksellers"
+business,digital-exhibition/,/brown-thompson-and-co,1964-23_f,"Brown, Thompson, and Co."
+business,digital-exhibition/,/hartford-courant,3885.81_f.jpg,Hartford Courant
+business,digital-exhibition/,/hartford-ice-company,IceCutting-A511170,Hartford Ice Company
+business,digital-exhibition/,/paige-compositor,Compositor-drawing--622.jpg,Paige Compositor
 leisure,digital-exhibition/,,CMCH_1982-80-61B.jpg,Leisure
-leisure,digital-exhibition/,bushnell-park,CMCH_1910-7-0.jpg,Bushnell Park
-leisure,digital-exhibition/,baseball,Kingswood team copy,Baseball
-leisure,digital-exhibition/,peddling-revolution,CMCH_1982-80-61B.jpg,Peddling Revolution
+leisure,digital-exhibition/,/bushnell-park,CMCH_1910-7-0.jpg,Bushnell Park
+leisure,digital-exhibition/,/baseball,Kingswood team copy,Baseball
+leisure,digital-exhibition/,/peddling-revolution,CMCH_1982-80-61B.jpg,Peddling Revolution
 post-clemens-era,digital-exhibition/,,MT-Library-Branch.tif,Post Clemens Era
-post-clemens-era,digital-exhibition/,the-bissells,Marie-Bissell-&-children.jpg,The Bissells
-post-clemens-era,digital-exhibition/,the-kingswood-school-for-boys,MT-Exteriors-1903-50--16.jpg,The Kingswood School for Boys
-post-clemens-era,digital-exhibition/,apartments,Trustees--etc.--31.jpg,Apartments
+post-clemens-era,digital-exhibition/,/the-bissells,Marie-Bissell-&-children.jpg,The Bissells
+post-clemens-era,digital-exhibition/,/the-kingswood-school-for-boys,MT-Exteriors-1903-50--16.jpg,The Kingswood School for Boys
+post-clemens-era,digital-exhibition/,/apartments,Trustees--etc.--31.jpg,Apartments
 saving-the-house,digital-exhibition/,,No--Art26_front.jpg,Saving The House
-saving-the-house,digital-exhibition/,kathrine-seymore-day,K.S.-Day.jpg,Kathrine Seymore Day
-saving-the-house,digital-exhibition/,the-library-moves-in,MT-Library-Branch.tif,The Library Moves In
+saving-the-house,digital-exhibition/,/kathrine-seymore-day,K.S.-Day.jpg,Kathrine Seymore Day
+saving-the-house,digital-exhibition/,/the-library-moves-in,MT-Library-Branch.tif,The Library Moves In
 museum-era,digital-exhibition/,,Visitor-Center--2-Groo-2011.jpg,Museum Era
-museum-era,digital-exhibition/,walter-k-schwinn,Walter-Schwinn-&-Hal-in-Front-Hall.1967.tif,Walter K. Schwinn
-museum-era,digital-exhibition/,edith-colgate-salsbury,Memorial-Activities-Trustees--Members--&-Staff--3-Salsbury.jpg,Edith Colgate Salsbury
+museum-era,digital-exhibition/,/walter-k-schwinn,Walter-Schwinn-&-Hal-in-Front-Hall.1967.tif,Walter K. Schwinn
+museum-era,digital-exhibition/,/edith-colgate-salsbury,Memorial-Activities-Trustees--Members--&-Staff--3-Salsbury.jpg,Edith Colgate Salsbury
 it-happened-in-your-town,,,YourTown_Logo.jpg,It Happened in Your Town
 it-happened-in-your-town,,/digital-exhibition,IHIH_Logo.jpg,Digital Exhibition
 it-happened-in-your-town,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
 it-happened-in-your-town,,/your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
 it-happened-in-your-town,,/twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
 history-around-hartford,,,HartfordHistory_Logo.jpg,History Around Hartford
-history-around-hartford,,/it-happened-in-hartford,IHIH_Logo.jpg,Digital Exhibition
-history-around-hartford,,/it-happened-in-your-town,YourTown_Logo.jpg,History Around Hartford
-history-around-hartford,,/your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
-history-around-hartford,,/twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
+history-around-hartford,,it-happened-in-hartford,IHIH_Logo.jpg,Digital Exhibition
+history-around-hartford,,it-happened-in-your-town,YourTown_Logo.jpg,History Around Hartford
+history-around-hartford,,your-twain-house-story,YourStory_Logo.jpg,Submit Your Twain House Story
+history-around-hartford,,twain-house-stories,Stories_Logo.jpg,Read Other Twain House Stories
 your-twain-house-story,,,YourStory_Logo.jpg,Your Twain House Story
 your-twain-house-story,,/it-happened-in-hartford,IHIH_Logo.jpg,It Happened in Hartford
 your-twain-house-story,,/history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
