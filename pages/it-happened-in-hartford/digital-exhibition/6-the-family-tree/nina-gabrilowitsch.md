@@ -11,6 +11,8 @@ previous: the-family-tree/ossip-gabrilowitsch
 next: the-family-tree/jacques-samossoud
 ---
 
+{% include feature/image.html objectid="NinaGabrilowitsch8" width="75" %}
+
 When Samuel Clemens died in April 1910 his daughter Clara, who had married the pianist and conductor Ossip Gabrilowitsch the previous fall, was five months pregnant – a fact she seems not to have relayed to her father in his final days. Nina Gabrilowitsch was born in August, and was raised in the busy environs of a significant musician’s career. The family moved to Munich, Germany, where Ossip conducted the Munich Philharmonic. When World War One broke out Ossip was interned as a Russian national. Clara worked hard to get him back to the United States.
 
 Nina traveled much in her youth and was taught by private tutors. Home movies show the family clowning around on the lawn of their large Detroit home, and Nina’s graduating from New York’s Barnard College. She began training as an actress, participating in summer stock productions, as shown in dozens of snapshots in the collection of The Mark Twain House & Museum.
