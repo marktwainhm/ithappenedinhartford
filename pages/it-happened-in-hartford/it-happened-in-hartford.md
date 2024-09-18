@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: it-happened-in-hartford
-next: the-house-that-the-clemenses-built
+next: digital-exhibition
 type: landing
 ---
 
@@ -17,7 +17,7 @@ _**It Happened in Hartford: 150 years of the Mark Twain House**_ is a multi-laye
 
  - A <a href="{{ site.url }}//history-around-hartford.html">history trail</a> with twelve stops throughout the streets of Hartford and Bushnell Park.
 
-- This <a href="{{ site.url }}/it-happened-in-hartford.html">digital exhibition,</a> which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.
+- This <a href="{{ site.url }}/digital-exhibition.html">digital exhibition</a> which serves as a companion to the physical exhibition so you can dive deeper into the history and themes explored in our museum and throughout Hartford.
 
 As a whole the exhibition tells the story of Samuel Clemens (better known as the creator of Mark Twain), and his wife Olivia and three daughters during the 17 years they lived in Hartford, fresh on the success of his first book Innocents Abroad, and as Samuel built his career as writer and performer “Mark Twain” and wrote the works that he is most known for–The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.
 
