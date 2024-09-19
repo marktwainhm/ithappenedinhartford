@@ -14,21 +14,21 @@ Today 17 of the original 25 rooms are restored and open to the public. The other
 
 {% include feature/image.html objectid="MTHM_House-Interior_FirstFloor" width="75" %}
  
-<details open>
-  <summary>Front Hall</summary>
- {% include feature/image.html objectid="GROO_FrontHall_2023-01" width="75" %}
-    <p>The entrance hall provided an appropriately impressive area for receiving visitors. Leon Marcotte of New York and Paris carved the entrance hall’s ornamental detail when the house was built in 1874. In 1881, the interior design firm of Louis C. Tiffany & Co., Associated Artists, was hired to redecorate, stenciling the room’s original wainscoting in silver, and painting the walls and ceiling red with patterns of black and silver. They drew inspiration from other cultures from the Middle East and Asia to form a design scheme that flowed throughout the first floor and public spaces of the house.</p>
-    <h3>Front Hall Marble Floor</h3>
-    {% include feature/image.html objectid="GROO_FrontHall_Cleaning" width="75" %}4<p>Modern restoration work on the entry hall marble floor took place in 2003. As an architecturally significant component of the house, staff worked carefully to ensure the stability of the floor; repairing and cleaning what was there, unless not repairable, and then matching  old material in composition, design and color. A treatment plan based on these principles ensured contractors would properly restore the floor to accommodate growing visitor traffic for years to come.
+<button type="button" class="collapsible">Front Hall</button> <details open>
+<div class="content">
+     <p>The entrance hall provided an appropriately impressive area for receiving visitors. Leon Marcotte of New York and Paris carved the entrance hall’s ornamental detail when the house was built in 1874. In 1881, the interior design firm of Louis C. Tiffany & Co., Associated Artists, was hired to redecorate, stenciling the room’s original wainscoting in silver, and painting the walls and ceiling red with patterns of black and silver. They drew inspiration from other cultures from the Middle East and Asia to form a design scheme that flowed throughout the first floor and public spaces of the house.</p>
+{% include feature/image.html objectid="GROO_FrontHall_2023-01" width="75" %}
+        <h3>Front Hall Marble Floor</h3>
+   <p>Modern restoration work on the entry hall marble floor took place in 2003. As an architecturally significant component of the house, staff worked carefully to ensure the stability of the floor; repairing and cleaning what was there, unless not repairable, and then matching  old material in composition, design and color. A treatment plan based on these principles ensured contractors would properly restore the floor to accommodate growing visitor traffic for years to come.
+    {% include feature/image.html objectid="GROO_FrontHall_Cleaning" width="75" %}
  <h3>Hallway Stenciling</h3>
-  {% include feature/image.html objectid="MTHM_Restoration_Hallway" width="75" %}
-    <p>The distinctive stencils throughout the hallways on the second and third floors of The Mark Twain House are another feature of the Louis Comfort Tiffany interior decoration of 1881. The normal wear on the stenciling, which was refinished during the original restoration of the house in the 1960s, necessitated a re-stenciling in 2003-04, as well as the touch-up of the decorative painting and the refinishing of woodwork.</p>
-  <p>Master stencil artist Leo Sans, a German-born painter who was trained in traditional painting and stenciling methods more than half a century ago, worked on the original restoration in the 1960s. In 2003, he returned to The Mark Twain House with his son, Matt, to restore the luster to the hallway stencils and woodwork.</p>
-  <p>The colors of the painted and stenciled canvas applied to the walls had become particularly faded in the 3rd floor hallway. The hallway stencil patterns were originally (both in the Clemens period and after the 1970s restoration) gold bronze. </p>
-  <h3>A Mysterious Window</h3>
-   {% include feature/image.html objectid="GROO_Window_2011-01" width="75" %}
-    <p>During the long process of restoration staff have sometimes discovered new information about the house, which then needs to be carefully evaluated to determine if something is a Clemens-era feature or one added by later occupants of The Mark Twain House. The oval interior window you can see today on the second floor is a great example of this process. When the house was restored in the 1960s there was no window here. However, evidence told researchers that at one point in the history of the house an interior window was prominently featured in the main stairwell, between the second-floor hall and Susy Clemens' room. Based on that research the window has been restored to its present configuration. </p>
-</details>
+     <p>The distinctive stencils throughout the hallways on the second and third floors of The Mark Twain House are another feature of the Louis Comfort Tiffany interior decoration of 1881. The normal wear on the stenciling, which was refinished during the original restoration of the house in the 1960s, necessitated a re-stenciling in 2003-04, as well as the touch-up of the decorative painting and the refinishing of woodwork. Master stencil artist Leo Sans, a German-born painter who was trained in traditional painting and stenciling methods more than half a century ago, worked on the original restoration in the 1960s. In 2003, he returned to The Mark Twain House with his son, Matt, to restore the luster to the hallway stencils and woodwork. The colors of the painted and stenciled canvas applied to the walls had become particularly faded in the 3rd floor hallway. The hallway stencil patterns were originally (both in the Clemens period and after the 1970s restoration) gold bronze. </p>
+   {% include feature/image.html objectid="MTHM_Restoration_Hallway" width="75" %}
+ <h3>A Mysterious Window</h3>
+       <p>During the long process of restoration staff have sometimes discovered new information about the house, which then needs to be carefully evaluated to determine if something is a Clemens-era feature or one added by later occupants of The Mark Twain House. The oval interior window you can see today on the second floor is a great example of this process. When the house was restored in the 1960s there was no window here. However, evidence told researchers that at one point in the history of the house an interior window was prominently featured in the main stairwell, between the second-floor hall and Susy Clemens' room. Based on that research the window has been restored to its present configuration. </p>
+ {% include feature/image.html objectid="GROO_Window_2011-01" width="75" %}
+</div></details>
+
 
   {% include feature/image.html objectid="GROO_Drawing_2023-01" width="75" %}
 <details open>
