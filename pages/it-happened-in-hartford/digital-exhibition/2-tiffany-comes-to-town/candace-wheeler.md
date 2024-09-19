@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/lockwood-de-forest
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="Candace-Wheeler-15" width="50" %}
+{% include feature/image.html objectid="Candace-Wheeler-15" width="75" %}
 
 The American designer Candace Wheeler was deeply associated with the Clemenses and their home, both as an important participant in the interior redecoration and later as a family friend. 
 
@@ -20,5 +20,3 @@ Inspired by a British movement to teach needlework skills to women, she founded 
 As one of America’s first female interior and textile designers, she became known as the “mother” of interior design, opening the field to other women and supporting their right to work and exercise economic independence. While Wheeler wrote several books on design, her career as an artist lay mainly in textile and wallpaper design, modeling colors and patterns on American flowers.
 
 Wheeler’s daughter, Dora Wheeler Keith, painted  portraits of Clemens family members and others in Hartford, including the portrait of Samuel Clemens displayed on the third-floor landing of the house today. The Clemenses paid a visit in the summer of 1890 to Wheeler’s artistic colony, the Onteora Club, in New York State. In later life she was highly regarded as a designer, and directed the interior decoration of the Women’s Pavilion of the 1893 World’s Columbian Exposition in Chicago. Her 1880s “Honeycomb” and “Spiderwebs” wallpaper designs were used in the 2016 restoration of the “Mahogany Room” guest suite in the Mark Twain House.
-
-{% include feature/image.html objectid="Candace-Wheeler-15" width="75" %}
