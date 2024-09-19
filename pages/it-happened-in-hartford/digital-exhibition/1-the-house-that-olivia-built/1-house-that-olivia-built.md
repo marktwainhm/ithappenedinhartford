@@ -11,7 +11,7 @@ next: tiffany-comes-to-town
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="MTHM_House-Exterior_1874-1881-07" width="75" %}
+{% include feature/image.html objectid="objects/MTHM_EarlySketch" width="75" %}
 
 When Samuel and Olivia Clemens decided to move to Hartford, they were pursuing both financial and social stability. In the 1870s Hartford was a growing city aiming to become one of the foremost business centers in the United States, attracting people from all classes and backgrounds. Hartford offered a variety of economic opportunities for Samuel and the social network familiar to someone of Olivia’s background.
 
@@ -22,8 +22,6 @@ Neighbors George and Lilly Warner recommended architect Edward Tuckermann Potter
 George succeeded. The Clemenses bought the land, and Potter set to work designing a house according to a plan Olivia Clemens had drawn up two years before. Construction began in August 1873, when the Clemenses were abroad touring Scotland, Ireland, and England. Both Samuel and Olivia made sure to keep up with the house-building project while away.
 
 Potter was the lead on all aspects of the project and designed the house as well as the landscape. Potter hired John Garvie, a local general contractor, for the building and Charles Macrae, a Hartford florist and gardener, to plant the lawn, trees, and flowerbeds. Then as now bringing outside contractors onto a local job site seems to have caused some issues for the architect Potter. “I have reminded Garvie to obey Potter’s orders,” Samuel wrote in a letter. “Have blown up Mr. McCray & told him not to offend again by taking orders from anybody but Mr. Potter.” Despite numerous construction delays and hikes in construction costs, the family was able to move into their mostly completed house on September 19, 1874. 
-
-{% include feature/image.html objectid="objects/MTHM_EarlySketch" width="75" %}
 
 The resulting home measures 11‚500 square feet and has 25 rooms across three floors. The house, while a fitting addition to the exclusive Nook Farm neighborhood, was reported to be “the oddest piece of architecture in this city…on Farmington avenue, about a mile west of the depot, is a house being built for Mark Twain..”  The house was built with the latest in modern innovations, including gas lighting, heated running water, and a telephone.
 
