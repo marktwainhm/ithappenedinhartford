@@ -3,6 +3,7 @@ title: Digital Exhibition
 layout: exhibit
 permalink: /digital-exhibition.html
 next: the-house-that-the-clemenses-built
+previous: it-happened-in-hartford
 parent: it-happened-in-hartford
 type: landing
 ---
