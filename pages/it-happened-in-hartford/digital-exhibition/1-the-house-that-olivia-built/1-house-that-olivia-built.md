@@ -25,6 +25,8 @@ Potter was the lead on all aspects of the project and designed the house as well
 
 The resulting home measures 11‚500 square feet and has 25 rooms across three floors. The house, while a fitting addition to the exclusive Nook Farm neighborhood, was reported to be “the oddest piece of architecture in this city…on Farmington avenue, about a mile west of the depot, is a house being built for Mark Twain..”  The house was built with the latest in modern innovations, including gas lighting, heated running water, and a telephone.
 
+{% include feature/image.html objectid="MTHM_House-Exterior_1874-1881-07" width="25" %}
+
 The couple spent close to $45‚000 building their new home, exhausting their financial reserves. The architect Potter was considerate of his clients, making sure the building’s basics were complete before getting over-involved with decorating. “You suggested we let up on the fancy touches till we knew how things were going to turn out,” Potter wrote to Clemens around the time he completed working on the house in 1875. 
 
 As such, when the family moved in, the interiors were kept simply furnished until the couple could afford to finish them to the high standards expected by the community of which they were now members. The Clemeneses went back to Potter again in 1881 when they expanded the kitchen and decorated the house’s rooms, but Potter tasked his assistant, Albert H. Thorp, to oversee the work and ensure that the house would be completed in a grander manner.
