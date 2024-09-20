@@ -9,7 +9,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 previous: working-at-the-clemens-house/george-griffin
-next: working-at-the-clemens-house/osina-hay
+next: working-at-the-clemens-house/rosina-hay
 ---
 
 {% include feature/image.html objectid="MTHM_Employees-KatyLeary" width="75" %}
