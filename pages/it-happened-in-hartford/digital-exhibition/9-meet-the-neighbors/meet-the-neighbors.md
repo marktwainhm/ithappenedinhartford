@@ -11,7 +11,7 @@ next: visitors-on-parade
 parent: meet-the-neighbors
 ---
 
-  {% include feature/image.html objectid="Nook-Farm-Map-1874" width="75" %}
+{% include feature/image.html objectid="Nook-Farm-Map-1874" width="75" %}
 
 Samuel Clemens first visited Hartford in 1868 and was immediately attracted to the city’s sophisticated population, dynamic commerce, splendid homes, broad avenues, and natural beauty.
 
@@ -20,5 +20,3 @@ The neighborhood in which he settled, Nook Farm, perhaps most typified these qua
 The house and the neighborhood reinforced the fact that the Clemenses had “arrived”: he was now settled in a wealthy city, in its most exclusive enclave with Connecticut’s governor, United States Senator, newspaper publishers, a noted Civil War general, as well as another of the nation’s literary titans, Harriet Beecher Stowe as his neighbors.
 
 Click on the photos below to learn more about each family.
-
-  {% include feature/image.html objectid="Map-of-Nook-Farm-in-1874" width="75" %}
