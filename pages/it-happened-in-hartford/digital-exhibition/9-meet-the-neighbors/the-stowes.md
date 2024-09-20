@@ -11,7 +11,7 @@ previous: meet-the-neighbors/the-hookers
 next: meet-the-neighbors/the-gillettes
 ---
 
-{% include feature/image.html objectid="LOC_2004672776" width="75" %}
+{% include feature/image.html objectid="LOC_2004672776.jpg" width="75" %}
 
 Theologian and teacher, Calvin Stowe, retired from teaching in 1864, being in ill-health; the family relocated to Hartford, CT. There Harriet Beecher Stowe built her dream house, Oakholm, in Nook Farm, a neighborhood full of friends and relatives. The high maintenance cost and the encroachment of factories caused her to sell her mansion in 1870 and move to their house in Mandarin, Florida. For two years, they stayed with friends or family when they came north. In a letter, Harriet told her children of her desire to buy a smaller house at Nook Farm. In 1873, she settled into a brick Victorian Gothic cottage-style house on Forest Street. She remained there for 23 years, until her death in 1896.  The house was later bought by Katherine Day, Harriet's niece, who lived in it for many years before establishing a foundation to preserve the house. Fully restored, the Stowe House is owned and maintained by the <a href="https://www.harrietbeecherstowecenter.org/">Harriet Beecher Stowe Center</a>.
 
