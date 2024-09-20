@@ -11,7 +11,7 @@ next: tiffany-comes-to-town/louis-comfort-tiffany
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="MTHM_EarlySketch" width="75" %}
+{% include feature/image.html objectid="MTHM_Decorators-AA-1879-1883_11" width="75" %}
 
 Potter finished construction on the main section of the Clemenses Hartford home in 1875. But, it wasn't until 1881 that the Clemenses started on the projects left aside for economic reasons during the 1874-75 construction.  They expanded the kitchen wing of the house toward Farmington Avenue and redecorated the public spaces of the house, ensuring that the interiors were suitable for entertaining the many visitors that came to see the famous Mark Twain.  The Clemenses first contacted Herbert M. Lawrence, a decorator who had done work for their friends, the Cheney silk magnates of Manchester, Connecticut. Lawrence was in Europe, but recommended a number of alternatives—including Mr. Louis Tiffany.
 
