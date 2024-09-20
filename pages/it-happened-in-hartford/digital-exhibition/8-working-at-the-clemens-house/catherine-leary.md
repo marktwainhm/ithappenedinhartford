@@ -12,7 +12,7 @@ previous: working-at-the-clemens-house/george-griffin
 next: working-at-the-clemens-house/rosina-hay
 ---
 
-{% include feature/image.html objectid="MTHM_Employees-KatyLeary" width="75" %}
+{% include feature/image.html objectid="MTHM_Employees21" width="75" %}
 
 When the family summered in Olivia Clemens’s hometown of Elmira, New York, in 1880, she hired a 24-year old Irish woman, Catherine Leary, as maid. Always known to the family as “Katy,” for thirty years she worked as their seamstress, nursemaid, nanny, and lady’s maid. 
 
