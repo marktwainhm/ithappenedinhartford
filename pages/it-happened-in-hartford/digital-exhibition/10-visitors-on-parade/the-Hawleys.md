@@ -9,7 +9,7 @@ credits: false
 parent: visitors-on-parade
 landing-page: visitors-on-parade
 previous: visitors-on-parade
-next: visitors-on-parade/karl-gerhart
+next: visitors-on-parade/karl-gerhardt
 ---
 
 {% include feature/image.html objectid="Courant_18730203" width="75" %}
