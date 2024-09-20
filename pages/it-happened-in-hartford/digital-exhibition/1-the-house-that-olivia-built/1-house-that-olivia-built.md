@@ -11,7 +11,7 @@ next: tiffany-comes-to-town
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="objects/MTHM_EarlySketch" width="75" %}
+{% include feature/image.html objectid="MTHM_EarlySketch" width="75" %}
 
 When Samuel and Olivia Clemens decided to move to Hartford, they were pursuing both financial and social stability. In the 1870s Hartford was a growing city aiming to become one of the foremost business centers in the United States, attracting people from all classes and backgrounds. Hartford offered a variety of economic opportunities for Samuel and the social network familiar to someone of Olivia’s background.
 
