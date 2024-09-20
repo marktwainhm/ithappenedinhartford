@@ -1,7 +1,7 @@
 ---
 title: George Washington Cable (1844-1925)
 layout: exhibit
-permalink: /digital-exhibition/george-washington-cable.html
+permalink: /digital-exhibition/visitors-on-parade/george-washington-cable.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
