@@ -7,8 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
-previous: patrick-mcaleer
-next: working-at-the-clemens-house/meet-the-neighbors
+previous: working-at-the-clemens-house/patrick-mcaleer
+next: meet-the-neighbors
 ---
 
 
