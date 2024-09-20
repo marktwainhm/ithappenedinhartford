@@ -12,7 +12,7 @@ next: the-family-tree/olivia-lewis-langdon
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="JervisLangdon" width="75" %}
+{% include feature/image.html objectid="MTHM_Jervis-Langdon" width="75" %}
 
 Jervis Langdon, a native of New York State, married Olivia Lewis in 1832, and the pair settled in Elmira, New York, in 1845. He became prosperous in the lumber business and then wealthy in the coal trade, which he entered in 1855. His extensive operations included mines in Pennsylvania and Nova Scotia, and a huge rail and shipping network supplying coal to western New York State, Chicago, and the Far West. 
 
