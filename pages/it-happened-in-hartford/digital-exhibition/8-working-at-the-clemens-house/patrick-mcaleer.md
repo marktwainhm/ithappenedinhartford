@@ -11,7 +11,7 @@ previous: working-at-the-clemens-house/john-oneil
 next: working-at-the-clemens-house/lily-foote
 ---
 
-{% include feature/image.html objectid="MTHM_Employees_Patrick" width="75" %}
+{% include feature/image.html objectid="MTHM_Employees01" width="75" %}
 
 Coachman Patrick McAleer arrived in the lives of the Clemens family on the day of Samuel and Olivia’s wedding in Elmira, New York, February 2, 1870. “He was Irish, young, slender, bright, quick as a cat, a master of his craft,” Clemens wrote, counting him, along with gardener John O’Neill and his wife Ellen, as “one of the only three persons…who could be trusted to do their work well & faithfully without supervision…He kept his horses and carriages and cows in good condition; he kept the bins & the hayloft full; if a horse and cow was unsatisfactory he made a change; he filled the cellars with coal and wood in the summers when we were away; as soon as a snowstorm was ended he was out with his snow-plow; if a thing needed mending he attended to it at once.” 
 
