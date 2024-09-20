@@ -23,6 +23,6 @@ In the summer of 1877 the members of the Clemens family were enjoying their usua
 Interviewing the staff, he realized there had been no burglar – just incursions by friends of Lizzie setting off the house’s battery-operated alarms. With the collusion of other servants she had let some young men, including her beau William Taylor, into the house. One of the men had been seen sitting with Wills on one of the house’s balconies. The other servants were aware that William and a pal had been playing pool on Clemens’s billiard table.  Acting as judge and jury, Clemens invited Taylor to his study, with the local sheriff and his minister friend Rev. Joseph Twichell hidden in nearby rooms. He gave the “loafer” a choice: marry Wills or go to jail as a burglar. After some resistance Wills agreed to the first choice. Clemens gave the couple $100 to start out with and the servants drank a toast to the union.
 
 For Clemens, the incident was the start of a good story of how he convinced Taylor to marry Wills, which he fictionalized for a humorous short story called “Wapping Alice.” He returned to the story several times, changing the characters until finally, in 1907, he wrote a factual account of the story.  The story went unpublished until the Mark Twain Papers published it in the 1980s.
-{% include feature/image.html objectid="5890-2024" width="75" %}
+{% include feature/image.html objectid="MTHM_5890-2024" width="25" %}
 
 There are no known photographs of Elizabeth Wells; our search for one continues.
