@@ -11,7 +11,7 @@ next: visitors-on-parade
 parent: meet-the-neighbors
 ---
 
-  {% include feature/image.html objectid="MTHM_SLC_FamilyGroups10" width="75" %}
+  {% include feature/image.html objectid="Nook-Farm-Map-1874" width="75" %}
 
 Samuel Clemens first visited Hartford in 1868 and was immediately attracted to the city’s sophisticated population, dynamic commerce, splendid homes, broad avenues, and natural beauty.
 
