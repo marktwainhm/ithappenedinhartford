@@ -11,7 +11,7 @@ previous: the-family-tree/olivia-lewis-langdon
 next: the-family-tree/ossip-gabrilowitsch
 ---
 
-{% include feature/image.html objectid="SusanCrane1" width="75" %}
+{% include feature/image.html objectid="MTHM_SuscanCrane" width="75" %}
 
 Born Susan Dean, she was orphaned at the age of four and adopted by the Langdon family. Though Susan was nearly ten years older than her foster-sister, Olivia Langdon Clemens, they remained close throughout their lives. In 1858 she married Theodore Crane, who would later become a partner in the Langdon family coal business. Susan Crane owned Quarry Farm, in Elmira, New York, where the Clemens family usually spent the summer, and where Samuel did much of his most famous writing in a small building specially made for him. Samuel also convinced her to be an investor in both the Paige typesetting machine and in his Charles L. Webster Publishing Company.
 
