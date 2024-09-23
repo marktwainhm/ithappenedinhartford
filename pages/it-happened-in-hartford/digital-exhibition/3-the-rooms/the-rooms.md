@@ -12,11 +12,9 @@ credits: false
 Today 17 of the original 25 rooms are restored and open to the public. The others are used for staff offices, storage, or were removed or altered at some point to allow for staircases to be installed between floors. You can take a <a href="https://marktwainhouse.org/admission">guided tour</a> of the house and/or visit of <a href="https://marktwainhouse.org/about/the-house/virtual-tour">virtual tour.</a>
 {% include feature/image.html objectid="MTHM_House-Interior_FirstFloor" width="75" %}
 
-
-<details close>
-<summary>Front Hall</summary>
+<details close><summary>Front Hall</summary>
 <span>
-  <p>The entrance hall provided an appropriately impressive area for receiving visitors. Leon Marcotte of New York and Paris carved the entrance hall’s ornamental detail when the house was built in 1874. In 1881, the interior design firm of Louis C. Tiffany & Co., Associated Artists, was hired to redecorate, stenciling the room’s original wainscoting in silver, and painting the walls and ceiling red with patterns of black and silver. They drew inspiration from other cultures from the Middle East and Asia to form a design scheme that flowed throughout the first floor and public spaces of the house.</p>
+   <p>The entrance hall provided an appropriately impressive area for receiving visitors. Leon Marcotte of New York and Paris carved the entrance hall’s ornamental detail when the house was built in 1874. In 1881, the interior design firm of Louis C. Tiffany & Co., Associated Artists, was hired to redecorate, stenciling the room’s original wainscoting in silver, and painting the walls and ceiling red with patterns of black and silver. They drew inspiration from other cultures from the Middle East and Asia to form a design scheme that flowed throughout the first floor and public spaces of the house.</p>
 {% include feature/image.html objectid="GROO_FrontHall_2023-01" width="75" %}
         <h3>Front Hall Marble Floor</h3>
    <p>Modern restoration work on the entry hall marble floor took place in 2003. As an architecturally significant component of the house, staff worked carefully to ensure the stability of the floor; repairing and cleaning what was there, unless not repairable, and then matching  old material in composition, design and color. A treatment plan based on these principles ensured contractors would properly restore the floor to accommodate growing visitor traffic for years to come.
@@ -26,9 +24,8 @@ Today 17 of the original 25 rooms are restored and open to the public. The other
    {% include feature/image.html objectid="MTHM_Restoration_Hallway" width="75" %}
  <h3>A Mysterious Window</h3>
        <p>During the long process of restoration staff have sometimes discovered new information about the house, which then needs to be carefully evaluated to determine if something is a Clemens-era feature or one added by later occupants of The Mark Twain House. The oval interior window you can see today on the second floor is a great example of this process. When the house was restored in the 1960s there was no window here. However, evidence told researchers that at one point in the history of the house an interior window was prominently featured in the main stairwell, between the second-floor hall and Susy Clemens' room. Based on that research the window has been restored to its present configuration. </p>
- {% include feature/image.html objectid="GROO_Window_2011-01" width="75" %}
-</span>
-</details>
+ {% include feature/image.html objectid="GROO_Window_2011-01" width="75" %} </p>
+      </span></details>
 
 <details close>
 <summary>Drawing Room</summary>
