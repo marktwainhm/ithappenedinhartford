@@ -44,7 +44,9 @@ Inevitably, these animals slithered, hopped, and galloped their way into Clemens
  <p>Middle daughter Clara, however, preferred her pet calf, Jumbo, who she rode regularly. After Jumbo had thrown the little girl twice, McAleer sold the calf. Clara describes the result in a chapter called “The Clemens Temper” in her 1931 memoir, _My Father, Mark Twain_.</p>
  <p>“When Patrick, the coachman, confessed to me, when I appeared in the barn the next morning following my second “throw,” that he had sold “Jumbo,” I raised such a hullabaloo that my screams reached even my father’s study. He came running down to snatch me from danger. When he discovered the cause of my misery, he was most sympathetic and told Patrick he would have to buy the calf back immediately; which was done that very day. Father could always be depended upon to see that the fair thing was done, and although he had no particular liking for cows, big or little, he loved animals in general and could understand the pain I felt in being separated from my pet.”</p>
       </span></details>
-      <details close><summary>Other Critters</summary>
+
+
+<details close><summary>Other Critters</summary>
 <span>
-     <p>For a little while, Clara and Susy kept two pet squirrels in a small room on the third floor of the house until their father discovered they had chewed up the floor and window frames. When Clara Clemens returned to the Mark Twain House in the 1920s, she annotated floor plans of the house with what she remembered from living there. On the third floor she noted which closet held the squirrels. ”</p>
+    <p>For a little while, Clara and Susy kept two pet squirrels in a small room on the third floor of the house until their father discovered they had chewed up the floor and window frames. When Clara Clemens returned to the Mark Twain House in the 1920s, she annotated floor plans of the house with what she remembered from living there. On the third floor she noted which closet held the squirrels.</p>
       </span></details>
