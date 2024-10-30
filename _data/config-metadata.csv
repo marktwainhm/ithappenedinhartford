@@ -10,8 +10,6 @@ location,Associated Location,true
 latitude,Latitude,,
 longitude,Longitude,,
 source,Source,true,
-subject,Related Subjects,true,
-people,Related People,true,
 identifier,Source Identifier,,
 credit,Credit,false
 rights,Rights,
