@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="dropdown"></div>
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Jump to...
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -47,6 +47,10 @@ layout: page
 
 <hr>
 
+{%- if page.field -%}
+{% include index/carousel.html title="Related Items" height=450 %}
+{% endif %}
+
 <div class="posts clearfix">
 <h3> Visit related pages for {{ page.title }}</h3>
 <br >
@@ -67,3 +71,12 @@ layout: page
     {% endif %}
   {% endfor %}
 </div>
+
+<script type="text/javascript" src="Scripts/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="Scripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrap/bootstrap-dropdown.js"></script>
+<script>
+     $(document).ready(function(){
+        $('.dropdown-toggle').dropdown()
+    });
+</script>
