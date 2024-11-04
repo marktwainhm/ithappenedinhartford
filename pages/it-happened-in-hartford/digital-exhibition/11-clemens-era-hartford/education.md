@@ -10,6 +10,7 @@ parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 previous: clemens-era-hartford/churches
 next: clemens-era-hartford/post-clemens-era
+carousel: education
 ---
 
 {% include feature/image.html objectid="MTHM_371-32S979" width="75" %}
