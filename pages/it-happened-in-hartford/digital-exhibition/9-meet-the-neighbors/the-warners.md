@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-warners.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
 previous: meet-the-neighbors
 next: meet-the-neighbors/the-hookers
+carousel: Charles Dudley Warner
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_Friends_CharlesWarner-01" width="75" %}
