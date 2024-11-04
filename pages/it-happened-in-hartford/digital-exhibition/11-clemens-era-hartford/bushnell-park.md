@@ -10,6 +10,7 @@ parent: leisure
 landing-page: leisure
 previous: leisure
 next: baseball
+carousel: bushnell park
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
