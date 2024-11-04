@@ -8,7 +8,7 @@ position: 1
 parent: clemens-family
 previous: clemens-family
 next: clemens-family/mark-twains-work
-
+carousel: Samuel Langhorne Clemens
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
