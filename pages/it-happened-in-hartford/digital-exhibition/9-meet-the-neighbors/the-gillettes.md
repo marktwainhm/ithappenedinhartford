@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-gillettes.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
 previous: meet-the-neighbors/the-stowes
 next: meet-the-neighbors/the-perkins
+carousel: William Gillette
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_Gillette-William_10" width="75" %}
