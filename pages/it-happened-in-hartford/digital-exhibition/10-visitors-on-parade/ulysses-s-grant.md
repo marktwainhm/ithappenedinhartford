@@ -10,6 +10,7 @@ parent: visitors-on-parade
 landing-page: visitors-on-parade
 previous: visitors-on-parade/george-washington-cable
 next: clemens-era-hartford
+carousel: Ulysses Grant
 ---
 
 {% include feature/image.html objectid="LOC_2002725252" width="75" %}
