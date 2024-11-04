@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/the-family-tree/nina-gabrilowitsch.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
 previous: the-family-tree/ossip-gabrilowitsch
 next: the-family-tree/jacques-samossoud
+carousel: Nina Gabrilowitsch
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="NinaGabrilowitsch8" width="75" %}
