@@ -10,6 +10,7 @@ parent: visitors-on-parade
 landing-page: visitors-on-parade
 previous: visitors-on-parade/the-hawleys
 next: visitors-on-parade/grace-king
+carousel: Karl Gerhardt
 ---
 
 {% include feature/image.html objectid="KMD_KarlGerhardt" width="75" %}
