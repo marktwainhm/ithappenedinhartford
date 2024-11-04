@@ -9,6 +9,7 @@ credits: false
 parent: clemens-era-hartford
 previous: clemens-era-hartford
 next: clemens-era-hartford/bushnell-park
+carousel: leisure
 ---
 
 {% include feature/image.html objectid="ChildrenPhotos-Groups-9" width="75" %}
