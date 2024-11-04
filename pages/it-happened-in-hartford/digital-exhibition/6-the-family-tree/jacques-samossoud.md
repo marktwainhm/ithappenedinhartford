@@ -7,7 +7,7 @@ credits: false
 parent: the-family-tree
 previous: the-family-tree/nina-gabrilowitsch
 next: tails-of-twain
-
+carousel: Jacques Samossoud
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
