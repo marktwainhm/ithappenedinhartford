@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/daniel-molloy.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 previous: working-at-the-clemens-house/elizabeth-wells
 next: working-at-the-clemens-house/john-oneil
+carousel: Daniel Molloy
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 In the spring of 1883 Daniel T. Molloy, an Irish immigrant living in Hartford, heard that Mark Twain needed a gardener. Not just any gardener, Molloy told an interviewer years later, but one who had worked for “an Earl or a Duke.” Samuel Clemens was probably being playful, but Molloy had in fact worked for the Earl of Portarlington in Ireland. Molloy knocked on the door of the Farmington Avenue house, but Clemens was in a “creative fever” – having resumed work on Huckleberry Finn, which he had set aside for three years. The Irishman returned in the afternoon. “Are you the man who was here this morning?” Clemens asked. He was, and started to recount his resume. “It doesn’t make any difference about your experience,” Clemens said. “Consider yourself hired.”
