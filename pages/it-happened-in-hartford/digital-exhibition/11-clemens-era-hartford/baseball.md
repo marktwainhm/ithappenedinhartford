@@ -9,6 +9,7 @@ credits: false
 parent: leisure
 previous: leisure/bushnell-park
 next: leisure/peddling-revolution
+carousel: baseball
 ---
 
 Baseball is considered the national sport of the United States. Fans cheer on their favorite teams with opening day marking the beginning of summer and the World Series championship concluding the season. The Baseball Hall of Fame says: “the first professional baseball games were played in the wake of” the American Civil War and by the 1840s “baseball mania” was in full swing. They go on to say that “from the Civil War to Civil Rights and all points in between and beyond, the game of baseball supports and reflects many aspects of American life, from culture to economics and technological advances. It inspires movements, instills pride and even heals cities.” 
