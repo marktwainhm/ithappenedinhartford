@@ -4,12 +4,13 @@ layout: exhibit
 permalink: /digital-exhibition/visitors-on-parade/the-hawleys.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: visitors-on-parade
 landing-page: visitors-on-parade
 previous: visitors-on-parade
 next: visitors-on-parade/karl-gerhardt
+carousel: Joseph Hawley
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="Courant_18730203" width="75" %}
