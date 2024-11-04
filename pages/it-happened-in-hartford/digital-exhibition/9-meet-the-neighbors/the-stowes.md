@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-stowes.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
 previous: meet-the-neighbors/the-hookers
 next: meet-the-neighbors/the-gillettes
+carousel: Harriet Beecher Stowe
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="LOC_2004672776" width="75" %}
