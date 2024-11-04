@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: business/case-lockwood-brainard
 next: business/case-and-rathburn
+carousel: Allyn House
 ---
 
 {% include feature/image.html objectid="CMCH_2000-197-37" width="75" %}
