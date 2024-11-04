@@ -4,12 +4,13 @@ layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/elizabeth-wells.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 landing-page: working-at-the-clemens-house
 previous: working-at-the-clemens-house/rosina-hay
 next: working-at-the-clemens-house/daniel-molloy
+carousel: Elizabeth Wells
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 Elizabeth “Lizzie” Wells was one of many housemaids who worked for the Clemenses in their Hartford home. Others included Ellen, Harriet, Lillian, Mary, Kate, and Josie. Known primarily by their first names, the housemaids who worked in the Clemens home were responsible for “above the stairs” duties, including cleaning and tidying the main rooms of the house; lighting and maintaining the fires, fireplaces, and gas fixtures; and preparing guest rooms for visitors.  
