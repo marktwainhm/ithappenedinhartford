@@ -7,7 +7,7 @@ credits: false
 parent: clemens-family
 previous: clemens-family/langdon-clemens
 next: clemens-family/clara-langdon-clemens
-
+carousel: Olivia Susan Clemens
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
