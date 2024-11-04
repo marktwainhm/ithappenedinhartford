@@ -9,6 +9,7 @@ credits: false
 parent: visitors-on-parade
 previous: visitors-on-parade/henry-stanley
 next: visitors-on-parade/george-washington-cable
+carousel: Joel Chandler Harris
 ---
 
 {% include feature/image.html objectid="LOC_2001704085" width="75" %}
