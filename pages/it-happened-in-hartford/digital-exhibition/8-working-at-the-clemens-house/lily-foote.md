@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/lily-foote.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 previous: working-at-the-clemens-house/patrick-mcaleer
 next: meet-the-neighbors
+carousel: Lily Foote
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 
