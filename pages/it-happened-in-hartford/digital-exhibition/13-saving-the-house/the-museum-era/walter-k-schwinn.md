@@ -6,6 +6,7 @@ parent: the-museum-era
 landing-page: the-museum-era
 previous: the-museum-era
 next: edith-colgate-salsbury
+Carousel: Walter Schwinn
 ---
 
 {% include feature/image.html objectid="MTHM_House-Interior_FrontHall1967" width="75" %}
