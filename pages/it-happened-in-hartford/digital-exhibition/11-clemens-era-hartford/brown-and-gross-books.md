@@ -10,6 +10,7 @@ parent: business
 landing-page: business
 previous: george-griffins-apartment
 next: brown-thompson
+carousel: Brown & Gross Booksellers
 ---
 
 In 1878 at 79 Asylum Street Brown & Gross Booksellers and Stationers were next door neighbors to clothiers Covey & Smith, later Smith, White & Co. Brown & Gross moved its location around the city several times and additionally went through several name changes throughout its long history.
