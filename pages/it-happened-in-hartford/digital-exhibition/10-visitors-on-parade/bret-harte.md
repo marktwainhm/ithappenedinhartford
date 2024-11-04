@@ -9,6 +9,7 @@ credits: false
 parent: visitors-on-parade
 previous: visitors-on-parade/grace-king
 next: visitors-on-parade/henry-stanley
+Carousel: Bret Harte
 ---
 
 {% include feature/image.html objectid="LOC_209202303" width="75" %}
