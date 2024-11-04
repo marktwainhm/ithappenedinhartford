@@ -6,6 +6,7 @@ parent: saving-the-house
 landing-page: saving-the-house
 previous: saving-the-house
 next: the-library-moves-in
+carousel: Katharine Seymore Day
 ---
 
 {% include feature/image.html objectid="MTHM_Memorial_Trustees-10" width="75" %}
