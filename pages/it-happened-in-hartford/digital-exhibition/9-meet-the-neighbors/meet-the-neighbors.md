@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 previous: working-at-the-clemens-house
 next: visitors-on-parade
 parent: meet-the-neighbors
+carousel: Nook Farm
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="Nook-Farm-Map-1874" width="75" %}
