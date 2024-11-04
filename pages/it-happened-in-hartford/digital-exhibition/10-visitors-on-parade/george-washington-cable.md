@@ -9,6 +9,7 @@ credits: false
 parent: visitors-on-parade
 previous: visitors-on-parade/joel-chandler-harris
 next: visitors-on-parade/ulysses-s-grant
+carousel: George Washington Cable
 ---
 {% include feature/image.html objectid="MTHM_SLC_FriendsMISC_1835-1839_08" width="75" %}
 
