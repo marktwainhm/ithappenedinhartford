@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/state-house-square
 next: clemens-era-hartford/ep-and-wm-kellogg
+carousel: grocery
 ---
 
 {% include feature/image.html objectid="CSL_PG400-01" width="75" %}
