@@ -9,6 +9,7 @@ credits: false
 parent: visitors-on-parade
 previous: visitors-on-parade/karl-gerhardt
 next: visitors-on-parade/bret-harte
+carousel: Grace King
 ---
 {% include feature/image.html objectid="HBSC-0535-img0094-pcd" width="75" %}
 
