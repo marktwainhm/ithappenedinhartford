@@ -9,6 +9,7 @@ credits: false
 parent: post-clemens-era
 previous: post-clemens-era/the-bissells
 next: post-clemens-era/apartments
+carousel: Kingswood School
 ---
 
 {% include feature/image.html objectid="MTHM_Bissell-Marie" width="75" %}
