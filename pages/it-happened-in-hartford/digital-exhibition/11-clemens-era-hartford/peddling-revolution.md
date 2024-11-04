@@ -9,6 +9,7 @@ credits: false
 parent: leisure
 previous: clemens-era-hartford/baseball
 next: clemens-era-hartford/social-clubs
+carousel: bicycle
 ---
 
 
