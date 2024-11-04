@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/meet-the-neighbors/the-twichells.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: meet-the-neighbors
 previous: meet-the-neighbors/the-perkins
 next: visitors-on-parade
+carousel: Joseph Hopkins Twitchell
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_Friends_JosephTwichell-02" width="75" %}
