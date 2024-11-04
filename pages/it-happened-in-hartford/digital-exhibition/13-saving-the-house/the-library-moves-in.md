@@ -5,6 +5,7 @@ permalink: /digital-exhibition/saving-the-house/the-library-moves-in.html
 parent: saving-the-house
 previous: katharine-seymore-day
 next: the-museum-era
+carousel: Hartford Public Library
 ---
 
 {% include feature/image.html objectid="MTHM_Library-Branch" width="75" %}
