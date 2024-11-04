@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/working-at-the-clemens-house/rosina-hay.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: working-at-the-clemens-house
 previous: working-at-the-clemens-house/catherine-leary
 next: working-at-the-clemens-house/elizabeth-wells
+carousel: Rosina Hay
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_Employees_Rosa" width="75" %}
