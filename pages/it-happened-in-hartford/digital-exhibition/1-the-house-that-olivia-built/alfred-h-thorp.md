@@ -7,6 +7,7 @@ credits: false
 parent: the-house-that-the-clemenses-built
 previous: the-house-that-the-clemenses-built/edward-tuckerman-potter
 next: tiffany-comes-to-town
+carousel: Alfred H. Thorp
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---

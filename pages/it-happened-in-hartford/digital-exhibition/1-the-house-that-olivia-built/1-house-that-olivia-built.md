@@ -7,6 +7,7 @@ credits: false
 parent: the-house-that-the-clemenses-built
 previous: digital-exhibition
 next: tiffany-comes-to-town
+carousel: Hartford House
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
