@@ -7,8 +7,9 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: bushnell-park
-previous:
-next:
+previous: bushnell-park
+next: leisure
+carousel: Ulysses Grant
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
