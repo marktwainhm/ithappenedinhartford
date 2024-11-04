@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/hartford-courant
 next: clemens-era-hartford/paige-compositor
+carousel: Ice
 ---
 
 {% include feature/image.html objectid="CHCM_1982-61-282" width="75" %}
