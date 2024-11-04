@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/allyn-house
 next: clemens-era-hartford/state-house-square
+carousel: brands
 ---
 
 {% include feature/image.html objectid="77-13-2_f1_20240805" width="75" %}
