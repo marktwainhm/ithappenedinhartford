@@ -6,6 +6,7 @@ parent: the-museum-era
 landing-page: the-museum-era
 previous: walter-k-schwinn
 next: your-twain-house-story
+Carousel: Edith Colgate Salsbury
 ---
 
 {% include feature/image.html objectid="MTHM_Memorial_Trustees-03" width="75" %}
