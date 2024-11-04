@@ -7,7 +7,7 @@ credits: false
 parent: the-house-that-the-clemenses-built
 previous: the-house-that-the-clemenses-built
 next: the-house-that-the-clemenses-built/alfred-h-thorp
-
+carousel: Edward Tuckerman Potter
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
