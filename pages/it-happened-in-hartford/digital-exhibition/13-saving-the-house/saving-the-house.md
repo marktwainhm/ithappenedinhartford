@@ -9,6 +9,8 @@ credits: false
 previous: post-clemens-era
 next: the-museum-era
 parent: saving-the-house
+carousel: The Mark Twain Memorial
+
 ---
 
 {% include feature/image.html objectid="MTHM_NoArt26_f" width="75" %}
