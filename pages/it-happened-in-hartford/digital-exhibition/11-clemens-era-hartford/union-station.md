@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/business
 next: clemens-era-hartford/american-publishing
+carousel: Hartford Union Station
 ---
 
 {% include feature/image.html objectid="CMCH_1994-249-0" width="75" %}
