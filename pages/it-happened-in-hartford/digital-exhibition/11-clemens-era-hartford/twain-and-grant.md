@@ -9,7 +9,7 @@ credits: false
 parent: bushnell-park
 previous: bushnell-park
 next: leisure
-carousel: Ulysses Grant
+carousel: Ulysses S. Grant
 ---
 
 {% include feature/image.html objectid="hpl_hhc_cp_a75" width="75" %}
