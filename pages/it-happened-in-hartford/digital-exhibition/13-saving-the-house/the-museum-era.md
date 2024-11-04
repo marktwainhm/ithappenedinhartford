@@ -6,6 +6,7 @@ parent: saving-the-house
 landing-page: saving-the-house
 previous: saving-the-house
 next: your-twain-house-story
+carousel: the mark twain house and museum
 ---
 
 {% include feature/image.html objectid="GROO_VisitorCenter_2011-02" %}
