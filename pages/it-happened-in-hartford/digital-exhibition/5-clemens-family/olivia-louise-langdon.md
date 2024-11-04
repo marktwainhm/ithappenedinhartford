@@ -7,7 +7,7 @@ credits: false
 parent: clemens-family
 previous: clemens-family/mark-twains-work
 next: clemens-family/langdon-clemens
-
+carousel: Olivia Louise Langdon
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
