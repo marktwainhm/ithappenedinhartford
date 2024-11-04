@@ -9,6 +9,7 @@ credits: false
 parent: post-clemens-era
 previous: post-clemens-era
 next: post-clemens-era/the-kingswood-school
+carousel: Richard M. Bissel
 ---
 
 {% include feature/image.html objectid="MTHM_Bissell-Marie" width="75" %}
