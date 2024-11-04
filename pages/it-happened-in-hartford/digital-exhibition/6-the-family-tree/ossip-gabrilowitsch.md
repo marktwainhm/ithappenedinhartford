@@ -4,11 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/the-family-tree/ossip-gabrilowitsch.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
 previous: the-family-tree/susan-langdon-crane
 next: the-family-tree/nina-gabrilowitsch
+carousel: Ossip Gabrilowitsch
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_OssipGabrilowitsch3" width="75" %}
