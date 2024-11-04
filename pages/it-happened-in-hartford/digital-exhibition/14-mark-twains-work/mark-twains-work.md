@@ -8,6 +8,7 @@ credits: false
 # Look in <i>includes/feature for options to easily add features to the page
 previous: clemens-family/samuel-clemens
 next: clemens-family/olivia-louise-langdon
+carousel: Mark Twain
 ---
 
 **Writing Habits**
