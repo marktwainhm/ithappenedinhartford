@@ -9,6 +9,7 @@ credits: false
 parent: visitors-on-parade
 previous: visitors-on-parade/bret-harte
 next: visitors-on-parade/joel-chandler-harris
+Carousel: Henry Stanley
 ---
 
 {% include feature/image.html objectid="NLW_4671166" width="75" %}
