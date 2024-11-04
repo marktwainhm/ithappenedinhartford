@@ -7,7 +7,7 @@ credits: false
 parent: the-family-tree
 previous: the-family-tree/john-marshall-clemens
 next: the-family-tree/olivia-lewis-langdon
-
+carousel: Jervis Langdon
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
