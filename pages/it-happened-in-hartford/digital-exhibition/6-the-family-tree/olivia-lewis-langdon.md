@@ -4,12 +4,12 @@ layout: exhibit
 permalink: /digital-exhibition/the-family-tree/olivia-lewis-langdon.html
 # include CollectionBuilder info at bottom
 credits: false
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 parent: the-family-tree
 previous: the-family-tree/jervis-langdon
 next: the-family-tree/susan-langdon-crane
-
+carousel: Olivia Lewis Langdon
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/image.html objectid="MTHM_OLL_2-1" width="75" %}
