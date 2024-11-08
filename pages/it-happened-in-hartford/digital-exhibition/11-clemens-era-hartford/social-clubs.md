@@ -9,7 +9,7 @@ credits: false
 parent: clemens-era-hartford
 previous: clemens-era-hartford/peddling-revolution
 next: clemens-era-hartford/churches
-carousel: social club
+carousel: Decorative Arts Socity; Saturday Morning Club; Monday Evening Club
 ---
 
 Social Clubs were a source of entertainment and status during the Gilded Age. The Clemenses were patrons and participants in many social clubs and engangments. Below are three often associated with the Clemenses.
