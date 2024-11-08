@@ -10,7 +10,7 @@ parent: business
 landing-page: business
 previous: union-station
 next: case-lockwood-brainard
-carousel: American Publishing Company
+carousel: American Publishing Company; Elisha Bliss
 ---
 
 {% include feature/image.html objectid="Courant_18740313" width="75" %}
