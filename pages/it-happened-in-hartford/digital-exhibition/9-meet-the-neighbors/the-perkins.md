@@ -9,6 +9,7 @@ credits: false
 parent: meet-the-neighbors
 previous: meet-the-neighbors/the-gillettes
 next: meet-the-neighbors/the-twichells
+carousel: Perkins
 ---
 
 {% include feature/image.html objectid="MTHM_NookFarm-02" width="75" %}
