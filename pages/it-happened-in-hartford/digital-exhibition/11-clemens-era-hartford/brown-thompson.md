@@ -10,7 +10,7 @@ parent: business
 landing-page: business
 previous: brown-and-gross-books
 next: hartford-courant
-carousel: clothing
+carousel: clothing; brown, thompson and company
 ---
 
 How do you get the clothes that you wear each day? Perhaps you wear hand-me-downs, or get them from a store—maybe you order clothing that comes to you from another place. Maybe you even make clothing yourself, cutting fabric and sewing it together. Today, clothing can come from many different places—and in the 19th century, things were not as different as you might think.
