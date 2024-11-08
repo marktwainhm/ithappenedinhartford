@@ -8,6 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 previous: the-family-tree
 next: working-at-the-clemens-house
+carousel: pets
 ---
 
 {% include feature/image.html objectid="MTHM_Clara-before-marriage5" width="75" %}
