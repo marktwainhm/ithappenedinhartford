@@ -9,7 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/fox-and-dow
 next: clemens-era-hartford/george-griffins-apartment
-carousel: Edwin P. Kellogg
+carousel: Edwin P. Kellogg; William Kellogg
 ---
 
 {% include feature/image.html objectid="CMCH_2002-109-21" width="75" %}
