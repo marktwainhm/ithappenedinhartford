@@ -9,7 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/hartford-ice-company
 next: clemens-era-hartford/leisure
-carousel: Paige Compositor
+carousel: Paige Compositor; James Paige
 ---
 
 {% include feature/image.html objectid="Compositor-drawing--622" width="75" %}
