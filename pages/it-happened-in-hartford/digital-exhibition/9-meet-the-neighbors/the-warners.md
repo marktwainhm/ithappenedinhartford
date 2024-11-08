@@ -7,7 +7,7 @@ credits: false
 parent: meet-the-neighbors
 previous: meet-the-neighbors
 next: meet-the-neighbors/the-hookers
-carousel: Charles Dudley Warner
+carousel: Warner
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
