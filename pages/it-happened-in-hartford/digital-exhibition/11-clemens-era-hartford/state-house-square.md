@@ -9,6 +9,7 @@ credits: false
 parent: business
 previous: clemens-era-hartford/case-and-rathburn
 next: clemens-era-hartford/fox-and-dow
+carousel: State House Square; Dwight Buell; Cincinnatus Taft
 ---
 
 {% include feature/image.html objectid="CMCH_2000-171-31" width="75" %}
