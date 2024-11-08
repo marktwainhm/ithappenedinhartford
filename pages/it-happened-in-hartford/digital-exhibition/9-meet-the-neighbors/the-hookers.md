@@ -9,6 +9,7 @@ credits: false
 parent: meet-the-neighbors
 previous: meet-the-neighbors/the-warners
 next: meet-the-neighbors/the-stowes
+carousel: Hooker
 ---
 
 {% include feature/image.html objectid="MTHM_HookerHouse-01" width="75" %}
