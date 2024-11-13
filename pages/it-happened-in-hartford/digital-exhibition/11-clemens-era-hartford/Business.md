@@ -1,5 +1,5 @@
 ---
-title: Hartford Businesses
+title: Hartford Business
 layout: exhibit
 permalink: /digital-exhibition/clemens-era-hartford/business.html
 # include CollectionBuilder info at bottom
