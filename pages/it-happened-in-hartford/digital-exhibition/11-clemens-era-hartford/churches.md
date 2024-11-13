@@ -1,7 +1,7 @@
 ---
 title: Churches
 layout: exhibit
-permalink: /digital-exhibition/clemens-era-hartford/talcott-street-church.html
+permalink: /digital-exhibition/clemens-era-hartford/churches.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
