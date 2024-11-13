@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 previous: business/case-lockwood-brainard
-next: business/case-and-rathburn
+next: case-and-rathburn
 carousel: Allyn House
 ---
 
