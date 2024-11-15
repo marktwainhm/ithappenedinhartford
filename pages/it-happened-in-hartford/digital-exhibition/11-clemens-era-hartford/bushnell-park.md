@@ -9,7 +9,7 @@ credits: false
 parent: leisure
 landing-page: leisure
 previous: leisure
-next: baseball
+next: leisure/baseball
 carousel: bushnell park
 ---
 
