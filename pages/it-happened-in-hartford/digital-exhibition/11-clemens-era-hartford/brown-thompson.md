@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 landing-page: business
-previous: brown-and-gross-books
-next: hartford-courant
+previous: brown-and-gross-booksellers
+next: clemens-era-hartford/hartford-courant
 carousel: clothing; brown, thompson and company
 ---
 
