@@ -21,8 +21,7 @@ Formal restoration of the house began in 1963, the same year the Mark Twain Hous
 
 <details close><summary>Friends of the Mark Twain House</summary>
 <span>
-  {% include feature/image.html objectid="MTHM_MemorialVisitors-37b" %}
-  <p>Fran Gordon met with 32 women on September 25, 1967 to formally organize what is now the Friends of the Mark Twain House & Museum. The group evolved after the president of the Board of Trustees added women to its membership in 1954. They were responsible for caring for museum collections, library cataloging and research, and giving tours of the house.</p>
+    <p>Fran Gordon met with 32 women on September 25, 1967 to formally organize what is now the Friends of the Mark Twain House & Museum. The group evolved after the president of the Board of Trustees added women to its membership in 1954. They were responsible for caring for museum collections, library cataloging and research, and giving tours of the house.</p>
 <p>The Friends began fundraising in 1954 when they assisted with the celebration of Twain’s birthday with the reading of his works by Governor Lodge. As their numbers grew, so did the events they developed and sponsored. The yearly financial contribution to the Mark Twain House began with a donation of $1,366 in 1970 after a fashion show. In 1975 member trips to locations Mark Twain wrote about became another source of revenue, and by 1976 the group’s contributions exceeded $19,000.</p>
 <p>The annual Holiday House Tour began in 1979 and continues to be an annual fundraising event. Private homes, the Mark Twain House, and sometimes public buildings are included in the tour.</p>
 <p>In 1995 Kay Hoffman and Marty Flanders organized an event that for many years functioned as a gala fundraiser for the Museum. It raised $40,000 that year. From 1999 through 2002 the Galas continued to raise over $100,000 annually for the operating expenses of the Mark Twain House.</p>
