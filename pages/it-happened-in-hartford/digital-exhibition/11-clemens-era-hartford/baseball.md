@@ -7,8 +7,8 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: leisure
-previous: leisure/bushnell-park
-next: leisure/peddling-revolution
+previous: clemens-era-hartford/bushnell-park
+next: clemens-era-hartford/peddling-revolution
 carousel: baseball
 ---
 
