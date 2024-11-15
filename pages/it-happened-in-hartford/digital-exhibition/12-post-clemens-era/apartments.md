@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: post-clemens-era
-previous: /digital-exhibition/post-clemens-era/the-kingswood-school-for-boys
+previous: post-clemens-era/the-kingswood-school-for-boys
 next: saving-the-house
 ---
 
