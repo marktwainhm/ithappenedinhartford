@@ -4,8 +4,8 @@ layout: exhibit
 permalink: /digital-exhibition/saving-the-house/edith-colgate-salsbury.html
 parent: the-museum-era
 landing-page: the-museum-era
-previous: walter-k-schwinn
-next: your-twain-house-story
+previous: saving-the-house/walter-k-schwinn
+next: /your-twain-house-story
 Carousel: Edith Colgate Salsbury
 ---
 
