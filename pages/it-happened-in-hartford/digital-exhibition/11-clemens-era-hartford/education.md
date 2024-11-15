@@ -9,7 +9,7 @@ credits: false
 parent: clemens-era-hartford
 landing-page: clemens-era-hartford
 previous: clemens-era-hartford/churches
-next: clemens-era-hartford/post-clemens-era
+next: post-clemens-era
 carousel: education
 ---
 
