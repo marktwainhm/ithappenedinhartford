@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 previous: post-clemens-era
-next: the-museum-era
+next: saving-the-house/museum-era
 parent: saving-the-house
 carousel: The Mark Twain Memorial
 
