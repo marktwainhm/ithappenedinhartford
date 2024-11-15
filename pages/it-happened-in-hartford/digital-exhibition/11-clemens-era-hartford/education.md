@@ -34,7 +34,7 @@ The two oldest daughters, Susy and Clara went on to attend Hartford Public High 
  <p>By the time the Clemenses moved to Hartford the “Asylum” was a major civic institution, having given its name to the former Lord’s Hill and to a major avenue leading west from the city. Many of the school’s teachers and administrators were members of Asylum Hill Congregational Church nearby, and Samuel Clemens would occasionally speak there with sign language interpretation.  Clemens’s friend Rev. Joseph Twichell was deeply involved in the Asylum’s work, and traveled to Washington, D.C. in 1888 to speak at the college for the deaf there, now known as Gallaudet University. </p>
 </span></details>
 
-<details close><summary>_The Chinese Educational Mission in Hartford, 1871-1881_</summary>
+<details close><summary>The Chinese Educational Mission in Hartford, 1871-1881</summary>
 <span>
   {% include feature/image.html objectid="CMCH-1979-46-1" width="75" %}
   <p>One evening in the 1870s Samuel Clemens sat down at the piano in the drawing room of his family’s Hartford house,  and with the help of Joseph Hawley, Civil War hero, former governor and future Senator, sang African American spirituals, known from his childhood and travels throughout the South, for the benefit of honored guests. These guests were teachers from the Chinese Educational Mission, the first experiment in overseas education by the leaders of China’s Qing dynasty, which brought 120 boys to New England to study in local schools and ultimately, they hoped, U.S. colleges.</p>
