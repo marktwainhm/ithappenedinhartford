@@ -78,9 +78,7 @@ layout: page
   <div class="card-body">
     {% if page.type contains "landing" %}
     <h4 class="card-title"><a href="{{ site.baseurl }}{{ grid.child }}">{{ grid.title }}</a></h4>
-    {% elsif page.business %}
-        <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}clemens-era-hartford{{ grid.child }}">{{ grid.title }}</a></h4>
-        {% else %}
+{% else %}
         <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.parent }}{{ grid.child }}">{{ grid.title }}</a></h4>
     
         {% endif %}

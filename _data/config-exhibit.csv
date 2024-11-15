@@ -1,4 +1,4 @@
-parent,exhibit,child,image,title
+parent,exhibit,child,image,title,subcategory
 it-happened-in-hartford,,it-happened-in-hartford,IHIH_Logo.jpg,It Happened In Hartford
 it-happened-in-hartford,,digital-exhibition,DigitalExhibitLogo.png,Digital Exhibition
 it-happened-in-hartford,,history-around-hartford,HartfordHistory_Logo.jpg,History Around Hartford
@@ -71,29 +71,29 @@ visitors-on-parade,digital-exhibition/,/george-washington-cable,MTHM_SLC_Friends
 visitors-on-parade,digital-exhibition/,/ulysses-s-grant,LOC_2002725252.jpg,Ulysses S. Grant
 clemens-era-hartford,digital-exhibition/,,CMCH_2000-171-51.jpg,Clemens' Era Hartford
 clemens-era-hartford,digital-exhibition/,/business,hpl_hhc_cp_gn_h216.jpg,Businesses
-clemens-era-hartford,digital-exhibition/,/leisure,CMCH_1982-80-61B.jpg,Leisure
-clemens-era-hartford,digital-exhibition/,/social-clubs,81-2-7.jpg,Social Clubs
-clemens-era-hartford,digital-exhibition/,/churches,Asylum Hill Congregational Church.jpg,Churches
-clemens-era-hartford,digital-exhibition/,/education,Hartford-Public-High-School-1883-1897-HPHS.jpg,Education
-clemens-era-hartford,digital-exhibition/,,hpl_hhc_cp_gn_h216.jpg,Businesses
-clemens-era-hartford,digital-exhibition/,/union-station,CMCH_1994-249-0.jpg,Business: Union Station
-clemens-era-hartford,digital-exhibition/,/american-publishing-company,MTHM_703-72_f_20240804.jpg,Business: American Publishing Company
-clemens-era-hartford,digital-exhibition/,/case-lockwood-and-brainard,CMCH_2000-174-7.jpg,Business: Case Lockwood and Brainard
-clemens-era-hartford,digital-exhibition/,/allyn-house,CMCH_2000-197-37.jpg,Business: Allyn House
-clemens-era-hartford,digital-exhibition/,/case-and-rathburn,77-18_f_20240805.JPG,Business: Case and Rathburn
-clemens-era-hartford,digital-exhibition/,/state-house-square,CMCH_2000-171-51.jpg,Business: State House Square
-clemens-era-hartford,digital-exhibition/,/fox-and-dow,hpl_hhc_cp_gn_h216.jpg,Business: Fox and Dow
-clemens-era-hartford,digital-exhibition/,/ep-and-wm-kellogg,CMCH_2002-109-21.jpg,Business: EP and Wm. Kellogg
-clemens-era-hartford,digital-exhibition/,/george-griffins-apartment,hpl_hhc_cp_gn_h355.jpg,Business: George Griffin's Apartment
-clemens-era-hartford,digital-exhibition/,/brown-and-gross-booksellers,MTHM_175.jpg,"Business: Brown and Gross, Booksellers"
-clemens-era-hartford,digital-exhibition/,/brown-thompson-and-co,1964-23_f.jpg,"Business: Brown, Thompson, and Co."
-clemens-era-hartford,digital-exhibition/,/hartford-courant,3885-81_f.JPG,Business: Hartford Courant
-clemens-era-hartford,digital-exhibition/,/hartford-ice-company,IceCutting-A511170.jpg,Business: Hartford Ice Company
-clemens-era-hartford,digital-exhibition/,/paige-compositor,Compositor-drawing--622.jpg,Business: Paige Compositor
-leisure,digital-exhibition/,,CMCH_1982-80-61B.jpg,Leisure
-leisure,digital-exhibition/,/bushnell-park,CMCH_1910-7-0.jpg,Bushnell Park
-leisure,digital-exhibition/,/baseball,Kingswood team copy,Baseball
-leisure,digital-exhibition/,/peddling-revolution,CMCH_1982-80-61B.jpg,Peddling Revolution
+clemens-era-hartford,digital-exhibition/,/leisure,CMCH_1982-80-61B.jpg,Leisure,leisure
+clemens-era-hartford,digital-exhibition/,/social-clubs,81-2-7.jpg,Social Clubs,leisure
+clemens-era-hartford,digital-exhibition/,/churches,Asylum Hill Congregational Church.jpg,Churches,leisure
+clemens-era-hartford,digital-exhibition/,/education,Hartford-Public-High-School-1883-1897-HPHS.jpg,Education,leisure
+clemens-era-hartford,digital-exhibition/,,hpl_hhc_cp_gn_h216.jpg,Businesses,business
+clemens-era-hartford,digital-exhibition/,/union-station,CMCH_1994-249-0.jpg,Union Station,business
+clemens-era-hartford,digital-exhibition/,/american-publishing-company,MTHM_703-72_f_20240804.jpg,American Publishing Company,business
+clemens-era-hartford,digital-exhibition/,/case-lockwood-and-brainard,CMCH_2000-174-7.jpg,Case Lockwood and Brainard,business
+clemens-era-hartford,digital-exhibition/,/allyn-house,CMCH_2000-197-37.jpg,Allyn House,business
+clemens-era-hartford,digital-exhibition/,/case-and-rathburn,77-18_f_20240805.JPG,Case and Rathburn,business
+clemens-era-hartford,digital-exhibition/,/state-house-square,CMCH_2000-171-51.jpg,State House Square,business
+clemens-era-hartford,digital-exhibition/,/fox-and-dow,hpl_hhc_cp_gn_h216.jpg,Fox and Dow,business
+clemens-era-hartford,digital-exhibition/,/ep-and-wm-kellogg,CMCH_2002-109-21.jpg,EP and Wm. Kellogg,business
+clemens-era-hartford,digital-exhibition/,/george-griffins-apartment,hpl_hhc_cp_gn_h355.jpg,George Griffin's Apartment,business
+clemens-era-hartford,digital-exhibition/,/brown-and-gross-booksellers,MTHM_175.jpg,"Brown and Gross, Booksellers",business
+clemens-era-hartford,digital-exhibition/,/brown-thompson-and-co,1964-23_f.jpg,"Brown, Thompson, and Co.",business
+clemens-era-hartford,digital-exhibition/,/hartford-courant,3885-81_f.JPG,Hartford Courant,business
+clemens-era-hartford,digital-exhibition/,/hartford-ice-company,IceCutting-A511170.jpg,Hartford Ice Company,business
+clemens-era-hartford,digital-exhibition/,/paige-compositor,Compositor-drawing--622.jpg,Paige Compositor,business
+clemens-era-hartford,digital-exhibition/,,CMCH_1982-80-61B.jpg,Leisure,leisure
+clemens-era-hartford,digital-exhibition/,/bushnell-park,CMCH_1910-7-0.jpg,Bushnell Park,leisure
+clemens-era-hartford,digital-exhibition/,/baseball,Kingswood team copy,Baseball,leisure
+clemens-era-hartford,digital-exhibition/,/peddling-revolution,CMCH_1982-80-61B.jpg,Peddling Revolution,leisure
 post-clemens-era,digital-exhibition/,,MT-Library-Branch.tif,Post Clemens Era
 post-clemens-era,digital-exhibition/,/the-bissells,MTHM_Bissell-Marie.jpg,The Bissells
 post-clemens-era,digital-exhibition/,/the-kingswood-school-for-boys,MT-Exteriors-1903-50--16.jpg,The Kingswood School for Boys
