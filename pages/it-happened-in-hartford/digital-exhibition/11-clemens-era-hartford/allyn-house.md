@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: business
-previous: clemens-era-hartford/case-lockwood-brainard
+previous: case-lockwood-brainard
 next: clemens-era-hartford/case-and-rathburn
 carousel: Allyn House
 ---
