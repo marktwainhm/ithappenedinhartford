@@ -8,8 +8,8 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 landing-page: business
-previous: george-griffins-apartment
-next: brown-thompson
+previous: clemens-era-hartford/george-griffins-apartment
+next: clemens-era-hartford/brown-and-gross-booksellers
 carousel: Brown and Gross Booksellers
 ---
 
