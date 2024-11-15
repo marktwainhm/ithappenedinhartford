@@ -5,7 +5,7 @@ permalink: /digital-exhibition/saving-the-house/katharine-seymore-day.html
 parent: saving-the-house
 landing-page: saving-the-house
 previous: saving-the-house
-next: the-library-moves-in
+next: saving-the-house/the-library-moves-in
 carousel: Katharine Seymore Day
 ---
 
