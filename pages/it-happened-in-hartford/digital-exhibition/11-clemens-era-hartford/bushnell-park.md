@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: leisure
 landing-page: leisure
-previous: leisure
+previous: clemens-era-hartford/leisure
 next: leisure/baseball
 carousel: bushnell park
 ---
