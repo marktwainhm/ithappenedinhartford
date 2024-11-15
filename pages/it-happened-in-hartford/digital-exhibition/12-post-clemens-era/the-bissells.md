@@ -1,7 +1,7 @@
 ---
 title: The Bissell’s
 layout: exhibit
-permalink: /digital-exhibition/the-bissells.html
+permalink: /digital-exhibition/post-clemens-era/the-bissells.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
