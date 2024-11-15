@@ -7,7 +7,7 @@ credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 parent: business
-previous: clemens-era-hartford/brown-thompson
+previous: clemens-era-hartford/brown-thompson-and-co
 next: clemens-era-hartford/hartford-ice-company
 carousel: Hartford Courant
 ---
