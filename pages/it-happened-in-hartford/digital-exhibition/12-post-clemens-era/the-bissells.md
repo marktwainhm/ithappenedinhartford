@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: post-clemens-era
 previous: /post-clemens-era
-next: /post-clemens-era/the-kingswood-school
+next: /digital-exhibition/post-clemens-era/the-kingswood-school-for-boys
 carousel: Bissell
 ---
 
