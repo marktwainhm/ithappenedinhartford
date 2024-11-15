@@ -19,8 +19,10 @@ layout: page
     <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/meet-the-neighbors">Meet the Neighbors</a>
     <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/visitors-on-parade">Visitors on Parade</a>
     <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/clemens-era-hartford">Clemens' Era Hartford</a>
+    <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/post-clemens-era">Post-Clemens Era</a>
     <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/saving-the-house">Saving the House</a>
-    <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/mark-twains-work">Mark Twain's Work</a>
+    <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/saving-the-house/museum-era">Museum Era</a>
+    <a class="dropdown-item" href="{{ site.baseurl }}/digital-exhibition/clemens-family/mark-twains-work.html">Mark Twain's Work</a>
     <a class="dropdown-item" href="{{ site.baseurl }}/history-around-hartford">History Around Hartford</a>
     <a class="dropdown-item" href="{{ site.baseurl }}/your-twain-house-story">Your Twain House Story</a>
   </div>
@@ -42,6 +44,15 @@ layout: page
             {%- elsif page.title == "The House That The Clemenses Built" -%}
             <a href="{{ page.previous | prepend: "/" }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
             <a href="{{ page.next | prepend: "/digital-exhibition/" }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+
+            {%- elsif page.title == "Museum Era" -%}
+            <a href="{{ page.previous | prepend: "/" }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+
+            {%- elsif page.title == "Edith Colgate Salsbury" -%}
+            <a href="{{ page.previous | prepend: "/" }}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
+            <a href="{{ page.next }}" id="next-button" class="next btn btn-lg btn-secondary">&raquo;</a>
+
 
             {% else %}
             <a href="{{ page.previous | prepend: "/digital-exhibition/"}}" id="back-button" class="previous btn btn-lg btn-secondary">&laquo;</a>
@@ -67,9 +78,12 @@ layout: page
   <div class="card-body">
     {% if page.type contains "landing" %}
     <h4 class="card-title"><a href="{{ site.baseurl }}{{ grid.child }}">{{ grid.title }}</a></h4>
-    {% else %}
+    {% elsif page.business %}
+        <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}clemens-era-hartford{{ grid.child }}">{{ grid.title }}</a></h4>
+        {% else %}
         <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.parent }}{{ grid.child }}">{{ grid.title }}</a></h4>
-    {% endif %}
+    
+        {% endif %}
   </div>
 </div>
     </article>

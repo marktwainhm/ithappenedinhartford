@@ -2,10 +2,8 @@
 title: Museum Era
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/museum-era.html
-parent: saving-the-house
-landing-page: saving-the-house
 previous: saving-the-house
-next: /your-twain-house-story
+next: your-twain-house-story
 carousel: the mark twain house and museum
 ---
 
