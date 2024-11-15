@@ -9,7 +9,7 @@ credits: false
 parent: business
 landing-page: business
 previous: clemens-era-hartford/ep-and-wm-kellogg
-next: clemens-era-hartford/brown-thompson
+next: clemens-era-hartford/brown-thompson-and-co
 ---
 
 If you were to go to 132 Wells Street today you’d see a high-rise building containing luxury apartments. In 1874, we would have seen a boarding house where George Griffin and his first wife Rhoda lived. In the 1870s Hartford was a booming industrial city with a population of 37,743, which more than doubled to 79,850 by 1900. The majority of this population were working class people, like George and Rhoda Griffin, who manned the factories, stores, and homes of Hartford and the surrounding area. Many of those workers lived in boarding houses–shared houses with separate rooms for families and individuals–often with a housekeeper and cook to provide basic services for those who worked long hours in businesses and homes around the city.
