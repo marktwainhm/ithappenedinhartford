@@ -4,8 +4,8 @@ layout: exhibit
 permalink: /digital-exhibition/saving-the-house/walter-k-schwinn.html
 parent: museum-era
 landing-page: museum-era
-previous: museum-era
-next: edith-colgate-salsbury
+previous: saving-the-house/museum-era
+next: saving-the-house/edith-colgate-salsbury
 Carousel: Walter Schwinn
 ---
 
