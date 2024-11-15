@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 parent: business
 landing-page: business
-previous: union-station
+previous: clemens-era-hartford/union-station
 next: case-lockwood-brainard
 carousel: American Publishing Company; Elisha Bliss
 ---
