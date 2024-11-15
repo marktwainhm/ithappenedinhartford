@@ -2,9 +2,9 @@
 title: Walter K. Schwinn
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/walter-k-schwinn.html
-parent: the-museum-era
-landing-page: the-museum-era
-previous: the-museum-era
+parent: museum-era
+landing-page: museum-era
+previous: museum-era
 next: edith-colgate-salsbury
 Carousel: Walter Schwinn
 ---
