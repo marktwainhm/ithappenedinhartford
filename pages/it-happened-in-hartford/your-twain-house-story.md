@@ -1,5 +1,5 @@
 ---
-title: About the Mark Twain House and Museum
+title: YOUR Twain House Story
 layout: grid-page
 permalink: /your-twain-house-story.html
 # include CollectionBuilder info at bottom
