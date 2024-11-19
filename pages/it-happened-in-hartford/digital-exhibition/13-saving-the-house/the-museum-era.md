@@ -40,4 +40,4 @@ Formal restoration of the house began in 1963, the same year the Mark Twain Hous
  {% include feature/image.html objectid="GROO_MTH_Exterior_2023-01" %}
   <p>In 1999, the museum began a capital campaign to grow the campus. By the early-2000s the Mark Twain House’s staff, visitation, and collection had outgrown the two historic buildings (the house itself and the adjacent carriage house) and the organization had been renamed The Mark Twain House & Museum. </p>
   <p>Today The Mark Twain House & Museum celebrates the life and legacy of Samuel L. Clemens as one of our nation’s defining cultural figures. The Museum serves the public by preserving the historic Mark Twain House, and by offering numerous educational and cultural programs for students, teachers, and the public. The Museum's collection contains approximately 20,000 items, with our most important object being the historic home of author Mark Twain, which has been meticulously restored over a period of many years and is designated a National Historic Landmark.</p>
-</span></details
+</span></details>
