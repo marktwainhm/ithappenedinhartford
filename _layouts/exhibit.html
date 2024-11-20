@@ -71,22 +71,27 @@ layout: page
 <h3> Visit related pages for {{ page.title }}</h3>
 <br >
 <br >
-  {%- for grid in site.data.config-exhibit -%}
-  {% if grid.parent == page.parent %}
+{%- for grid in site.data.config-exhibit -%}
+{% if grid.parent == page.parent %}
 <div class="card bg-light mb-3" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">
-  <div class="card-body">
-    {% if page.type contains "landing" %}
-    <h4 class="card-title"><a href="{{ site.baseurl }}{{ grid.child }}">{{ grid.title }}</a></h4>
-{% else %}
-        <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.parent }}{{ grid.child }}">{{ grid.title }}</a></h4>
-    
-        {% endif %}
-  </div>
+<img class="card-img-top" src="{{ site.baseurl }}/objects/{{ grid.image }}" alt="image for {{ grid.title }}">
+<div class="card-body">
+  {% if page.type contains "landing" %}
+  <h4 class="card-title"><a href="{{ site.baseurl }}{{ grid.child }}">{{ grid.title }}</a></h4>
+  {% elsif grid.parent == "business" %}
+  <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}clemens-era-hartford/business{{ grid.child }}">{{ grid.title }}</a></h4>
+  {% elsif grid.parent == "leisure" %}
+  <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}clemens-era-hartford/leisure{{ grid.child }}">{{ grid.title }}</a></h4>
+  {% elsif grid.parent == "mark-twains-work" %}
+  <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.child }}">{{ grid.title }}</a></h4>
+  {% else %}
+  <h4 class="card-title"><a href="{{ site.baseurl }}/{{ grid.exhibit }}{{ grid.parent }}{{ grid.child }}">{{ grid.title }}</a></h4>
+  {% endif %}
 </div>
-    </article>
-    {% endif %}
-  {% endfor %}
+</div>
+  </article>
+  {% endif %}
+{% endfor %}
 </div>
 
 <script type="text/javascript" src="Scripts/jquery-2.1.1.min.js"></script>
