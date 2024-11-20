@@ -28,8 +28,13 @@
 {%- assign carousel-items = carousel-items | where_exp: 'item','item.parentid == nil' -%}
 {% endif %}
 
-{% if page.field %}
-{%- assign carousel-items = carousel-items | where_exp: 'item', 'item.subject == page.field' or 'item.people == page.field' -%}
+{% if page.carousel %}
+{%- assign carousel-people = carousel-items | where_exp: 'item', 'item.people contains page.carousel' -%}
+{%- assign carousel-subject = carousel-items | where_exp: 'item', 'item.subject contains page.carousel' -%}
+{%- assign carousel-title = carousel-items | where_exp: 'item', 'item.title contains page.carousel' -%}
+{%- assign carousel-location = carousel-items | where_exp: 'item', 'item.title contains page.location' -%}
+{% assign carousel-items = carousel-people | concat: carousel-subject | concat: carousel-title | concat: carousel-location %}
+
 {% endif %}
 
 {%- assign carousel-max = include.max | default: 9 -%}
