@@ -5,7 +5,7 @@ permalink: /digital-exhibition/working-at-the-clemens-house/daniel-molloy.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: working-at-the-clemens-house
-previous: working-at-the-clemens-house/elizabeth-wells
+previous: working-at-the-clemens-house/elizabeth-wills
 next: working-at-the-clemens-house/john-oneil
 carousel: Daniel Molloy
 # Edit the markdown on in this file to describe your collection
