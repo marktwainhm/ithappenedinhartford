@@ -1,7 +1,7 @@
 ---
-title: Elizabeth “Lizzie” Wells (c.1845-n.d.)
+title: Elizabeth “Lizzie” Wills (c.1845-n.d.)
 layout: exhibit
-permalink: /digital-exhibition/working-at-the-clemens-house/elizabeth-wells.html
+permalink: /digital-exhibition/working-at-the-clemens-house/elizabeth-wills.html
 # include CollectionBuilder info at bottom
 credits: false
 parent: working-at-the-clemens-house
@@ -13,7 +13,7 @@ carousel: Elizabeth Wells
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-Elizabeth “Lizzie” Wells was one of many housemaids who worked for the Clemenses in their Hartford home. Others included Ellen, Harriet, Lillian, Mary, Kate, and Josie. Known primarily by their first names, the housemaids who worked in the Clemens home were responsible for “above the stairs” duties, including cleaning and tidying the main rooms of the house; lighting and maintaining the fires, fireplaces, and gas fixtures; and preparing guest rooms for visitors.  
+Elizabeth “Lizzie” Wills was one of many housemaids who worked for the Clemenses in their Hartford home. Others included Ellen, Harriet, Lillian, Mary, Kate, and Josie. Known primarily by their first names, the housemaids who worked in the Clemens home were responsible for “above the stairs” duties, including cleaning and tidying the main rooms of the house; lighting and maintaining the fires, fireplaces, and gas fixtures; and preparing guest rooms for visitors.  
 
 Most of the Clemens maids “lived in,” meaning that they had rooms on the second floor above the kitchen wing.  In addition to their pay, which Clemens once recorded in a notebook as $150 a year, the maids were provided a room furnished with a bed, bureau, wash stand, and a coal stove for heating.  
 
@@ -26,4 +26,4 @@ Interviewing the staff, he realized there had been no burglar – just incursion
 For Clemens, the incident was the start of a good story of how he convinced Taylor to marry Wills, which he fictionalized for a humorous short story called “Wapping Alice.” He returned to the story several times, changing the characters until finally, in 1907, he wrote a factual account of the story.  The story went unpublished until the Mark Twain Papers published it in the 1980s.
 {% include feature/image.html objectid="MTHM_5890-2024" width="25" %}
 
-There are no known photographs of Elizabeth Wells; our search for one continues.
+There are no known photographs of Elizabeth Wills; our search for one continues.
