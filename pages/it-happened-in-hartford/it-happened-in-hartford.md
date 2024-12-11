@@ -32,3 +32,5 @@ The Clemenses would spend 17 years in Hartford. Near the end of his life, lookin
 **_It Happened In Hartford: 150 Years of the Mark Twain House_ is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.**
 
 {% include feature/image.html objectid="/objects/logos for twainsworld.png" width="50" alt="The Hartford Logo" %}
+
+The exhibition was curated by Jodi C. DeBruyne and Jessica Neuwirth and made possible thanks to help from Emily Esten, Hillel O'Leary, Valerie Haggerty-Silva, Mallory Howard, Steve Courtney, Erin Bartram, Ella Walsh, and Emma Gerstein.
