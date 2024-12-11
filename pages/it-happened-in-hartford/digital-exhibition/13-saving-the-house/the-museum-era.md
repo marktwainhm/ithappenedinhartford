@@ -3,7 +3,7 @@ title: Museum Era
 layout: exhibit
 permalink: /digital-exhibition/saving-the-house/museum-era.html
 previous: saving-the-house
-next: your-twain-house-story
+next: history-around-hartford
 carousel: the mark twain house and museum
 ---
 
