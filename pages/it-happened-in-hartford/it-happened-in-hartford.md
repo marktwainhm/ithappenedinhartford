@@ -33,4 +33,4 @@ The Clemenses would spend 17 years in Hartford. Near the end of his life, lookin
 
 {% include feature/image.html objectid="/objects/logos for twainsworld.png" width="50" alt="The Hartford Logo" %}
 
-The exhibition was curated by Jodi C. DeBruyne and Jessica Neuwirth and made possible thanks to help from Emily Esten, Hillel O'Leary, Valerie Haggerty-Silva, Mallory Howard, Steve Courtney, Erin Bartram, Ella Walsh, and Emma Gerstein.
+The exhibition was curated by Jodi C. DeBruyne and Jessica Neuwirth and made possible thanks to help from Emily Esten, Hillel O'Leary, Valerie Haggerty-Silva, Mallory Howard, Steve Courtney, Erin Bartram, Ella Walsh, Emma Gerstein, and Chris Mooney.
