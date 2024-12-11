@@ -14,3 +14,5 @@ These twelve historical markers are also strategically placed around the City of
 **_It Happened In Hartford: 150 Years of the Mark Twain House_ is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.**
 
 {% include feature/image.html objectid="/objects/logos for twainsworld.png" width="50" alt="The Hartford Logo" %}
+
+The exhibition was curated by Jodi C. DeBruyne and Jessica Neuwirth and made possible thanks to help from Hillel O'Leary, Valerie Haggerty-Silva, Mallory Howard, Steve Courtney, Erin Bartram, Ella Walsh, Emma Gerstein, Kathleen DeBruyne, Jeffery DeBruyne, Daniel Forlenzo, Chris Mooney, and Brendan Baba. 
