@@ -11,7 +11,7 @@ We invite you to explore downtown Hartford and Bushnell Park through the lens of
 
 These twelve historical markers are also strategically placed around the City of Hartford’s Urban Forest. The Forestry Division maintains and improves the urban forest through "out of the box" approaches that will foster ownership by Hartford residents as well as maximize the resources for our green infrastructure. The common name and species of each of the urban forest trees that host our signs are identified. 
 
-{% include feature/image.html objectid="IHIH Map" width="100" %}
+{% include feature/image.html objectid="IHIH Map" width="75" %}
 
 Download a copy of our <em><strong><a href="https://marktwainhouse.org/wp-content/uploads/2024/12/IHIHMapPDFsm.pdf">Twain In Hartford History Trail map</a></strong></em> to take you through downtown Hartford and Bushnell Park
 
