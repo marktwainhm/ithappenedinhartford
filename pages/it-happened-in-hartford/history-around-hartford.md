@@ -13,6 +13,7 @@ These twelve historical markers are also strategically placed around the City of
 
 {% include feature/image.html objectid="IHIH Map" width="100" %}
 
+Download a copy of our <em><strong><a href="https://marktwainhouse.org/wp-content/uploads/2024/12/IHIHMapPDFsm.pdf">Twain In Hartford History Trail map</a></strong></em> to take you through downtown Hartford and Bushnell Park
 
 **_It Happened In Hartford: 150 Years of the Mark Twain House_ is proudly sponsored by The Hartford and supported by the Bushnell Conservancy and the City of Hartford Forestry Department.**
 
